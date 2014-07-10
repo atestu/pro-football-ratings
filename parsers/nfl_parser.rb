@@ -19,6 +19,21 @@ class Parser
     puts page
   end
 
+  def get_rows
+    page = Nokogiri::HTML(RestClient.get("http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/1"))
+    rows = page.css('table#oddsTable tr.row1, table#oddsTable tr.row2')
+    rows[0].children[3].attributes["align"].value # => "center"
+
+    rows[0].children.each do |c|
+      if c.attributes["align"] && c.attributes["align"].value == "center"
+        if c.attributes["width"].value == "60"
+          p c.children[0].children[0].attributes["src"].value.split('/').last.split('.').first
+          p "******"
+        end
+      end
+    end
+  end
+
   def kanye
     puts "I feel like I'm too busy writing history to read it."
   end
@@ -26,6 +41,7 @@ class Parser
 end
 
 # http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/1
+# http://espn.go.com/nfl/schedule/_/year/2013/seasontype/3
 
 # 1 Arizona Cardinals ARI
 # 2 Baltimore Ravens BAL
