@@ -19,16 +19,29 @@ class Parser
     puts page
   end
 
-  def get_rows
-    page = Nokogiri::HTML(RestClient.get("http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/1"))
-    rows = page.css('table#oddsTable tr.row1, table#oddsTable tr.row2')
-    rows[0].children[3].attributes["align"].value # => "center"
+  @@experts = [ "Pete Prisco", "Jason La Canfora", "Will Brinson", "Josh Katzowitz", "Ryan Wilson", "John Breech", "Dave Richard", "Jamey Eisenberg", "Prediction Machine" ]
 
-    rows[0].children.each do |c|
+  def get_all_predictions(week)
+    page = Nokogiri::HTML(RestClient.get("http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/#{week}"))
+    rows = page.css('table#oddsTable tr.row1, table#oddsTable tr.row2')
+    # rows[0].children[3].attributes["align"].value # => "center"
+
+    (0..rows.size - 1).each do |i|
+      puts "##################"
+      puts "Match #{i + 1}:"
+      puts "##################"
+      get_predictions(rows, i)
+      puts "\n"
+    end
+  end
+
+  def get_predictions(rows, number)
+    index = 0
+    rows[number].children.each do |c|
       if c.attributes["align"] && c.attributes["align"].value == "center"
         if c.attributes["width"].value == "60"
-          p c.children[0].children[0].attributes["src"].value.split('/').last.split('.').first
-          p "******"
+          puts "#{@@experts[index]}: " + c.children[0].children[0].attributes["src"].value.split('/').last.split('.').first
+          index += 1
         end
       end
     end
