@@ -8,7 +8,8 @@
       "home_team": "LAC",
       "away_score": 10,
       "home_score": 37,
-      "winner": "LAC"
+      "winner": "LAC",
+      "spread_line": 3.0
     },
     {
       "game_id": "2025_08_MIA_ATL",
@@ -16,7 +17,8 @@
       "home_team": "ATL",
       "away_score": 34,
       "home_score": 10,
-      "winner": "MIA"
+      "winner": "MIA",
+      "spread_line": 7.0
     },
     {
       "game_id": "2025_08_CHI_BAL",
@@ -24,7 +26,8 @@
       "home_team": "BAL",
       "away_score": 16,
       "home_score": 30,
-      "winner": "BAL"
+      "winner": "BAL",
+      "spread_line": 2.5
     },
     {
       "game_id": "2025_08_BUF_CAR",
@@ -32,7 +35,8 @@
       "home_team": "CAR",
       "away_score": 40,
       "home_score": 9,
-      "winner": "BUF"
+      "winner": "BUF",
+      "spread_line": -7.0
     },
     {
       "game_id": "2025_08_NYJ_CIN",
@@ -40,7 +44,8 @@
       "home_team": "CIN",
       "away_score": 39,
       "home_score": 38,
-      "winner": "NYJ"
+      "winner": "NYJ",
+      "spread_line": 5.5
     },
     {
       "game_id": "2025_08_SF_HOU",
@@ -48,7 +53,8 @@
       "home_team": "HOU",
       "away_score": 15,
       "home_score": 26,
-      "winner": "HOU"
+      "winner": "HOU",
+      "spread_line": 2.5
     },
     {
       "game_id": "2025_08_CLE_NE",
@@ -56,7 +62,8 @@
       "home_team": "NE",
       "away_score": 13,
       "home_score": 32,
-      "winner": "NE"
+      "winner": "NE",
+      "spread_line": 7.0
     },
     {
       "game_id": "2025_08_NYG_PHI",
@@ -64,7 +71,8 @@
       "home_team": "PHI",
       "away_score": 20,
       "home_score": 38,
-      "winner": "PHI"
+      "winner": "PHI",
+      "spread_line": 7.0
     },
     {
       "game_id": "2025_08_TB_NO",
@@ -72,7 +80,8 @@
       "home_team": "NO",
       "away_score": 23,
       "home_score": 3,
-      "winner": "TB"
+      "winner": "TB",
+      "spread_line": -4.5
     },
     {
       "game_id": "2025_08_DAL_DEN",
@@ -80,7 +89,8 @@
       "home_team": "DEN",
       "away_score": 24,
       "home_score": 44,
-      "winner": "DEN"
+      "winner": "DEN",
+      "spread_line": 3.5
     },
     {
       "game_id": "2025_08_TEN_IND",
@@ -88,7 +98,8 @@
       "home_team": "IND",
       "away_score": 14,
       "home_score": 38,
-      "winner": "IND"
+      "winner": "IND",
+      "spread_line": 15.5
     },
     {
       "game_id": "2025_08_GB_PIT",
@@ -96,7 +107,8 @@
       "home_team": "PIT",
       "away_score": 35,
       "home_score": 25,
-      "winner": "GB"
+      "winner": "GB",
+      "spread_line": -3.0
     },
     {
       "game_id": "2025_08_WAS_KC",
@@ -104,7 +116,8 @@
       "home_team": "KC",
       "away_score": 7,
       "home_score": 28,
-      "winner": "KC"
+      "winner": "KC",
+      "spread_line": 10.5
     }
   ]
 }

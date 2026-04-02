@@ -51,26 +51,49 @@ def find_scored_weeks(season: int) -> list[int]:
 def score_week(picks: dict, results: dict) -> dict[str, dict]:
     """
     Score one week's picks against results.
-    Returns {expert_slug: {"correct": int, "total": int}}.
+    Returns {expert_slug: {"correct": int, "total": int,
+                           "ats_correct": float, "ats_total": int}}.
     """
-    winners = {g["game_id"]: g["winner"] for g in results["games"]}
+    games = {g["game_id"]: g for g in results["games"]}
 
     scores: dict[str, dict] = {}
     for pick in picks["picks"]:
-        winner = winners.get(pick["game_id"])
-        if not winner:
+        game = games.get(pick["game_id"])
+        if not game:
             print(f"  Warning: no result for game {pick['game_id']}")
             continue
-        if winner == "TIE":
+        if game["winner"] == "TIE":
             continue
 
         slug = pick["expert"]
         if slug not in scores:
-            scores[slug] = {"correct": 0, "total": 0}
+            scores[slug] = {"correct": 0, "total": 0, "ats_correct": 0.0, "ats_total": 0}
 
         scores[slug]["total"] += 1
-        if pick["pick"] == winner:
+        if pick["pick"] == game["winner"]:
             scores[slug]["correct"] += 1
+
+        # ATS scoring — skip if spread data is missing (R2, R9)
+        spread_line = game.get("spread_line")
+        if spread_line is None:
+            continue
+
+        scores[slug]["ats_total"] += 1
+        picked = pick["pick"]
+        adjusted_away = game["away_score"] + spread_line
+
+        if picked == game["away_team"]:
+            # Away team covers when away_score + spread_line > home_score
+            if adjusted_away > game["home_score"]:
+                scores[slug]["ats_correct"] += 1
+            elif adjusted_away == game["home_score"]:
+                scores[slug]["ats_correct"] += 0.5  # push
+        else:
+            # Home team covers when home_score > away_score + spread_line
+            if game["home_score"] > adjusted_away:
+                scores[slug]["ats_correct"] += 1
+            elif game["home_score"] == adjusted_away:
+                scores[slug]["ats_correct"] += 0.5  # push
 
     return scores
 
@@ -89,14 +112,22 @@ def build_leaderboard(
     for week, scores in sorted(weekly_scores.items()):
         for slug, data in scores.items():
             if slug not in cumulative:
-                cumulative[slug] = {"correct": 0, "total": 0, "weekly": []}
+                cumulative[slug] = {
+                    "correct": 0, "total": 0,
+                    "ats_correct": 0.0, "ats_total": 0,
+                    "weekly": [],
+                }
             entry = cumulative[slug]
             entry["correct"] += data["correct"]
             entry["total"] += data["total"]
+            entry["ats_correct"] += data.get("ats_correct", 0.0)
+            entry["ats_total"] += data.get("ats_total", 0)
             entry["weekly"].append({
                 "week": week,
                 "correct": data["correct"],
                 "total": data["total"],
+                "ats_correct": data.get("ats_correct", 0.0),
+                "ats_total": data.get("ats_total", 0),
             })
 
     # Build sorted list
@@ -104,6 +135,7 @@ def build_leaderboard(
     for slug, data in cumulative.items():
         info = expert_info.get(slug, {})
         accuracy = round(data["correct"] / data["total"], 3) if data["total"] else 0
+        ats_accuracy = round(data["ats_correct"] / data["ats_total"], 3) if data["ats_total"] else 0
         experts.append({
             "expert": slug,
             "expert_name": info.get("expert_name", slug),
@@ -111,6 +143,9 @@ def build_leaderboard(
             "correct": data["correct"],
             "total": data["total"],
             "accuracy": accuracy,
+            "ats_correct": data["ats_correct"],
+            "ats_total": data["ats_total"],
+            "ats_accuracy": ats_accuracy,
             "weekly": data["weekly"],
         })
 

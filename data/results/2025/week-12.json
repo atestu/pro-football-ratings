@@ -8,7 +8,8 @@
       "home_team": "HOU",
       "away_score": 19,
       "home_score": 23,
-      "winner": "HOU"
+      "winner": "HOU",
+      "spread_line": -5.5
     },
     {
       "game_id": "2025_12_NYJ_BAL",
@@ -16,7 +17,8 @@
       "home_team": "BAL",
       "away_score": 10,
       "home_score": 23,
-      "winner": "BAL"
+      "winner": "BAL",
+      "spread_line": 14.0
     },
     {
       "game_id": "2025_12_PIT_CHI",
@@ -24,7 +26,8 @@
       "home_team": "CHI",
       "away_score": 28,
       "home_score": 31,
-      "winner": "CHI"
+      "winner": "CHI",
+      "spread_line": 3.0
     },
     {
       "game_id": "2025_12_NE_CIN",
@@ -32,7 +35,8 @@
       "home_team": "CIN",
       "away_score": 26,
       "home_score": 20,
-      "winner": "NE"
+      "winner": "NE",
+      "spread_line": -7.5
     },
     {
       "game_id": "2025_12_NYG_DET",
@@ -40,7 +44,8 @@
       "home_team": "DET",
       "away_score": 27,
       "home_score": 34,
-      "winner": "DET"
+      "winner": "DET",
+      "spread_line": 14.0
     },
     {
       "game_id": "2025_12_MIN_GB",
@@ -48,7 +53,8 @@
       "home_team": "GB",
       "away_score": 6,
       "home_score": 23,
-      "winner": "GB"
+      "winner": "GB",
+      "spread_line": 6.5
     },
     {
       "game_id": "2025_12_IND_KC",
@@ -56,7 +62,8 @@
       "home_team": "KC",
       "away_score": 20,
       "home_score": 23,
-      "winner": "KC"
+      "winner": "KC",
+      "spread_line": 3.5
     },
     {
       "game_id": "2025_12_SEA_TEN",
@@ -64,7 +71,8 @@
       "home_team": "TEN",
       "away_score": 30,
       "home_score": 24,
-      "winner": "SEA"
+      "winner": "SEA",
+      "spread_line": -12.5
     },
     {
       "game_id": "2025_12_JAX_ARI",
@@ -72,7 +80,8 @@
       "home_team": "ARI",
       "away_score": 27,
       "home_score": 24,
-      "winner": "JAX"
+      "winner": "JAX",
+      "spread_line": -2.5
     },
     {
       "game_id": "2025_12_CLE_LV",
@@ -80,7 +89,8 @@
       "home_team": "LV",
       "away_score": 24,
       "home_score": 10,
-      "winner": "CLE"
+      "winner": "CLE",
+      "spread_line": 3.0
     },
     {
       "game_id": "2025_12_PHI_DAL",
@@ -88,7 +98,8 @@
       "home_team": "DAL",
       "away_score": 21,
       "home_score": 24,
-      "winner": "DAL"
+      "winner": "DAL",
+      "spread_line": -3.0
     },
     {
       "game_id": "2025_12_ATL_NO",
@@ -96,7 +107,8 @@
       "home_team": "NO",
       "away_score": 24,
       "home_score": 10,
-      "winner": "ATL"
+      "winner": "ATL",
+      "spread_line": 1.5
     },
     {
       "game_id": "2025_12_TB_LA",
@@ -104,7 +116,8 @@
       "home_team": "LA",
       "away_score": 7,
       "home_score": 34,
-      "winner": "LA"
+      "winner": "LA",
+      "spread_line": 7.0
     },
     {
       "game_id": "2025_12_CAR_SF",
@@ -112,7 +125,8 @@
       "home_team": "SF",
       "away_score": 9,
       "home_score": 20,
-      "winner": "SF"
+      "winner": "SF",
+      "spread_line": 7.5
     }
   ]
 }

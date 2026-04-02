@@ -8,7 +8,8 @@
       "home_team": "LAC",
       "away_score": 27,
       "home_score": 34,
-      "winner": "LAC"
+      "winner": "LAC",
+      "spread_line": 3.0
     },
     {
       "game_id": "2024_16_HOU_KC",
@@ -16,7 +17,8 @@
       "home_team": "KC",
       "away_score": 19,
       "home_score": 27,
-      "winner": "KC"
+      "winner": "KC",
+      "spread_line": 3.5
     },
     {
       "game_id": "2024_16_PIT_BAL",
@@ -24,7 +26,8 @@
       "home_team": "BAL",
       "away_score": 17,
       "home_score": 34,
-      "winner": "BAL"
+      "winner": "BAL",
+      "spread_line": 7.0
     },
     {
       "game_id": "2024_16_NYG_ATL",
@@ -32,7 +35,8 @@
       "home_team": "ATL",
       "away_score": 7,
       "home_score": 34,
-      "winner": "ATL"
+      "winner": "ATL",
+      "spread_line": 9.5
     },
     {
       "game_id": "2024_16_ARI_CAR",
@@ -40,7 +44,8 @@
       "home_team": "CAR",
       "away_score": 30,
       "home_score": 36,
-      "winner": "CAR"
+      "winner": "CAR",
+      "spread_line": -5.5
     },
     {
       "game_id": "2024_16_DET_CHI",
@@ -48,7 +53,8 @@
       "home_team": "CHI",
       "away_score": 34,
       "home_score": 17,
-      "winner": "DET"
+      "winner": "DET",
+      "spread_line": -7.0
     },
     {
       "game_id": "2024_16_CLE_CIN",
@@ -56,7 +62,8 @@
       "home_team": "CIN",
       "away_score": 6,
       "home_score": 24,
-      "winner": "CIN"
+      "winner": "CIN",
+      "spread_line": 10.0
     },
     {
       "game_id": "2024_16_TEN_IND",
@@ -64,7 +71,8 @@
       "home_team": "IND",
       "away_score": 30,
       "home_score": 38,
-      "winner": "IND"
+      "winner": "IND",
+      "spread_line": 4.0
     },
     {
       "game_id": "2024_16_LA_NYJ",
@@ -72,7 +80,8 @@
       "home_team": "NYJ",
       "away_score": 19,
       "home_score": 9,
-      "winner": "LA"
+      "winner": "LA",
+      "spread_line": -3.0
     },
     {
       "game_id": "2024_16_PHI_WAS",
@@ -80,7 +89,8 @@
       "home_team": "WAS",
       "away_score": 33,
       "home_score": 36,
-      "winner": "WAS"
+      "winner": "WAS",
+      "spread_line": -4.0
     },
     {
       "game_id": "2024_16_MIN_SEA",
@@ -88,7 +98,8 @@
       "home_team": "SEA",
       "away_score": 27,
       "home_score": 24,
-      "winner": "MIN"
+      "winner": "MIN",
+      "spread_line": -2.5
     },
     {
       "game_id": "2024_16_NE_BUF",
@@ -96,7 +107,8 @@
       "home_team": "BUF",
       "away_score": 21,
       "home_score": 24,
-      "winner": "BUF"
+      "winner": "BUF",
+      "spread_line": 14.0
     },
     {
       "game_id": "2024_16_JAX_LV",
@@ -104,7 +116,8 @@
       "home_team": "LV",
       "away_score": 14,
       "home_score": 19,
-      "winner": "LV"
+      "winner": "LV",
+      "spread_line": 2.5
     },
     {
       "game_id": "2024_16_SF_MIA",
@@ -112,7 +125,8 @@
       "home_team": "MIA",
       "away_score": 17,
       "home_score": 29,
-      "winner": "MIA"
+      "winner": "MIA",
+      "spread_line": -2.0
     },
     {
       "game_id": "2024_16_TB_DAL",
@@ -120,7 +134,8 @@
       "home_team": "DAL",
       "away_score": 24,
       "home_score": 26,
-      "winner": "DAL"
+      "winner": "DAL",
+      "spread_line": -4.5
     },
     {
       "game_id": "2024_16_NO_GB",
@@ -128,7 +143,8 @@
       "home_team": "GB",
       "away_score": 0,
       "home_score": 34,
-      "winner": "GB"
+      "winner": "GB",
+      "spread_line": 14.0
     }
   ]
 }

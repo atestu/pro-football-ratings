@@ -3,92 +3,36 @@
   "through_week": 18,
   "experts": [
     {
-      "expert": "jamey-eisenberg",
-      "expert_name": "Jamey Eisenberg",
-      "outlet": "CBS Sports",
-      "correct": 13,
-      "total": 16,
-      "accuracy": 0.812,
-      "weekly": [
-        {
-          "week": 1,
-          "correct": 13,
-          "total": 16
-        }
-      ]
-    },
-    {
-      "expert": "geoff-lambert",
-      "expert_name": "Geoff Lambert",
-      "outlet": "GoingFor2.com",
-      "correct": 13,
-      "total": 16,
-      "accuracy": 0.812,
-      "weekly": [
-        {
-          "week": 1,
-          "correct": 13,
-          "total": 16
-        }
-      ]
-    },
-    {
-      "expert": "joe-reedy",
-      "expert_name": "Joe Reedy",
-      "outlet": "Associated Press",
-      "correct": 13,
-      "total": 16,
-      "accuracy": 0.812,
-      "weekly": [
-        {
-          "week": 1,
-          "correct": 13,
-          "total": 16
-        }
-      ]
-    },
-    {
-      "expert": "kelly-hallinan",
-      "expert_name": "Kelly Hallinan",
-      "outlet": "NBC 26",
-      "correct": 13,
-      "total": 16,
-      "accuracy": 0.812,
-      "weekly": [
-        {
-          "week": 1,
-          "correct": 13,
-          "total": 16
-        }
-      ]
-    },
-    {
-      "expert": "dom-tibbetts",
-      "expert_name": "Dom Tibbetts",
-      "outlet": "WKBW-TV",
-      "correct": 12,
-      "total": 16,
-      "accuracy": 0.75,
-      "weekly": [
-        {
-          "week": 1,
-          "correct": 12,
-          "total": 16
-        }
-      ]
-    },
-    {
       "expert": "john-miller",
       "expert_name": "John Miller",
       "outlet": "NBC 26",
-      "correct": 12,
-      "total": 16,
-      "accuracy": 0.75,
+      "correct": 38,
+      "total": 48,
+      "accuracy": 0.792,
+      "ats_correct": 31.0,
+      "ats_total": 48,
+      "ats_accuracy": 0.646,
       "weekly": [
         {
           "week": 1,
           "correct": 12,
-          "total": 16
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
+        },
+        {
+          "week": 2,
+          "correct": 14,
+          "total": 16,
+          "ats_correct": 14.0,
+          "ats_total": 16
+        },
+        {
+          "week": 13,
+          "correct": 12,
+          "total": 16,
+          "ats_correct": 9.0,
+          "ats_total": 16
         }
       ]
     },
@@ -96,34 +40,67 @@
       "expert": "scott-smith",
       "expert_name": "Scott Smith",
       "outlet": "FOX 13 Tampa Bay",
-      "correct": 12,
-      "total": 16,
-      "accuracy": 0.75,
+      "correct": 36,
+      "total": 47,
+      "accuracy": 0.766,
+      "ats_correct": 29.0,
+      "ats_total": 47,
+      "ats_accuracy": 0.617,
       "weekly": [
         {
           "week": 1,
           "correct": 12,
-          "total": 16
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
+        },
+        {
+          "week": 2,
+          "correct": 13,
+          "total": 15,
+          "ats_correct": 11.0,
+          "ats_total": 15
+        },
+        {
+          "week": 3,
+          "correct": 11,
+          "total": 16,
+          "ats_correct": 10.0,
+          "ats_total": 16
         }
       ]
     },
     {
-      "expert": "pete-prisco",
-      "expert_name": "Pete Prisco",
-      "outlet": "CBS Sports",
-      "correct": 22,
-      "total": 32,
-      "accuracy": 0.688,
+      "expert": "kelly-hallinan",
+      "expert_name": "Kelly Hallinan",
+      "outlet": "NBC 26",
+      "correct": 31,
+      "total": 41,
+      "accuracy": 0.756,
+      "ats_correct": 25.0,
+      "ats_total": 41,
+      "ats_accuracy": 0.61,
       "weekly": [
         {
           "week": 1,
           "correct": 13,
-          "total": 16
+          "total": 16,
+          "ats_correct": 9.0,
+          "ats_total": 16
         },
         {
-          "week": 18,
-          "correct": 9,
-          "total": 16
+          "week": 2,
+          "correct": 7,
+          "total": 9,
+          "ats_correct": 6.0,
+          "ats_total": 9
+        },
+        {
+          "week": 13,
+          "correct": 11,
+          "total": 16,
+          "ats_correct": 10.0,
+          "ats_total": 16
         }
       ]
     },
@@ -131,39 +108,589 @@
       "expert": "fanduel",
       "expert_name": "FanDuel",
       "outlet": "FanDuel",
-      "correct": 20,
-      "total": 30,
-      "accuracy": 0.667,
+      "correct": 182,
+      "total": 254,
+      "accuracy": 0.717,
+      "ats_correct": 153.5,
+      "ats_total": 254,
+      "ats_accuracy": 0.604,
       "weekly": [
         {
           "week": 1,
           "correct": 10,
-          "total": 15
+          "total": 15,
+          "ats_correct": 8.0,
+          "ats_total": 15
+        },
+        {
+          "week": 2,
+          "correct": 10,
+          "total": 15,
+          "ats_correct": 10.0,
+          "ats_total": 15
+        },
+        {
+          "week": 3,
+          "correct": 10,
+          "total": 15,
+          "ats_correct": 9.0,
+          "ats_total": 15
+        },
+        {
+          "week": 4,
+          "correct": 12,
+          "total": 14,
+          "ats_correct": 11.0,
+          "ats_total": 14
+        },
+        {
+          "week": 5,
+          "correct": 5,
+          "total": 13,
+          "ats_correct": 5.0,
+          "ats_total": 13
+        },
+        {
+          "week": 6,
+          "correct": 11,
+          "total": 14,
+          "ats_correct": 7.0,
+          "ats_total": 14
+        },
+        {
+          "week": 7,
+          "correct": 10,
+          "total": 14,
+          "ats_correct": 12.0,
+          "ats_total": 14
+        },
+        {
+          "week": 8,
+          "correct": 11,
+          "total": 12,
+          "ats_correct": 11.0,
+          "ats_total": 12
+        },
+        {
+          "week": 9,
+          "correct": 9,
+          "total": 13,
+          "ats_correct": 6.0,
+          "ats_total": 13
+        },
+        {
+          "week": 10,
+          "correct": 11,
+          "total": 13,
+          "ats_correct": 8.0,
+          "ats_total": 13
+        },
+        {
+          "week": 11,
+          "correct": 12,
+          "total": 14,
+          "ats_correct": 8.0,
+          "ats_total": 14
+        },
+        {
+          "week": 12,
+          "correct": 9,
+          "total": 14,
+          "ats_correct": 6.5,
+          "ats_total": 14
+        },
+        {
+          "week": 13,
+          "correct": 10,
+          "total": 15,
+          "ats_correct": 8.0,
+          "ats_total": 15
+        },
+        {
+          "week": 14,
+          "correct": 8,
+          "total": 13,
+          "ats_correct": 8.0,
+          "ats_total": 13
+        },
+        {
+          "week": 15,
+          "correct": 10,
+          "total": 15,
+          "ats_correct": 9.0,
+          "ats_total": 15
+        },
+        {
+          "week": 16,
+          "correct": 12,
+          "total": 15,
+          "ats_correct": 9.0,
+          "ats_total": 15
+        },
+        {
+          "week": 17,
+          "correct": 12,
+          "total": 15,
+          "ats_correct": 11.0,
+          "ats_total": 15
         },
         {
           "week": 18,
           "correct": 10,
-          "total": 15
+          "total": 15,
+          "ats_correct": 7.0,
+          "ats_total": 15
         }
       ]
     },
     {
-      "expert": "yahoo-users",
-      "expert_name": "Yahoo Users",
-      "outlet": "Yahoo Sports",
-      "correct": 18,
-      "total": 27,
-      "accuracy": 0.667,
+      "expert": "draftkings",
+      "expert_name": "DraftKings",
+      "outlet": "DraftKings",
+      "correct": 177,
+      "total": 254,
+      "accuracy": 0.697,
+      "ats_correct": 148.5,
+      "ats_total": 254,
+      "ats_accuracy": 0.585,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 9,
+          "total": 15,
+          "ats_correct": 7.0,
+          "ats_total": 15
+        },
+        {
+          "week": 2,
+          "correct": 11,
+          "total": 15,
+          "ats_correct": 11.0,
+          "ats_total": 15
+        },
+        {
+          "week": 3,
+          "correct": 11,
+          "total": 15,
+          "ats_correct": 10.0,
+          "ats_total": 15
+        },
+        {
+          "week": 4,
+          "correct": 11,
+          "total": 14,
+          "ats_correct": 10.0,
+          "ats_total": 14
+        },
+        {
+          "week": 5,
+          "correct": 5,
+          "total": 13,
+          "ats_correct": 5.0,
+          "ats_total": 13
+        },
+        {
+          "week": 6,
+          "correct": 11,
+          "total": 14,
+          "ats_correct": 7.0,
+          "ats_total": 14
+        },
+        {
+          "week": 7,
+          "correct": 10,
+          "total": 14,
+          "ats_correct": 12.0,
+          "ats_total": 14
+        },
+        {
+          "week": 8,
+          "correct": 11,
+          "total": 12,
+          "ats_correct": 11.0,
+          "ats_total": 12
+        },
+        {
+          "week": 9,
+          "correct": 8,
+          "total": 13,
+          "ats_correct": 5.0,
+          "ats_total": 13
+        },
+        {
+          "week": 10,
+          "correct": 8,
+          "total": 13,
+          "ats_correct": 5.0,
+          "ats_total": 13
+        },
+        {
+          "week": 11,
+          "correct": 12,
+          "total": 14,
+          "ats_correct": 8.0,
+          "ats_total": 14
+        },
+        {
+          "week": 12,
+          "correct": 8,
+          "total": 14,
+          "ats_correct": 5.5,
+          "ats_total": 14
+        },
+        {
+          "week": 13,
+          "correct": 10,
+          "total": 15,
+          "ats_correct": 8.0,
+          "ats_total": 15
+        },
+        {
+          "week": 14,
+          "correct": 8,
+          "total": 13,
+          "ats_correct": 8.0,
+          "ats_total": 13
+        },
+        {
+          "week": 15,
+          "correct": 10,
+          "total": 15,
+          "ats_correct": 9.0,
+          "ats_total": 15
+        },
+        {
+          "week": 16,
+          "correct": 12,
+          "total": 15,
+          "ats_correct": 9.0,
+          "ats_total": 15
+        },
+        {
+          "week": 17,
+          "correct": 12,
+          "total": 15,
+          "ats_correct": 11.0,
+          "ats_total": 15
+        },
+        {
+          "week": 18,
+          "correct": 10,
+          "total": 15,
+          "ats_correct": 7.0,
+          "ats_total": 15
+        }
+      ]
+    },
+    {
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "outlet": "CBS Sports",
+      "correct": 132,
+      "total": 192,
+      "accuracy": 0.688,
+      "ats_correct": 97.5,
+      "ats_total": 192,
+      "ats_accuracy": 0.508,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 13,
+          "total": 16,
+          "ats_correct": 9.0,
+          "ats_total": 16
+        },
+        {
+          "week": 2,
+          "correct": 13,
+          "total": 16,
+          "ats_correct": 11.0,
+          "ats_total": 16
+        },
+        {
+          "week": 3,
+          "correct": 11,
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
+        },
+        {
+          "week": 4,
+          "correct": 9,
+          "total": 15,
+          "ats_correct": 8.0,
+          "ats_total": 15
+        },
+        {
+          "week": 5,
+          "correct": 4,
+          "total": 14,
+          "ats_correct": 4.0,
+          "ats_total": 14
+        },
+        {
+          "week": 6,
+          "correct": 11,
+          "total": 15,
+          "ats_correct": 7.0,
+          "ats_total": 15
+        },
+        {
+          "week": 7,
+          "correct": 12,
+          "total": 14,
+          "ats_correct": 10.0,
+          "ats_total": 14
+        },
+        {
+          "week": 8,
+          "correct": 10,
+          "total": 13,
+          "ats_correct": 10.0,
+          "ats_total": 13
+        },
+        {
+          "week": 9,
+          "correct": 8,
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
+        },
+        {
+          "week": 10,
+          "correct": 10,
+          "total": 14,
+          "ats_correct": 7.0,
+          "ats_total": 14
+        },
+        {
+          "week": 11,
+          "correct": 11,
+          "total": 15,
+          "ats_correct": 7.0,
+          "ats_total": 15
+        },
+        {
+          "week": 12,
+          "correct": 10,
+          "total": 14,
+          "ats_correct": 4.5,
+          "ats_total": 14
+        },
+        {
+          "week": 13,
+          "correct": 10,
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
+        }
+      ]
+    },
+    {
+      "expert": "geoff-lambert",
+      "expert_name": "Geoff Lambert",
+      "outlet": "GoingFor2.com",
+      "correct": 79,
+      "total": 119,
+      "accuracy": 0.664,
+      "ats_correct": 63.0,
+      "ats_total": 119,
+      "ats_accuracy": 0.529,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 13,
+          "total": 16,
+          "ats_correct": 9.0,
+          "ats_total": 16
+        },
+        {
+          "week": 2,
+          "correct": 13,
+          "total": 16,
+          "ats_correct": 11.0,
+          "ats_total": 16
+        },
+        {
+          "week": 3,
+          "correct": 10,
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
+        },
+        {
+          "week": 4,
+          "correct": 9,
+          "total": 15,
+          "ats_correct": 8.0,
+          "ats_total": 15
+        },
+        {
+          "week": 5,
+          "correct": 6,
+          "total": 14,
+          "ats_correct": 6.0,
+          "ats_total": 14
+        },
+        {
+          "week": 6,
+          "correct": 9,
+          "total": 15,
+          "ats_correct": 5.0,
+          "ats_total": 15
+        },
+        {
+          "week": 7,
+          "correct": 10,
+          "total": 15,
+          "ats_correct": 8.0,
+          "ats_total": 15
+        },
+        {
+          "week": 8,
+          "correct": 9,
+          "total": 12,
+          "ats_correct": 9.0,
+          "ats_total": 12
+        }
+      ]
+    },
+    {
+      "expert": "regan-holgate",
+      "expert_name": "Regan Holgate",
+      "outlet": "WXIX-TV",
+      "correct": 178,
+      "total": 271,
+      "accuracy": 0.657,
+      "ats_correct": 142.5,
+      "ats_total": 271,
+      "ats_accuracy": 0.526,
       "weekly": [
         {
           "week": 1,
           "correct": 12,
-          "total": 15
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
+        },
+        {
+          "week": 2,
+          "correct": 14,
+          "total": 16,
+          "ats_correct": 12.0,
+          "ats_total": 16
+        },
+        {
+          "week": 3,
+          "correct": 12,
+          "total": 16,
+          "ats_correct": 9.0,
+          "ats_total": 16
+        },
+        {
+          "week": 4,
+          "correct": 11,
+          "total": 15,
+          "ats_correct": 10.0,
+          "ats_total": 15
+        },
+        {
+          "week": 5,
+          "correct": 5,
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
+        },
+        {
+          "week": 6,
+          "correct": 10,
+          "total": 15,
+          "ats_correct": 6.0,
+          "ats_total": 15
+        },
+        {
+          "week": 7,
+          "correct": 11,
+          "total": 15,
+          "ats_correct": 9.0,
+          "ats_total": 15
+        },
+        {
+          "week": 8,
+          "correct": 9,
+          "total": 13,
+          "ats_correct": 9.0,
+          "ats_total": 13
+        },
+        {
+          "week": 9,
+          "correct": 11,
+          "total": 14,
+          "ats_correct": 8.0,
+          "ats_total": 14
+        },
+        {
+          "week": 10,
+          "correct": 10,
+          "total": 14,
+          "ats_correct": 7.0,
+          "ats_total": 14
+        },
+        {
+          "week": 11,
+          "correct": 10,
+          "total": 15,
+          "ats_correct": 10.0,
+          "ats_total": 15
+        },
+        {
+          "week": 12,
+          "correct": 12,
+          "total": 14,
+          "ats_correct": 8.5,
+          "ats_total": 14
+        },
+        {
+          "week": 13,
+          "correct": 9,
+          "total": 16,
+          "ats_correct": 6.0,
+          "ats_total": 16
+        },
+        {
+          "week": 14,
+          "correct": 5,
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
+        },
+        {
+          "week": 15,
+          "correct": 9,
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
+        },
+        {
+          "week": 16,
+          "correct": 13,
+          "total": 16,
+          "ats_correct": 10.0,
+          "ats_total": 16
+        },
+        {
+          "week": 17,
+          "correct": 7,
+          "total": 16,
+          "ats_correct": 5.0,
+          "ats_total": 16
         },
         {
           "week": 18,
-          "correct": 6,
-          "total": 12
+          "correct": 8,
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
         }
       ]
     },
@@ -174,96 +701,454 @@
       "correct": 176,
       "total": 271,
       "accuracy": 0.649,
+      "ats_correct": 134.5,
+      "ats_total": 271,
+      "ats_accuracy": 0.496,
       "weekly": [
         {
           "week": 1,
           "correct": 11,
-          "total": 16
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
         },
         {
           "week": 2,
           "correct": 9,
-          "total": 16
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
         },
         {
           "week": 3,
           "correct": 9,
-          "total": 16
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
         },
         {
           "week": 4,
           "correct": 11,
-          "total": 15
+          "total": 15,
+          "ats_correct": 10.0,
+          "ats_total": 15
         },
         {
           "week": 5,
           "correct": 5,
-          "total": 14
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
         },
         {
           "week": 6,
           "correct": 12,
-          "total": 15
+          "total": 15,
+          "ats_correct": 8.0,
+          "ats_total": 15
         },
         {
           "week": 7,
           "correct": 13,
-          "total": 15
+          "total": 15,
+          "ats_correct": 11.0,
+          "ats_total": 15
         },
         {
           "week": 8,
           "correct": 9,
-          "total": 13
+          "total": 13,
+          "ats_correct": 9.0,
+          "ats_total": 13
         },
         {
           "week": 9,
           "correct": 8,
-          "total": 14
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
         },
         {
           "week": 10,
           "correct": 10,
-          "total": 14
+          "total": 14,
+          "ats_correct": 7.0,
+          "ats_total": 14
         },
         {
           "week": 11,
           "correct": 10,
-          "total": 15
+          "total": 15,
+          "ats_correct": 6.0,
+          "ats_total": 15
         },
         {
           "week": 12,
           "correct": 12,
-          "total": 14
+          "total": 14,
+          "ats_correct": 6.5,
+          "ats_total": 14
         },
         {
           "week": 13,
           "correct": 11,
-          "total": 16
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
         },
         {
           "week": 14,
           "correct": 8,
-          "total": 14
+          "total": 14,
+          "ats_correct": 6.0,
+          "ats_total": 14
         },
         {
           "week": 15,
           "correct": 7,
-          "total": 16
+          "total": 16,
+          "ats_correct": 6.0,
+          "ats_total": 16
         },
         {
           "week": 16,
           "correct": 12,
-          "total": 16
+          "total": 16,
+          "ats_correct": 11.0,
+          "ats_total": 16
         },
         {
           "week": 17,
           "correct": 9,
-          "total": 16
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
         },
         {
           "week": 18,
           "correct": 10,
-          "total": 16
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
+        }
+      ]
+    },
+    {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "outlet": "CBS Sports",
+      "correct": 176,
+      "total": 271,
+      "accuracy": 0.649,
+      "ats_correct": 138.5,
+      "ats_total": 271,
+      "ats_accuracy": 0.511,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 13,
+          "total": 16,
+          "ats_correct": 11.0,
+          "ats_total": 16
+        },
+        {
+          "week": 2,
+          "correct": 11,
+          "total": 16,
+          "ats_correct": 9.0,
+          "ats_total": 16
+        },
+        {
+          "week": 3,
+          "correct": 13,
+          "total": 16,
+          "ats_correct": 10.0,
+          "ats_total": 16
+        },
+        {
+          "week": 4,
+          "correct": 12,
+          "total": 15,
+          "ats_correct": 11.0,
+          "ats_total": 15
+        },
+        {
+          "week": 5,
+          "correct": 8,
+          "total": 14,
+          "ats_correct": 8.0,
+          "ats_total": 14
+        },
+        {
+          "week": 6,
+          "correct": 9,
+          "total": 15,
+          "ats_correct": 7.0,
+          "ats_total": 15
+        },
+        {
+          "week": 7,
+          "correct": 10,
+          "total": 15,
+          "ats_correct": 8.0,
+          "ats_total": 15
+        },
+        {
+          "week": 8,
+          "correct": 10,
+          "total": 13,
+          "ats_correct": 10.0,
+          "ats_total": 13
+        },
+        {
+          "week": 9,
+          "correct": 6,
+          "total": 14,
+          "ats_correct": 3.0,
+          "ats_total": 14
+        },
+        {
+          "week": 10,
+          "correct": 8,
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
+        },
+        {
+          "week": 11,
+          "correct": 10,
+          "total": 15,
+          "ats_correct": 8.0,
+          "ats_total": 15
+        },
+        {
+          "week": 12,
+          "correct": 12,
+          "total": 14,
+          "ats_correct": 6.5,
+          "ats_total": 14
+        },
+        {
+          "week": 13,
+          "correct": 11,
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
+        },
+        {
+          "week": 14,
+          "correct": 7,
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
+        },
+        {
+          "week": 15,
+          "correct": 11,
+          "total": 16,
+          "ats_correct": 10.0,
+          "ats_total": 16
+        },
+        {
+          "week": 16,
+          "correct": 8,
+          "total": 16,
+          "ats_correct": 5.0,
+          "ats_total": 16
+        },
+        {
+          "week": 17,
+          "correct": 8,
+          "total": 16,
+          "ats_correct": 6.0,
+          "ats_total": 16
+        },
+        {
+          "week": 18,
+          "correct": 9,
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
+        }
+      ]
+    },
+    {
+      "expert": "dom-tibbetts",
+      "expert_name": "Dom Tibbetts",
+      "outlet": "WKBW-TV",
+      "correct": 47,
+      "total": 73,
+      "accuracy": 0.644,
+      "ats_correct": 42.0,
+      "ats_total": 73,
+      "ats_accuracy": 0.575,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 12,
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
+        },
+        {
+          "week": 3,
+          "correct": 1,
+          "total": 1,
+          "ats_correct": 1.0,
+          "ats_total": 1
+        },
+        {
+          "week": 4,
+          "correct": 14,
+          "total": 15,
+          "ats_correct": 13.0,
+          "ats_total": 15
+        },
+        {
+          "week": 5,
+          "correct": 7,
+          "total": 14,
+          "ats_correct": 7.0,
+          "ats_total": 14
+        },
+        {
+          "week": 6,
+          "correct": 8,
+          "total": 13,
+          "ats_correct": 5.0,
+          "ats_total": 13
+        },
+        {
+          "week": 10,
+          "correct": 5,
+          "total": 14,
+          "ats_correct": 8.0,
+          "ats_total": 14
+        }
+      ]
+    },
+    {
+      "expert": "ethan-mcreynolds",
+      "expert_name": "Ethan McReynolds",
+      "outlet": "Fox 13 Seattle",
+      "correct": 151,
+      "total": 236,
+      "accuracy": 0.64,
+      "ats_correct": 121.5,
+      "ats_total": 236,
+      "ats_accuracy": 0.515,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 12,
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
+        },
+        {
+          "week": 2,
+          "correct": 13,
+          "total": 16,
+          "ats_correct": 11.0,
+          "ats_total": 16
+        },
+        {
+          "week": 3,
+          "correct": 10,
+          "total": 16,
+          "ats_correct": 9.0,
+          "ats_total": 16
+        },
+        {
+          "week": 4,
+          "correct": 11,
+          "total": 15,
+          "ats_correct": 10.0,
+          "ats_total": 15
+        },
+        {
+          "week": 5,
+          "correct": 5,
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
+        },
+        {
+          "week": 6,
+          "correct": 10,
+          "total": 15,
+          "ats_correct": 6.0,
+          "ats_total": 15
+        },
+        {
+          "week": 7,
+          "correct": 10,
+          "total": 15,
+          "ats_correct": 8.0,
+          "ats_total": 15
+        },
+        {
+          "week": 8,
+          "correct": 8,
+          "total": 13,
+          "ats_correct": 8.0,
+          "ats_total": 13
+        },
+        {
+          "week": 9,
+          "correct": 9,
+          "total": 14,
+          "ats_correct": 6.0,
+          "ats_total": 14
+        },
+        {
+          "week": 10,
+          "correct": 8,
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
+        },
+        {
+          "week": 11,
+          "correct": 11,
+          "total": 15,
+          "ats_correct": 9.0,
+          "ats_total": 15
+        },
+        {
+          "week": 12,
+          "correct": 10,
+          "total": 14,
+          "ats_correct": 6.5,
+          "ats_total": 14
+        },
+        {
+          "week": 14,
+          "correct": 9,
+          "total": 14,
+          "ats_correct": 7.0,
+          "ats_total": 14
+        },
+        {
+          "week": 15,
+          "correct": 9,
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
+        },
+        {
+          "week": 16,
+          "correct": 9,
+          "total": 13,
+          "ats_correct": 7.0,
+          "ats_total": 13
+        },
+        {
+          "week": 18,
+          "correct": 7,
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
         }
       ]
     },
@@ -274,116 +1159,274 @@
       "correct": 172,
       "total": 271,
       "accuracy": 0.635,
+      "ats_correct": 133.5,
+      "ats_total": 271,
+      "ats_accuracy": 0.493,
       "weekly": [
         {
           "week": 1,
           "correct": 10,
-          "total": 16
+          "total": 16,
+          "ats_correct": 6.0,
+          "ats_total": 16
         },
         {
           "week": 2,
           "correct": 13,
-          "total": 16
+          "total": 16,
+          "ats_correct": 11.0,
+          "ats_total": 16
         },
         {
           "week": 3,
           "correct": 10,
-          "total": 16
+          "total": 16,
+          "ats_correct": 9.0,
+          "ats_total": 16
         },
         {
           "week": 4,
           "correct": 8,
-          "total": 15
+          "total": 15,
+          "ats_correct": 7.0,
+          "ats_total": 15
         },
         {
           "week": 5,
           "correct": 9,
-          "total": 14
+          "total": 14,
+          "ats_correct": 9.0,
+          "ats_total": 14
         },
         {
           "week": 6,
           "correct": 11,
-          "total": 15
+          "total": 15,
+          "ats_correct": 7.0,
+          "ats_total": 15
         },
         {
           "week": 7,
           "correct": 13,
-          "total": 15
+          "total": 15,
+          "ats_correct": 11.0,
+          "ats_total": 15
         },
         {
           "week": 8,
           "correct": 6,
-          "total": 13
+          "total": 13,
+          "ats_correct": 6.0,
+          "ats_total": 13
         },
         {
           "week": 9,
           "correct": 8,
-          "total": 14
+          "total": 14,
+          "ats_correct": 7.0,
+          "ats_total": 14
         },
         {
           "week": 10,
           "correct": 8,
-          "total": 14
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
         },
         {
           "week": 11,
           "correct": 8,
-          "total": 15
+          "total": 15,
+          "ats_correct": 6.0,
+          "ats_total": 15
         },
         {
           "week": 12,
           "correct": 11,
-          "total": 14
+          "total": 14,
+          "ats_correct": 6.5,
+          "ats_total": 14
         },
         {
           "week": 13,
           "correct": 9,
-          "total": 16
+          "total": 16,
+          "ats_correct": 6.0,
+          "ats_total": 16
         },
         {
           "week": 14,
           "correct": 7,
-          "total": 14
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
         },
         {
           "week": 15,
           "correct": 10,
-          "total": 16
+          "total": 16,
+          "ats_correct": 9.0,
+          "ats_total": 16
         },
         {
           "week": 16,
           "correct": 11,
-          "total": 16
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
         },
         {
           "week": 17,
           "correct": 9,
-          "total": 16
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
         },
         {
           "week": 18,
           "correct": 11,
-          "total": 16
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
         }
       ]
     },
     {
-      "expert": "draftkings",
-      "expert_name": "DraftKings",
-      "outlet": "DraftKings",
-      "correct": 19,
-      "total": 30,
-      "accuracy": 0.633,
+      "expert": "yahoo-users",
+      "expert_name": "Yahoo Users",
+      "outlet": "Yahoo Sports",
+      "correct": 153,
+      "total": 241,
+      "accuracy": 0.635,
+      "ats_correct": 115.5,
+      "ats_total": 241,
+      "ats_accuracy": 0.479,
       "weekly": [
         {
           "week": 1,
+          "correct": 12,
+          "total": 15,
+          "ats_correct": 8.0,
+          "ats_total": 15
+        },
+        {
+          "week": 2,
+          "correct": 12,
+          "total": 15,
+          "ats_correct": 10.0,
+          "ats_total": 15
+        },
+        {
+          "week": 3,
+          "correct": 10,
+          "total": 14,
+          "ats_correct": 7.0,
+          "ats_total": 14
+        },
+        {
+          "week": 4,
           "correct": 9,
-          "total": 15
+          "total": 14,
+          "ats_correct": 8.0,
+          "ats_total": 14
+        },
+        {
+          "week": 5,
+          "correct": 4,
+          "total": 13,
+          "ats_correct": 4.0,
+          "ats_total": 13
+        },
+        {
+          "week": 6,
+          "correct": 6,
+          "total": 12,
+          "ats_correct": 3.0,
+          "ats_total": 12
+        },
+        {
+          "week": 7,
+          "correct": 10,
+          "total": 12,
+          "ats_correct": 8.0,
+          "ats_total": 12
+        },
+        {
+          "week": 8,
+          "correct": 10,
+          "total": 13,
+          "ats_correct": 10.0,
+          "ats_total": 13
+        },
+        {
+          "week": 9,
+          "correct": 7,
+          "total": 12,
+          "ats_correct": 5.0,
+          "ats_total": 12
+        },
+        {
+          "week": 10,
+          "correct": 9,
+          "total": 13,
+          "ats_correct": 7.0,
+          "ats_total": 13
+        },
+        {
+          "week": 11,
+          "correct": 9,
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
+        },
+        {
+          "week": 12,
+          "correct": 11,
+          "total": 13,
+          "ats_correct": 5.5,
+          "ats_total": 13
+        },
+        {
+          "week": 13,
+          "correct": 7,
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
+        },
+        {
+          "week": 14,
+          "correct": 5,
+          "total": 12,
+          "ats_correct": 4.0,
+          "ats_total": 12
+        },
+        {
+          "week": 15,
+          "correct": 9,
+          "total": 15,
+          "ats_correct": 8.0,
+          "ats_total": 15
+        },
+        {
+          "week": 16,
+          "correct": 10,
+          "total": 15,
+          "ats_correct": 10.0,
+          "ats_total": 15
+        },
+        {
+          "week": 17,
+          "correct": 7,
+          "total": 13,
+          "ats_correct": 5.0,
+          "ats_total": 13
         },
         {
           "week": 18,
-          "correct": 10,
-          "total": 15
+          "correct": 6,
+          "total": 12,
+          "ats_correct": 3.0,
+          "ats_total": 12
         }
       ]
     },
@@ -394,96 +1437,413 @@
       "correct": 171,
       "total": 271,
       "accuracy": 0.631,
+      "ats_correct": 129.5,
+      "ats_total": 271,
+      "ats_accuracy": 0.478,
       "weekly": [
         {
           "week": 1,
           "correct": 12,
-          "total": 16
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
         },
         {
           "week": 2,
           "correct": 13,
-          "total": 16
+          "total": 16,
+          "ats_correct": 11.0,
+          "ats_total": 16
         },
         {
           "week": 3,
           "correct": 9,
-          "total": 16
+          "total": 16,
+          "ats_correct": 6.0,
+          "ats_total": 16
         },
         {
           "week": 4,
           "correct": 9,
-          "total": 15
+          "total": 15,
+          "ats_correct": 8.0,
+          "ats_total": 15
         },
         {
           "week": 5,
           "correct": 5,
-          "total": 14
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
         },
         {
           "week": 6,
           "correct": 10,
-          "total": 15
+          "total": 15,
+          "ats_correct": 6.0,
+          "ats_total": 15
         },
         {
           "week": 7,
           "correct": 13,
-          "total": 15
+          "total": 15,
+          "ats_correct": 11.0,
+          "ats_total": 15
         },
         {
           "week": 8,
           "correct": 8,
-          "total": 13
+          "total": 13,
+          "ats_correct": 8.0,
+          "ats_total": 13
         },
         {
           "week": 9,
           "correct": 9,
-          "total": 14
+          "total": 14,
+          "ats_correct": 6.0,
+          "ats_total": 14
         },
         {
           "week": 10,
           "correct": 8,
-          "total": 14
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
         },
         {
           "week": 11,
           "correct": 10,
-          "total": 15
+          "total": 15,
+          "ats_correct": 6.0,
+          "ats_total": 15
         },
         {
           "week": 12,
           "correct": 12,
-          "total": 14
+          "total": 14,
+          "ats_correct": 6.5,
+          "ats_total": 14
         },
         {
           "week": 13,
           "correct": 10,
-          "total": 16
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
         },
         {
           "week": 14,
           "correct": 6,
-          "total": 14
+          "total": 14,
+          "ats_correct": 4.0,
+          "ats_total": 14
         },
         {
           "week": 15,
           "correct": 9,
-          "total": 16
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
         },
         {
           "week": 16,
           "correct": 12,
-          "total": 16
+          "total": 16,
+          "ats_correct": 11.0,
+          "ats_total": 16
         },
         {
           "week": 17,
           "correct": 8,
-          "total": 16
+          "total": 16,
+          "ats_correct": 6.0,
+          "ats_total": 16
         },
         {
           "week": 18,
           "correct": 8,
-          "total": 16
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
+        }
+      ]
+    },
+    {
+      "expert": "john-breech",
+      "expert_name": "John Breech",
+      "outlet": "CBS Sports",
+      "correct": 171,
+      "total": 271,
+      "accuracy": 0.631,
+      "ats_correct": 133.5,
+      "ats_total": 271,
+      "ats_accuracy": 0.493,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 11,
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
+        },
+        {
+          "week": 2,
+          "correct": 15,
+          "total": 16,
+          "ats_correct": 13.0,
+          "ats_total": 16
+        },
+        {
+          "week": 3,
+          "correct": 11,
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
+        },
+        {
+          "week": 4,
+          "correct": 8,
+          "total": 15,
+          "ats_correct": 7.0,
+          "ats_total": 15
+        },
+        {
+          "week": 5,
+          "correct": 3,
+          "total": 14,
+          "ats_correct": 3.0,
+          "ats_total": 14
+        },
+        {
+          "week": 6,
+          "correct": 9,
+          "total": 15,
+          "ats_correct": 5.0,
+          "ats_total": 15
+        },
+        {
+          "week": 7,
+          "correct": 13,
+          "total": 15,
+          "ats_correct": 11.0,
+          "ats_total": 15
+        },
+        {
+          "week": 8,
+          "correct": 8,
+          "total": 13,
+          "ats_correct": 8.0,
+          "ats_total": 13
+        },
+        {
+          "week": 9,
+          "correct": 8,
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
+        },
+        {
+          "week": 10,
+          "correct": 8,
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
+        },
+        {
+          "week": 11,
+          "correct": 9,
+          "total": 15,
+          "ats_correct": 5.0,
+          "ats_total": 15
+        },
+        {
+          "week": 12,
+          "correct": 10,
+          "total": 14,
+          "ats_correct": 6.5,
+          "ats_total": 14
+        },
+        {
+          "week": 13,
+          "correct": 11,
+          "total": 16,
+          "ats_correct": 10.0,
+          "ats_total": 16
+        },
+        {
+          "week": 14,
+          "correct": 8,
+          "total": 14,
+          "ats_correct": 6.0,
+          "ats_total": 14
+        },
+        {
+          "week": 15,
+          "correct": 10,
+          "total": 16,
+          "ats_correct": 9.0,
+          "ats_total": 16
+        },
+        {
+          "week": 16,
+          "correct": 12,
+          "total": 16,
+          "ats_correct": 11.0,
+          "ats_total": 16
+        },
+        {
+          "week": 17,
+          "correct": 9,
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
+        },
+        {
+          "week": 18,
+          "correct": 8,
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
+        }
+      ]
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "outlet": "CBS Sports",
+      "correct": 171,
+      "total": 271,
+      "accuracy": 0.631,
+      "ats_correct": 131.5,
+      "ats_total": 271,
+      "ats_accuracy": 0.485,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 11,
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
+        },
+        {
+          "week": 2,
+          "correct": 13,
+          "total": 16,
+          "ats_correct": 11.0,
+          "ats_total": 16
+        },
+        {
+          "week": 3,
+          "correct": 11,
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
+        },
+        {
+          "week": 4,
+          "correct": 11,
+          "total": 15,
+          "ats_correct": 10.0,
+          "ats_total": 15
+        },
+        {
+          "week": 5,
+          "correct": 6,
+          "total": 14,
+          "ats_correct": 6.0,
+          "ats_total": 14
+        },
+        {
+          "week": 6,
+          "correct": 10,
+          "total": 15,
+          "ats_correct": 6.0,
+          "ats_total": 15
+        },
+        {
+          "week": 7,
+          "correct": 13,
+          "total": 15,
+          "ats_correct": 11.0,
+          "ats_total": 15
+        },
+        {
+          "week": 8,
+          "correct": 9,
+          "total": 13,
+          "ats_correct": 9.0,
+          "ats_total": 13
+        },
+        {
+          "week": 9,
+          "correct": 10,
+          "total": 14,
+          "ats_correct": 7.0,
+          "ats_total": 14
+        },
+        {
+          "week": 10,
+          "correct": 8,
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
+        },
+        {
+          "week": 11,
+          "correct": 10,
+          "total": 15,
+          "ats_correct": 8.0,
+          "ats_total": 15
+        },
+        {
+          "week": 12,
+          "correct": 11,
+          "total": 14,
+          "ats_correct": 5.5,
+          "ats_total": 14
+        },
+        {
+          "week": 13,
+          "correct": 9,
+          "total": 16,
+          "ats_correct": 6.0,
+          "ats_total": 16
+        },
+        {
+          "week": 14,
+          "correct": 5,
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
+        },
+        {
+          "week": 15,
+          "correct": 9,
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
+        },
+        {
+          "week": 16,
+          "correct": 7,
+          "total": 16,
+          "ats_correct": 6.0,
+          "ats_total": 16
+        },
+        {
+          "week": 17,
+          "correct": 9,
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
+        },
+        {
+          "week": 18,
+          "correct": 9,
+          "total": 16,
+          "ats_correct": 6.0,
+          "ats_total": 16
         }
       ]
     },
@@ -494,211 +1854,135 @@
       "correct": 170,
       "total": 271,
       "accuracy": 0.627,
+      "ats_correct": 126.5,
+      "ats_total": 271,
+      "ats_accuracy": 0.467,
       "weekly": [
         {
           "week": 1,
           "correct": 10,
-          "total": 16
+          "total": 16,
+          "ats_correct": 6.0,
+          "ats_total": 16
         },
         {
           "week": 2,
           "correct": 12,
-          "total": 16
+          "total": 16,
+          "ats_correct": 10.0,
+          "ats_total": 16
         },
         {
           "week": 3,
           "correct": 13,
-          "total": 16
+          "total": 16,
+          "ats_correct": 10.0,
+          "ats_total": 16
         },
         {
           "week": 4,
           "correct": 10,
-          "total": 15
+          "total": 15,
+          "ats_correct": 9.0,
+          "ats_total": 15
         },
         {
           "week": 5,
           "correct": 5,
-          "total": 14
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
         },
         {
           "week": 6,
           "correct": 9,
-          "total": 15
+          "total": 15,
+          "ats_correct": 5.0,
+          "ats_total": 15
         },
         {
           "week": 7,
           "correct": 10,
-          "total": 15
+          "total": 15,
+          "ats_correct": 8.0,
+          "ats_total": 15
         },
         {
           "week": 8,
           "correct": 10,
-          "total": 13
+          "total": 13,
+          "ats_correct": 10.0,
+          "ats_total": 13
         },
         {
           "week": 9,
           "correct": 8,
-          "total": 14
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
         },
         {
           "week": 10,
           "correct": 12,
-          "total": 14
+          "total": 14,
+          "ats_correct": 9.0,
+          "ats_total": 14
         },
         {
           "week": 11,
           "correct": 12,
-          "total": 15
+          "total": 15,
+          "ats_correct": 8.0,
+          "ats_total": 15
         },
         {
           "week": 12,
           "correct": 10,
-          "total": 14
+          "total": 14,
+          "ats_correct": 4.5,
+          "ats_total": 14
         },
         {
           "week": 13,
           "correct": 8,
-          "total": 16
+          "total": 16,
+          "ats_correct": 5.0,
+          "ats_total": 16
         },
         {
           "week": 14,
           "correct": 7,
-          "total": 14
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
         },
         {
           "week": 15,
           "correct": 8,
-          "total": 16
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
         },
         {
           "week": 16,
           "correct": 6,
-          "total": 16
+          "total": 16,
+          "ats_correct": 5.0,
+          "ats_total": 16
         },
         {
           "week": 17,
           "correct": 9,
-          "total": 16
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
         },
         {
           "week": 18,
           "correct": 11,
-          "total": 16
-        }
-      ]
-    },
-    {
-      "expert": "regan-holgate",
-      "expert_name": "Regan Holgate",
-      "outlet": "WXIX-TV",
-      "correct": 20,
-      "total": 32,
-      "accuracy": 0.625,
-      "weekly": [
-        {
-          "week": 1,
-          "correct": 12,
-          "total": 16
-        },
-        {
-          "week": 18,
-          "correct": 8,
-          "total": 16
-        }
-      ]
-    },
-    {
-      "expert": "ryan-wilson",
-      "expert_name": "Ryan Wilson",
-      "outlet": "CBS Sports",
-      "correct": 20,
-      "total": 32,
-      "accuracy": 0.625,
-      "weekly": [
-        {
-          "week": 1,
-          "correct": 11,
-          "total": 16
-        },
-        {
-          "week": 18,
-          "correct": 9,
-          "total": 16
-        }
-      ]
-    },
-    {
-      "expert": "dave-richard",
-      "expert_name": "Dave Richard",
-      "outlet": "CBS Sports",
-      "correct": 20,
-      "total": 32,
-      "accuracy": 0.625,
-      "weekly": [
-        {
-          "week": 1,
-          "correct": 12,
-          "total": 16
-        },
-        {
-          "week": 18,
-          "correct": 8,
-          "total": 16
-        }
-      ]
-    },
-    {
-      "expert": "greg-kellogg",
-      "expert_name": "Greg Kellogg",
-      "outlet": "The Sports Affiliation",
-      "correct": 20,
-      "total": 32,
-      "accuracy": 0.625,
-      "weekly": [
-        {
-          "week": 1,
-          "correct": 12,
-          "total": 16
-        },
-        {
-          "week": 18,
-          "correct": 8,
-          "total": 16
-        }
-      ]
-    },
-    {
-      "expert": "nick-rothschild",
-      "expert_name": "Nick Rothschild",
-      "outlet": "Denver7",
-      "correct": 20,
-      "total": 32,
-      "accuracy": 0.625,
-      "weekly": [
-        {
-          "week": 1,
-          "correct": 11,
-          "total": 16
-        },
-        {
-          "week": 18,
-          "correct": 9,
-          "total": 16
-        }
-      ]
-    },
-    {
-      "expert": "mike-cairns",
-      "expert_name": "Mike Cairns",
-      "outlet": "Spectrum Sports",
-      "correct": 10,
-      "total": 16,
-      "accuracy": 0.625,
-      "weekly": [
-        {
-          "week": 1,
-          "correct": 10,
-          "total": 16
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
         }
       ]
     },
@@ -709,11 +1993,16 @@
       "correct": 10,
       "total": 16,
       "accuracy": 0.625,
+      "ats_correct": 8.0,
+      "ats_total": 16,
+      "ats_accuracy": 0.5,
       "weekly": [
         {
           "week": 1,
           "correct": 10,
-          "total": 16
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
         }
       ]
     },
@@ -724,96 +2013,691 @@
       "correct": 169,
       "total": 271,
       "accuracy": 0.624,
+      "ats_correct": 127.5,
+      "ats_total": 271,
+      "ats_accuracy": 0.47,
       "weekly": [
         {
           "week": 1,
           "correct": 10,
-          "total": 16
+          "total": 16,
+          "ats_correct": 6.0,
+          "ats_total": 16
         },
         {
           "week": 2,
           "correct": 11,
-          "total": 16
+          "total": 16,
+          "ats_correct": 9.0,
+          "ats_total": 16
         },
         {
           "week": 3,
           "correct": 11,
-          "total": 16
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
         },
         {
           "week": 4,
           "correct": 10,
-          "total": 15
+          "total": 15,
+          "ats_correct": 9.0,
+          "ats_total": 15
         },
         {
           "week": 5,
           "correct": 5,
-          "total": 14
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
         },
         {
           "week": 6,
           "correct": 11,
-          "total": 15
+          "total": 15,
+          "ats_correct": 7.0,
+          "ats_total": 15
         },
         {
           "week": 7,
           "correct": 12,
-          "total": 15
+          "total": 15,
+          "ats_correct": 10.0,
+          "ats_total": 15
         },
         {
           "week": 8,
           "correct": 8,
-          "total": 13
+          "total": 13,
+          "ats_correct": 8.0,
+          "ats_total": 13
         },
         {
           "week": 9,
           "correct": 8,
-          "total": 14
+          "total": 14,
+          "ats_correct": 7.0,
+          "ats_total": 14
         },
         {
           "week": 10,
           "correct": 9,
-          "total": 14
+          "total": 14,
+          "ats_correct": 6.0,
+          "ats_total": 14
         },
         {
           "week": 11,
           "correct": 10,
-          "total": 15
+          "total": 15,
+          "ats_correct": 8.0,
+          "ats_total": 15
         },
         {
           "week": 12,
           "correct": 10,
-          "total": 14
+          "total": 14,
+          "ats_correct": 4.5,
+          "ats_total": 14
         },
         {
           "week": 13,
           "correct": 10,
-          "total": 16
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
         },
         {
           "week": 14,
           "correct": 6,
-          "total": 14
+          "total": 14,
+          "ats_correct": 4.0,
+          "ats_total": 14
         },
         {
           "week": 15,
           "correct": 9,
-          "total": 16
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
         },
         {
           "week": 16,
           "correct": 12,
-          "total": 16
+          "total": 16,
+          "ats_correct": 9.0,
+          "ats_total": 16
         },
         {
           "week": 17,
           "correct": 9,
-          "total": 16
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
         },
         {
           "week": 18,
           "correct": 8,
-          "total": 16
+          "total": 16,
+          "ats_correct": 5.0,
+          "ats_total": 16
+        }
+      ]
+    },
+    {
+      "expert": "dave-richard",
+      "expert_name": "Dave Richard",
+      "outlet": "CBS Sports",
+      "correct": 168,
+      "total": 271,
+      "accuracy": 0.62,
+      "ats_correct": 131.5,
+      "ats_total": 271,
+      "ats_accuracy": 0.485,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 12,
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
+        },
+        {
+          "week": 2,
+          "correct": 10,
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
+        },
+        {
+          "week": 3,
+          "correct": 11,
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
+        },
+        {
+          "week": 4,
+          "correct": 9,
+          "total": 15,
+          "ats_correct": 8.0,
+          "ats_total": 15
+        },
+        {
+          "week": 5,
+          "correct": 5,
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
+        },
+        {
+          "week": 6,
+          "correct": 10,
+          "total": 15,
+          "ats_correct": 6.0,
+          "ats_total": 15
+        },
+        {
+          "week": 7,
+          "correct": 12,
+          "total": 15,
+          "ats_correct": 10.0,
+          "ats_total": 15
+        },
+        {
+          "week": 8,
+          "correct": 8,
+          "total": 13,
+          "ats_correct": 8.0,
+          "ats_total": 13
+        },
+        {
+          "week": 9,
+          "correct": 9,
+          "total": 14,
+          "ats_correct": 8.0,
+          "ats_total": 14
+        },
+        {
+          "week": 10,
+          "correct": 8,
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
+        },
+        {
+          "week": 11,
+          "correct": 12,
+          "total": 15,
+          "ats_correct": 10.0,
+          "ats_total": 15
+        },
+        {
+          "week": 12,
+          "correct": 10,
+          "total": 14,
+          "ats_correct": 5.5,
+          "ats_total": 14
+        },
+        {
+          "week": 13,
+          "correct": 10,
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
+        },
+        {
+          "week": 14,
+          "correct": 7,
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
+        },
+        {
+          "week": 15,
+          "correct": 9,
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
+        },
+        {
+          "week": 16,
+          "correct": 10,
+          "total": 16,
+          "ats_correct": 9.0,
+          "ats_total": 16
+        },
+        {
+          "week": 17,
+          "correct": 8,
+          "total": 16,
+          "ats_correct": 6.0,
+          "ats_total": 16
+        },
+        {
+          "week": 18,
+          "correct": 8,
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
+        }
+      ]
+    },
+    {
+      "expert": "tyler-sullivan",
+      "expert_name": "Tyler Sullivan",
+      "outlet": "CBS Sports",
+      "correct": 168,
+      "total": 271,
+      "accuracy": 0.62,
+      "ats_correct": 138.5,
+      "ats_total": 271,
+      "ats_accuracy": 0.511,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 9,
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
+        },
+        {
+          "week": 2,
+          "correct": 13,
+          "total": 16,
+          "ats_correct": 11.0,
+          "ats_total": 16
+        },
+        {
+          "week": 3,
+          "correct": 10,
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
+        },
+        {
+          "week": 4,
+          "correct": 9,
+          "total": 15,
+          "ats_correct": 8.0,
+          "ats_total": 15
+        },
+        {
+          "week": 5,
+          "correct": 6,
+          "total": 14,
+          "ats_correct": 6.0,
+          "ats_total": 14
+        },
+        {
+          "week": 6,
+          "correct": 10,
+          "total": 15,
+          "ats_correct": 6.0,
+          "ats_total": 15
+        },
+        {
+          "week": 7,
+          "correct": 10,
+          "total": 15,
+          "ats_correct": 8.0,
+          "ats_total": 15
+        },
+        {
+          "week": 8,
+          "correct": 7,
+          "total": 13,
+          "ats_correct": 7.0,
+          "ats_total": 13
+        },
+        {
+          "week": 9,
+          "correct": 9,
+          "total": 14,
+          "ats_correct": 8.0,
+          "ats_total": 14
+        },
+        {
+          "week": 10,
+          "correct": 11,
+          "total": 14,
+          "ats_correct": 8.0,
+          "ats_total": 14
+        },
+        {
+          "week": 11,
+          "correct": 8,
+          "total": 15,
+          "ats_correct": 6.0,
+          "ats_total": 15
+        },
+        {
+          "week": 12,
+          "correct": 9,
+          "total": 14,
+          "ats_correct": 5.5,
+          "ats_total": 14
+        },
+        {
+          "week": 13,
+          "correct": 9,
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
+        },
+        {
+          "week": 14,
+          "correct": 9,
+          "total": 14,
+          "ats_correct": 7.0,
+          "ats_total": 14
+        },
+        {
+          "week": 15,
+          "correct": 10,
+          "total": 16,
+          "ats_correct": 9.0,
+          "ats_total": 16
+        },
+        {
+          "week": 16,
+          "correct": 11,
+          "total": 16,
+          "ats_correct": 10.0,
+          "ats_total": 16
+        },
+        {
+          "week": 17,
+          "correct": 9,
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
+        },
+        {
+          "week": 18,
+          "correct": 9,
+          "total": 16,
+          "ats_correct": 10.0,
+          "ats_total": 16
+        }
+      ]
+    },
+    {
+      "expert": "cody-benjamin",
+      "expert_name": "Cody Benjamin",
+      "outlet": "CBS Sports",
+      "correct": 168,
+      "total": 271,
+      "accuracy": 0.62,
+      "ats_correct": 128.5,
+      "ats_total": 271,
+      "ats_accuracy": 0.474,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 10,
+          "total": 16,
+          "ats_correct": 6.0,
+          "ats_total": 16
+        },
+        {
+          "week": 2,
+          "correct": 11,
+          "total": 16,
+          "ats_correct": 9.0,
+          "ats_total": 16
+        },
+        {
+          "week": 3,
+          "correct": 10,
+          "total": 16,
+          "ats_correct": 9.0,
+          "ats_total": 16
+        },
+        {
+          "week": 4,
+          "correct": 10,
+          "total": 15,
+          "ats_correct": 9.0,
+          "ats_total": 15
+        },
+        {
+          "week": 5,
+          "correct": 6,
+          "total": 14,
+          "ats_correct": 6.0,
+          "ats_total": 14
+        },
+        {
+          "week": 6,
+          "correct": 9,
+          "total": 15,
+          "ats_correct": 5.0,
+          "ats_total": 15
+        },
+        {
+          "week": 7,
+          "correct": 12,
+          "total": 15,
+          "ats_correct": 10.0,
+          "ats_total": 15
+        },
+        {
+          "week": 8,
+          "correct": 8,
+          "total": 13,
+          "ats_correct": 8.0,
+          "ats_total": 13
+        },
+        {
+          "week": 9,
+          "correct": 8,
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
+        },
+        {
+          "week": 10,
+          "correct": 9,
+          "total": 14,
+          "ats_correct": 6.0,
+          "ats_total": 14
+        },
+        {
+          "week": 11,
+          "correct": 13,
+          "total": 15,
+          "ats_correct": 9.0,
+          "ats_total": 15
+        },
+        {
+          "week": 12,
+          "correct": 11,
+          "total": 14,
+          "ats_correct": 5.5,
+          "ats_total": 14
+        },
+        {
+          "week": 13,
+          "correct": 10,
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
+        },
+        {
+          "week": 14,
+          "correct": 8,
+          "total": 14,
+          "ats_correct": 6.0,
+          "ats_total": 14
+        },
+        {
+          "week": 15,
+          "correct": 9,
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
+        },
+        {
+          "week": 16,
+          "correct": 8,
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
+        },
+        {
+          "week": 17,
+          "correct": 8,
+          "total": 16,
+          "ats_correct": 6.0,
+          "ats_total": 16
+        },
+        {
+          "week": 18,
+          "correct": 8,
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
+        }
+      ]
+    },
+    {
+      "expert": "greg-kellogg",
+      "expert_name": "Greg Kellogg",
+      "outlet": "The Sports Affiliation",
+      "correct": 167,
+      "total": 270,
+      "accuracy": 0.619,
+      "ats_correct": 126.5,
+      "ats_total": 270,
+      "ats_accuracy": 0.469,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 12,
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
+        },
+        {
+          "week": 2,
+          "correct": 12,
+          "total": 16,
+          "ats_correct": 10.0,
+          "ats_total": 16
+        },
+        {
+          "week": 3,
+          "correct": 11,
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
+        },
+        {
+          "week": 4,
+          "correct": 9,
+          "total": 15,
+          "ats_correct": 8.0,
+          "ats_total": 15
+        },
+        {
+          "week": 5,
+          "correct": 5,
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
+        },
+        {
+          "week": 6,
+          "correct": 9,
+          "total": 15,
+          "ats_correct": 5.0,
+          "ats_total": 15
+        },
+        {
+          "week": 7,
+          "correct": 11,
+          "total": 15,
+          "ats_correct": 9.0,
+          "ats_total": 15
+        },
+        {
+          "week": 8,
+          "correct": 10,
+          "total": 13,
+          "ats_correct": 10.0,
+          "ats_total": 13
+        },
+        {
+          "week": 9,
+          "correct": 10,
+          "total": 14,
+          "ats_correct": 7.0,
+          "ats_total": 14
+        },
+        {
+          "week": 10,
+          "correct": 7,
+          "total": 14,
+          "ats_correct": 4.0,
+          "ats_total": 14
+        },
+        {
+          "week": 11,
+          "correct": 11,
+          "total": 15,
+          "ats_correct": 7.0,
+          "ats_total": 15
+        },
+        {
+          "week": 12,
+          "correct": 10,
+          "total": 14,
+          "ats_correct": 6.5,
+          "ats_total": 14
+        },
+        {
+          "week": 13,
+          "correct": 8,
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
+        },
+        {
+          "week": 14,
+          "correct": 9,
+          "total": 14,
+          "ats_correct": 7.0,
+          "ats_total": 14
+        },
+        {
+          "week": 15,
+          "correct": 7,
+          "total": 16,
+          "ats_correct": 6.0,
+          "ats_total": 16
+        },
+        {
+          "week": 16,
+          "correct": 10,
+          "total": 15,
+          "ats_correct": 8.0,
+          "ats_total": 15
+        },
+        {
+          "week": 17,
+          "correct": 8,
+          "total": 16,
+          "ats_correct": 6.0,
+          "ats_total": 16
+        },
+        {
+          "week": 18,
+          "correct": 8,
+          "total": 16,
+          "ats_correct": 5.0,
+          "ats_total": 16
         }
       ]
     },
@@ -824,96 +2708,135 @@
       "correct": 166,
       "total": 271,
       "accuracy": 0.613,
+      "ats_correct": 130.5,
+      "ats_total": 271,
+      "ats_accuracy": 0.482,
       "weekly": [
         {
           "week": 1,
           "correct": 10,
-          "total": 16
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
         },
         {
           "week": 2,
           "correct": 13,
-          "total": 16
+          "total": 16,
+          "ats_correct": 11.0,
+          "ats_total": 16
         },
         {
           "week": 3,
           "correct": 10,
-          "total": 16
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
         },
         {
           "week": 4,
           "correct": 9,
-          "total": 15
+          "total": 15,
+          "ats_correct": 8.0,
+          "ats_total": 15
         },
         {
           "week": 5,
           "correct": 5,
-          "total": 14
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
         },
         {
           "week": 6,
           "correct": 9,
-          "total": 15
+          "total": 15,
+          "ats_correct": 5.0,
+          "ats_total": 15
         },
         {
           "week": 7,
           "correct": 11,
-          "total": 15
+          "total": 15,
+          "ats_correct": 9.0,
+          "ats_total": 15
         },
         {
           "week": 8,
           "correct": 9,
-          "total": 13
+          "total": 13,
+          "ats_correct": 9.0,
+          "ats_total": 13
         },
         {
           "week": 9,
           "correct": 8,
-          "total": 14
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
         },
         {
           "week": 10,
           "correct": 10,
-          "total": 14
+          "total": 14,
+          "ats_correct": 9.0,
+          "ats_total": 14
         },
         {
           "week": 11,
           "correct": 10,
-          "total": 15
+          "total": 15,
+          "ats_correct": 6.0,
+          "ats_total": 15
         },
         {
           "week": 12,
           "correct": 10,
-          "total": 14
+          "total": 14,
+          "ats_correct": 4.5,
+          "ats_total": 14
         },
         {
           "week": 13,
           "correct": 8,
-          "total": 16
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
         },
         {
           "week": 14,
           "correct": 7,
-          "total": 14
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
         },
         {
           "week": 15,
           "correct": 7,
-          "total": 16
+          "total": 16,
+          "ats_correct": 6.0,
+          "ats_total": 16
         },
         {
           "week": 16,
           "correct": 12,
-          "total": 16
+          "total": 16,
+          "ats_correct": 11.0,
+          "ats_total": 16
         },
         {
           "week": 17,
           "correct": 10,
-          "total": 16
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
         },
         {
           "week": 18,
           "correct": 8,
-          "total": 16
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
         }
       ]
     },
@@ -924,96 +2847,274 @@
       "correct": 166,
       "total": 271,
       "accuracy": 0.613,
+      "ats_correct": 127.5,
+      "ats_total": 271,
+      "ats_accuracy": 0.47,
       "weekly": [
         {
           "week": 1,
           "correct": 12,
-          "total": 16
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
         },
         {
           "week": 2,
           "correct": 11,
-          "total": 16
+          "total": 16,
+          "ats_correct": 9.0,
+          "ats_total": 16
         },
         {
           "week": 3,
           "correct": 8,
-          "total": 16
+          "total": 16,
+          "ats_correct": 5.0,
+          "ats_total": 16
         },
         {
           "week": 4,
           "correct": 9,
-          "total": 15
+          "total": 15,
+          "ats_correct": 8.0,
+          "ats_total": 15
         },
         {
           "week": 5,
           "correct": 6,
-          "total": 14
+          "total": 14,
+          "ats_correct": 6.0,
+          "ats_total": 14
         },
         {
           "week": 6,
           "correct": 10,
-          "total": 15
+          "total": 15,
+          "ats_correct": 6.0,
+          "ats_total": 15
         },
         {
           "week": 7,
           "correct": 8,
-          "total": 15
+          "total": 15,
+          "ats_correct": 6.0,
+          "ats_total": 15
         },
         {
           "week": 8,
           "correct": 11,
-          "total": 13
+          "total": 13,
+          "ats_correct": 11.0,
+          "ats_total": 13
         },
         {
           "week": 9,
           "correct": 6,
-          "total": 14
+          "total": 14,
+          "ats_correct": 7.0,
+          "ats_total": 14
         },
         {
           "week": 10,
           "correct": 8,
-          "total": 14
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
         },
         {
           "week": 11,
           "correct": 12,
-          "total": 15
+          "total": 15,
+          "ats_correct": 8.0,
+          "ats_total": 15
         },
         {
           "week": 12,
           "correct": 10,
-          "total": 14
+          "total": 14,
+          "ats_correct": 5.5,
+          "ats_total": 14
         },
         {
           "week": 13,
           "correct": 11,
-          "total": 16
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
         },
         {
           "week": 14,
           "correct": 6,
-          "total": 14
+          "total": 14,
+          "ats_correct": 4.0,
+          "ats_total": 14
         },
         {
           "week": 15,
           "correct": 12,
-          "total": 16
+          "total": 16,
+          "ats_correct": 11.0,
+          "ats_total": 16
         },
         {
           "week": 16,
           "correct": 9,
-          "total": 16
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
         },
         {
           "week": 17,
           "correct": 6,
-          "total": 16
+          "total": 16,
+          "ats_correct": 4.0,
+          "ats_total": 16
         },
         {
           "week": 18,
           "correct": 11,
-          "total": 16
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
+        }
+      ]
+    },
+    {
+      "expert": "steve-gardner",
+      "expert_name": "Steve Gardner",
+      "outlet": "USA Today",
+      "correct": 164,
+      "total": 268,
+      "accuracy": 0.612,
+      "ats_correct": 137.5,
+      "ats_total": 268,
+      "ats_accuracy": 0.513,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 9,
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
+        },
+        {
+          "week": 2,
+          "correct": 10,
+          "total": 16,
+          "ats_correct": 10.0,
+          "ats_total": 16
+        },
+        {
+          "week": 3,
+          "correct": 10,
+          "total": 15,
+          "ats_correct": 8.0,
+          "ats_total": 15
+        },
+        {
+          "week": 4,
+          "correct": 10,
+          "total": 15,
+          "ats_correct": 9.0,
+          "ats_total": 15
+        },
+        {
+          "week": 5,
+          "correct": 6,
+          "total": 14,
+          "ats_correct": 6.0,
+          "ats_total": 14
+        },
+        {
+          "week": 6,
+          "correct": 10,
+          "total": 15,
+          "ats_correct": 6.0,
+          "ats_total": 15
+        },
+        {
+          "week": 7,
+          "correct": 10,
+          "total": 15,
+          "ats_correct": 8.0,
+          "ats_total": 15
+        },
+        {
+          "week": 8,
+          "correct": 10,
+          "total": 13,
+          "ats_correct": 10.0,
+          "ats_total": 13
+        },
+        {
+          "week": 9,
+          "correct": 7,
+          "total": 13,
+          "ats_correct": 6.0,
+          "ats_total": 13
+        },
+        {
+          "week": 10,
+          "correct": 7,
+          "total": 13,
+          "ats_correct": 7.0,
+          "ats_total": 13
+        },
+        {
+          "week": 11,
+          "correct": 9,
+          "total": 15,
+          "ats_correct": 7.0,
+          "ats_total": 15
+        },
+        {
+          "week": 12,
+          "correct": 7,
+          "total": 14,
+          "ats_correct": 6.5,
+          "ats_total": 14
+        },
+        {
+          "week": 13,
+          "correct": 10,
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
+        },
+        {
+          "week": 14,
+          "correct": 8,
+          "total": 14,
+          "ats_correct": 6.0,
+          "ats_total": 14
+        },
+        {
+          "week": 15,
+          "correct": 9,
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
+        },
+        {
+          "week": 16,
+          "correct": 11,
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
+        },
+        {
+          "week": 17,
+          "correct": 11,
+          "total": 16,
+          "ats_correct": 9.0,
+          "ats_total": 16
+        },
+        {
+          "week": 18,
+          "correct": 10,
+          "total": 16,
+          "ats_correct": 9.0,
+          "ats_total": 16
         }
       ]
     },
@@ -1024,96 +3125,135 @@
       "correct": 164,
       "total": 270,
       "accuracy": 0.607,
+      "ats_correct": 120.5,
+      "ats_total": 270,
+      "ats_accuracy": 0.446,
       "weekly": [
         {
           "week": 1,
           "correct": 11,
-          "total": 16
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
         },
         {
           "week": 2,
           "correct": 11,
-          "total": 16
+          "total": 16,
+          "ats_correct": 9.0,
+          "ats_total": 16
         },
         {
           "week": 3,
           "correct": 10,
-          "total": 16
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
         },
         {
           "week": 4,
           "correct": 10,
-          "total": 15
+          "total": 15,
+          "ats_correct": 9.0,
+          "ats_total": 15
         },
         {
           "week": 5,
           "correct": 4,
-          "total": 14
+          "total": 14,
+          "ats_correct": 4.0,
+          "ats_total": 14
         },
         {
           "week": 6,
           "correct": 8,
-          "total": 15
+          "total": 15,
+          "ats_correct": 4.0,
+          "ats_total": 15
         },
         {
           "week": 7,
           "correct": 12,
-          "total": 15
+          "total": 15,
+          "ats_correct": 10.0,
+          "ats_total": 15
         },
         {
           "week": 8,
           "correct": 9,
-          "total": 13
+          "total": 13,
+          "ats_correct": 9.0,
+          "ats_total": 13
         },
         {
           "week": 9,
           "correct": 9,
-          "total": 14
+          "total": 14,
+          "ats_correct": 6.0,
+          "ats_total": 14
         },
         {
           "week": 10,
           "correct": 9,
-          "total": 14
+          "total": 14,
+          "ats_correct": 6.0,
+          "ats_total": 14
         },
         {
           "week": 11,
           "correct": 9,
-          "total": 15
+          "total": 15,
+          "ats_correct": 5.0,
+          "ats_total": 15
         },
         {
           "week": 12,
           "correct": 9,
-          "total": 13
+          "total": 13,
+          "ats_correct": 3.5,
+          "ats_total": 13
         },
         {
           "week": 13,
           "correct": 10,
-          "total": 16
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
         },
         {
           "week": 14,
           "correct": 6,
-          "total": 14
+          "total": 14,
+          "ats_correct": 4.0,
+          "ats_total": 14
         },
         {
           "week": 15,
           "correct": 10,
-          "total": 16
+          "total": 16,
+          "ats_correct": 9.0,
+          "ats_total": 16
         },
         {
           "week": 16,
           "correct": 9,
-          "total": 16
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
         },
         {
           "week": 17,
           "correct": 9,
-          "total": 16
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
         },
         {
           "week": 18,
           "correct": 9,
-          "total": 16
+          "total": 16,
+          "ats_correct": 6.0,
+          "ats_total": 16
         }
       ]
     },
@@ -1124,96 +3264,461 @@
       "correct": 164,
       "total": 271,
       "accuracy": 0.605,
+      "ats_correct": 134.5,
+      "ats_total": 271,
+      "ats_accuracy": 0.496,
       "weekly": [
         {
           "week": 1,
           "correct": 10,
-          "total": 16
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
         },
         {
           "week": 2,
           "correct": 11,
-          "total": 16
+          "total": 16,
+          "ats_correct": 9.0,
+          "ats_total": 16
         },
         {
           "week": 3,
           "correct": 11,
-          "total": 16
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
         },
         {
           "week": 4,
           "correct": 10,
-          "total": 15
+          "total": 15,
+          "ats_correct": 9.0,
+          "ats_total": 15
         },
         {
           "week": 5,
           "correct": 4,
-          "total": 14
+          "total": 14,
+          "ats_correct": 4.0,
+          "ats_total": 14
         },
         {
           "week": 6,
           "correct": 10,
-          "total": 15
+          "total": 15,
+          "ats_correct": 6.0,
+          "ats_total": 15
         },
         {
           "week": 7,
           "correct": 12,
-          "total": 15
+          "total": 15,
+          "ats_correct": 12.0,
+          "ats_total": 15
         },
         {
           "week": 8,
           "correct": 9,
-          "total": 13
+          "total": 13,
+          "ats_correct": 9.0,
+          "ats_total": 13
         },
         {
           "week": 9,
           "correct": 8,
-          "total": 14
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
         },
         {
           "week": 10,
           "correct": 8,
-          "total": 14
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
         },
         {
           "week": 11,
           "correct": 10,
-          "total": 15
+          "total": 15,
+          "ats_correct": 8.0,
+          "ats_total": 15
         },
         {
           "week": 12,
           "correct": 11,
-          "total": 14
+          "total": 14,
+          "ats_correct": 9.5,
+          "ats_total": 14
         },
         {
           "week": 13,
           "correct": 8,
-          "total": 16
+          "total": 16,
+          "ats_correct": 5.0,
+          "ats_total": 16
         },
         {
           "week": 14,
           "correct": 5,
-          "total": 14
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
         },
         {
           "week": 15,
           "correct": 8,
-          "total": 16
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
         },
         {
           "week": 16,
           "correct": 10,
-          "total": 16
+          "total": 16,
+          "ats_correct": 9.0,
+          "ats_total": 16
         },
         {
           "week": 17,
           "correct": 11,
-          "total": 16
+          "total": 16,
+          "ats_correct": 9.0,
+          "ats_total": 16
         },
         {
           "week": 18,
           "correct": 8,
-          "total": 16
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
+        }
+      ]
+    },
+    {
+      "expert": "nick-rothschild",
+      "expert_name": "Nick Rothschild",
+      "outlet": "Denver7",
+      "correct": 155,
+      "total": 256,
+      "accuracy": 0.605,
+      "ats_correct": 119.5,
+      "ats_total": 256,
+      "ats_accuracy": 0.467,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 11,
+          "total": 16,
+          "ats_correct": 9.0,
+          "ats_total": 16
+        },
+        {
+          "week": 2,
+          "correct": 12,
+          "total": 16,
+          "ats_correct": 10.0,
+          "ats_total": 16
+        },
+        {
+          "week": 3,
+          "correct": 11,
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
+        },
+        {
+          "week": 4,
+          "correct": 10,
+          "total": 15,
+          "ats_correct": 9.0,
+          "ats_total": 15
+        },
+        {
+          "week": 5,
+          "correct": 6,
+          "total": 14,
+          "ats_correct": 6.0,
+          "ats_total": 14
+        },
+        {
+          "week": 6,
+          "correct": 9,
+          "total": 15,
+          "ats_correct": 7.0,
+          "ats_total": 15
+        },
+        {
+          "week": 8,
+          "correct": 7,
+          "total": 13,
+          "ats_correct": 7.0,
+          "ats_total": 13
+        },
+        {
+          "week": 9,
+          "correct": 7,
+          "total": 14,
+          "ats_correct": 4.0,
+          "ats_total": 14
+        },
+        {
+          "week": 10,
+          "correct": 7,
+          "total": 14,
+          "ats_correct": 4.0,
+          "ats_total": 14
+        },
+        {
+          "week": 11,
+          "correct": 12,
+          "total": 15,
+          "ats_correct": 8.0,
+          "ats_total": 15
+        },
+        {
+          "week": 12,
+          "correct": 12,
+          "total": 14,
+          "ats_correct": 6.5,
+          "ats_total": 14
+        },
+        {
+          "week": 13,
+          "correct": 8,
+          "total": 16,
+          "ats_correct": 5.0,
+          "ats_total": 16
+        },
+        {
+          "week": 14,
+          "correct": 9,
+          "total": 14,
+          "ats_correct": 7.0,
+          "ats_total": 14
+        },
+        {
+          "week": 15,
+          "correct": 9,
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
+        },
+        {
+          "week": 16,
+          "correct": 8,
+          "total": 16,
+          "ats_correct": 5.0,
+          "ats_total": 16
+        },
+        {
+          "week": 17,
+          "correct": 8,
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
+        },
+        {
+          "week": 18,
+          "correct": 9,
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
+        }
+      ]
+    },
+    {
+      "expert": "jared-dubin",
+      "expert_name": "Jared Dubin",
+      "outlet": "CBS Sports",
+      "correct": 163,
+      "total": 270,
+      "accuracy": 0.604,
+      "ats_correct": 121.5,
+      "ats_total": 270,
+      "ats_accuracy": 0.45,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 9,
+          "total": 16,
+          "ats_correct": 5.0,
+          "ats_total": 16
+        },
+        {
+          "week": 2,
+          "correct": 13,
+          "total": 16,
+          "ats_correct": 11.0,
+          "ats_total": 16
+        },
+        {
+          "week": 3,
+          "correct": 10,
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
+        },
+        {
+          "week": 4,
+          "correct": 9,
+          "total": 15,
+          "ats_correct": 8.0,
+          "ats_total": 15
+        },
+        {
+          "week": 5,
+          "correct": 5,
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
+        },
+        {
+          "week": 6,
+          "correct": 9,
+          "total": 15,
+          "ats_correct": 5.0,
+          "ats_total": 15
+        },
+        {
+          "week": 7,
+          "correct": 11,
+          "total": 15,
+          "ats_correct": 9.0,
+          "ats_total": 15
+        },
+        {
+          "week": 8,
+          "correct": 10,
+          "total": 13,
+          "ats_correct": 10.0,
+          "ats_total": 13
+        },
+        {
+          "week": 9,
+          "correct": 8,
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
+        },
+        {
+          "week": 10,
+          "correct": 9,
+          "total": 14,
+          "ats_correct": 6.0,
+          "ats_total": 14
+        },
+        {
+          "week": 11,
+          "correct": 11,
+          "total": 15,
+          "ats_correct": 7.0,
+          "ats_total": 15
+        },
+        {
+          "week": 12,
+          "correct": 10,
+          "total": 14,
+          "ats_correct": 4.5,
+          "ats_total": 14
+        },
+        {
+          "week": 13,
+          "correct": 9,
+          "total": 16,
+          "ats_correct": 6.0,
+          "ats_total": 16
+        },
+        {
+          "week": 14,
+          "correct": 5,
+          "total": 13,
+          "ats_correct": 3.0,
+          "ats_total": 13
+        },
+        {
+          "week": 15,
+          "correct": 9,
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
+        },
+        {
+          "week": 16,
+          "correct": 10,
+          "total": 16,
+          "ats_correct": 9.0,
+          "ats_total": 16
+        },
+        {
+          "week": 17,
+          "correct": 9,
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
+        },
+        {
+          "week": 18,
+          "correct": 7,
+          "total": 16,
+          "ats_correct": 6.0,
+          "ats_total": 16
+        }
+      ]
+    },
+    {
+      "expert": "joe-reedy",
+      "expert_name": "Joe Reedy",
+      "outlet": "Associated Press",
+      "correct": 55,
+      "total": 91,
+      "accuracy": 0.604,
+      "ats_correct": 44.0,
+      "ats_total": 91,
+      "ats_accuracy": 0.484,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 13,
+          "total": 16,
+          "ats_correct": 9.0,
+          "ats_total": 16
+        },
+        {
+          "week": 2,
+          "correct": 13,
+          "total": 16,
+          "ats_correct": 11.0,
+          "ats_total": 16
+        },
+        {
+          "week": 3,
+          "correct": 8,
+          "total": 15,
+          "ats_correct": 8.0,
+          "ats_total": 15
+        },
+        {
+          "week": 4,
+          "correct": 8,
+          "total": 15,
+          "ats_correct": 7.0,
+          "ats_total": 15
+        },
+        {
+          "week": 5,
+          "correct": 6,
+          "total": 14,
+          "ats_correct": 6.0,
+          "ats_total": 14
+        },
+        {
+          "week": 6,
+          "correct": 7,
+          "total": 15,
+          "ats_correct": 3.0,
+          "ats_total": 15
         }
       ]
     },
@@ -1224,96 +3729,135 @@
       "correct": 162,
       "total": 271,
       "accuracy": 0.598,
+      "ats_correct": 132.5,
+      "ats_total": 271,
+      "ats_accuracy": 0.489,
       "weekly": [
         {
           "week": 1,
           "correct": 10,
-          "total": 16
+          "total": 16,
+          "ats_correct": 6.0,
+          "ats_total": 16
         },
         {
           "week": 2,
           "correct": 13,
-          "total": 16
+          "total": 16,
+          "ats_correct": 11.0,
+          "ats_total": 16
         },
         {
           "week": 3,
           "correct": 11,
-          "total": 16
+          "total": 16,
+          "ats_correct": 10.0,
+          "ats_total": 16
         },
         {
           "week": 4,
           "correct": 6,
-          "total": 15
+          "total": 15,
+          "ats_correct": 5.0,
+          "ats_total": 15
         },
         {
           "week": 5,
           "correct": 7,
-          "total": 14
+          "total": 14,
+          "ats_correct": 7.0,
+          "ats_total": 14
         },
         {
           "week": 6,
           "correct": 7,
-          "total": 15
+          "total": 15,
+          "ats_correct": 5.0,
+          "ats_total": 15
         },
         {
           "week": 7,
           "correct": 10,
-          "total": 15
+          "total": 15,
+          "ats_correct": 10.0,
+          "ats_total": 15
         },
         {
           "week": 8,
           "correct": 6,
-          "total": 13
+          "total": 13,
+          "ats_correct": 6.0,
+          "ats_total": 13
         },
         {
           "week": 9,
           "correct": 9,
-          "total": 14
+          "total": 14,
+          "ats_correct": 8.0,
+          "ats_total": 14
         },
         {
           "week": 10,
           "correct": 9,
-          "total": 14
+          "total": 14,
+          "ats_correct": 6.0,
+          "ats_total": 14
         },
         {
           "week": 11,
           "correct": 9,
-          "total": 15
+          "total": 15,
+          "ats_correct": 7.0,
+          "ats_total": 15
         },
         {
           "week": 12,
           "correct": 10,
-          "total": 14
+          "total": 14,
+          "ats_correct": 6.5,
+          "ats_total": 14
         },
         {
           "week": 13,
           "correct": 10,
-          "total": 16
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
         },
         {
           "week": 14,
           "correct": 8,
-          "total": 14
+          "total": 14,
+          "ats_correct": 6.0,
+          "ats_total": 14
         },
         {
           "week": 15,
           "correct": 9,
-          "total": 16
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
         },
         {
           "week": 16,
           "correct": 14,
-          "total": 16
+          "total": 16,
+          "ats_correct": 11.0,
+          "ats_total": 16
         },
         {
           "week": 17,
           "correct": 8,
-          "total": 16
+          "total": 16,
+          "ats_correct": 6.0,
+          "ats_total": 16
         },
         {
           "week": 18,
           "correct": 6,
-          "total": 16
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
         }
       ]
     },
@@ -1324,216 +3868,162 @@
       "correct": 161,
       "total": 271,
       "accuracy": 0.594,
+      "ats_correct": 128.5,
+      "ats_total": 271,
+      "ats_accuracy": 0.474,
       "weekly": [
         {
           "week": 1,
           "correct": 8,
-          "total": 16
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
         },
         {
           "week": 2,
           "correct": 13,
-          "total": 16
+          "total": 16,
+          "ats_correct": 11.0,
+          "ats_total": 16
         },
         {
           "week": 3,
           "correct": 7,
-          "total": 16
+          "total": 16,
+          "ats_correct": 6.0,
+          "ats_total": 16
         },
         {
           "week": 4,
           "correct": 13,
-          "total": 15
+          "total": 15,
+          "ats_correct": 12.0,
+          "ats_total": 15
         },
         {
           "week": 5,
           "correct": 5,
-          "total": 14
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
         },
         {
           "week": 6,
           "correct": 7,
-          "total": 15
+          "total": 15,
+          "ats_correct": 5.0,
+          "ats_total": 15
         },
         {
           "week": 7,
           "correct": 10,
-          "total": 15
+          "total": 15,
+          "ats_correct": 8.0,
+          "ats_total": 15
         },
         {
           "week": 8,
           "correct": 9,
-          "total": 13
+          "total": 13,
+          "ats_correct": 9.0,
+          "ats_total": 13
         },
         {
           "week": 9,
           "correct": 8,
-          "total": 14
+          "total": 14,
+          "ats_correct": 5.0,
+          "ats_total": 14
         },
         {
           "week": 10,
           "correct": 6,
-          "total": 14
+          "total": 14,
+          "ats_correct": 3.0,
+          "ats_total": 14
         },
         {
           "week": 11,
           "correct": 8,
-          "total": 15
+          "total": 15,
+          "ats_correct": 6.0,
+          "ats_total": 15
         },
         {
           "week": 12,
           "correct": 9,
-          "total": 14
+          "total": 14,
+          "ats_correct": 4.5,
+          "ats_total": 14
         },
         {
           "week": 13,
           "correct": 12,
-          "total": 16
+          "total": 16,
+          "ats_correct": 9.0,
+          "ats_total": 16
         },
         {
           "week": 14,
           "correct": 9,
-          "total": 14
+          "total": 14,
+          "ats_correct": 7.0,
+          "ats_total": 14
         },
         {
           "week": 15,
           "correct": 9,
-          "total": 16
+          "total": 16,
+          "ats_correct": 8.0,
+          "ats_total": 16
         },
         {
           "week": 16,
           "correct": 9,
-          "total": 16
+          "total": 16,
+          "ats_correct": 6.0,
+          "ats_total": 16
         },
         {
           "week": 17,
           "correct": 9,
-          "total": 16
+          "total": 16,
+          "ats_correct": 7.0,
+          "ats_total": 16
         },
         {
           "week": 18,
           "correct": 10,
-          "total": 16
+          "total": 16,
+          "ats_correct": 9.0,
+          "ats_total": 16
         }
       ]
     },
     {
-      "expert": "john-breech",
-      "expert_name": "John Breech",
-      "outlet": "CBS Sports",
-      "correct": 19,
-      "total": 32,
-      "accuracy": 0.594,
+      "expert": "mike-cairns",
+      "expert_name": "Mike Cairns",
+      "outlet": "Spectrum Sports",
+      "correct": 17,
+      "total": 30,
+      "accuracy": 0.567,
+      "ats_correct": 12.0,
+      "ats_total": 30,
+      "ats_accuracy": 0.4,
       "weekly": [
         {
           "week": 1,
-          "correct": 11,
-          "total": 16
-        },
-        {
-          "week": 18,
-          "correct": 8,
-          "total": 16
-        }
-      ]
-    },
-    {
-      "expert": "steve-gardner",
-      "expert_name": "Steve Gardner",
-      "outlet": "USA Today",
-      "correct": 19,
-      "total": 32,
-      "accuracy": 0.594,
-      "weekly": [
-        {
-          "week": 1,
-          "correct": 9,
-          "total": 16
-        },
-        {
-          "week": 18,
           "correct": 10,
-          "total": 16
-        }
-      ]
-    },
-    {
-      "expert": "ethan-mcreynolds",
-      "expert_name": "Ethan McReynolds",
-      "outlet": "Fox 13 Seattle",
-      "correct": 19,
-      "total": 32,
-      "accuracy": 0.594,
-      "weekly": [
-        {
-          "week": 1,
-          "correct": 12,
-          "total": 16
+          "total": 16,
+          "ats_correct": 6.0,
+          "ats_total": 16
         },
         {
-          "week": 18,
+          "week": 9,
           "correct": 7,
-          "total": 16
-        }
-      ]
-    },
-    {
-      "expert": "tyler-sullivan",
-      "expert_name": "Tyler Sullivan",
-      "outlet": "CBS Sports",
-      "correct": 18,
-      "total": 32,
-      "accuracy": 0.562,
-      "weekly": [
-        {
-          "week": 1,
-          "correct": 9,
-          "total": 16
-        },
-        {
-          "week": 18,
-          "correct": 9,
-          "total": 16
-        }
-      ]
-    },
-    {
-      "expert": "cody-benjamin",
-      "expert_name": "Cody Benjamin",
-      "outlet": "CBS Sports",
-      "correct": 18,
-      "total": 32,
-      "accuracy": 0.562,
-      "weekly": [
-        {
-          "week": 1,
-          "correct": 10,
-          "total": 16
-        },
-        {
-          "week": 18,
-          "correct": 8,
-          "total": 16
-        }
-      ]
-    },
-    {
-      "expert": "jared-dubin",
-      "expert_name": "Jared Dubin",
-      "outlet": "CBS Sports",
-      "correct": 16,
-      "total": 32,
-      "accuracy": 0.5,
-      "weekly": [
-        {
-          "week": 1,
-          "correct": 9,
-          "total": 16
-        },
-        {
-          "week": 18,
-          "correct": 7,
-          "total": 16
+          "total": 14,
+          "ats_correct": 6.0,
+          "ats_total": 14
         }
       ]
     }

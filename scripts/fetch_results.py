@@ -61,6 +61,7 @@ def fetch_results(season: int, week: int) -> dict:
         else:
             winner = "TIE"
 
+        spread_line = row["spread_line"]
         games.append({
             "game_id": row["game_id"],
             "away_team": row["away_team"],
@@ -68,6 +69,7 @@ def fetch_results(season: int, week: int) -> dict:
             "away_score": away_score,
             "home_score": home_score,
             "winner": winner,
+            "spread_line": float(spread_line) if spread_line is not None else None,
         })
 
     return {"season": season, "week": week, "games": games}
