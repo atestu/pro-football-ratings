@@ -1,0 +1,9 @@
+[project]
+name = "nfl-predictions"
+version = "1.0.0"
+description = "Track NFL expert picks, compare against actual results, and rank pundits by accuracy"
+requires-python = ">=3.12"
+dependencies = [
+    "nflreadpy>=0.1.5",
+    "polars>=1.0.0",
+]
