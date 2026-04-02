@@ -37,6 +37,10 @@ jobs:
           if [ -n "${{ inputs.week }}" ]; then ARGS="$ARGS --week ${{ inputs.week }}"; fi
           python scripts/score_experts.py $ARGS
 
+      - name: Compute ratings
+        continue-on-error: true
+        run: python scripts/rate_experts.py
+
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"

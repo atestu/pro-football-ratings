@@ -8,10 +8,13 @@ Track NFL media expert picks, compare against actual results, and rank the pundi
 Cron (Wednesday)        Cron (Tuesday)          GitHub Pages (future)
      |                      |                       |
  Scrape picks          Fetch results           Static site
- (ESPN, Fantasy Nerds) (nflreadpy)                  |
+ (ESPN, FN, NFL, PFT)  (nflreadpy)                  |
      |                      |                  Leaderboard
  Store as JSON  --->   Score & grade  --->    (auto-deploy)
  (committed)           (committed)
+                            |
+                       Rate experts  --->   Cross-season ratings
+                       (vs Vegas baseline)  (letter grades A+ - F)
 ```
 
 All data lives as JSON in the repo. No database, no server. Automated via GitHub Actions.
@@ -22,7 +25,9 @@ All data lives as JSON in the repo. No database, no server. Automated via GitHub
 |--------|------|-------|
 | ESPN picks page | Expert picks | ~10-14 ESPN analysts per week (HTML scraping) |
 | Fantasy Nerds | Expert picks | ~26-35 experts from ESPN, CBS, Yahoo, FanDuel, DraftKings, etc. |
-| nflverse (via nflreadpy) | Game results | Canonical NFL schedule data |
+| NFL.com | Expert picks | ~5 NFL.com analysts per week |
+| ProFootballTalk | Expert picks | ~2 PFT analysts per week |
+| nflverse (via nflreadpy) | Game results + schedule | Canonical NFL data (scores, spreads, game dates) |
 
 ## Setup
 
@@ -54,6 +59,20 @@ uv run scripts/score_experts.py --season 2025 --week 1
 uv run scripts/score_experts.py --season 2025
 ```
 
+### Cross-season expert ratings
+```bash
+# Rate all experts across all available seasons (2021-2025)
+uv run scripts/rate_experts.py
+
+# Validate historical pick data integrity
+uv run scripts/rate_experts.py --validate
+
+# Tune parameters
+uv run scripts/rate_experts.py --half-life 78 --min-picks 50
+```
+
+Each expert is scored against a "pick the Vegas favorite every game" baseline, weighted by recency (exponential decay). Scores map to letter grades (A+ through F). Only experts with 100+ picks qualify for a rating.
+
 All scripts auto-detect the current season/week if `--season` and `--week` are omitted.
 
 ## Data Layout
@@ -63,8 +82,11 @@ data/
   experts.json                                # Master expert registry
   picks/{season}/week-{week}.json             # ESPN expert picks
   picks/{season}/week-{week}-fantasynerds.json # Fantasy Nerds expert picks
+  picks/{season}/week-{week}-nfl.json         # NFL.com expert picks
+  picks/{season}/week-{week}-pft.json         # ProFootballTalk expert picks
   results/{season}/week-{week}.json           # Game outcomes
-  scores/{season}/leaderboard.json            # Accuracy rankings
+  scores/{season}/leaderboard.json            # Per-season accuracy rankings
+  scores/ratings.json                         # Cross-season expert ratings
 ```
 
 ## Automation
