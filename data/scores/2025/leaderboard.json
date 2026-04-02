@@ -3,6 +3,171 @@
   "through_week": 18,
   "experts": [
     {
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "outlet": "CBS Sports",
+      "correct": 13,
+      "total": 16,
+      "accuracy": 0.812,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 13,
+          "total": 16
+        }
+      ]
+    },
+    {
+      "expert": "geoff-lambert",
+      "expert_name": "Geoff Lambert",
+      "outlet": "GoingFor2.com",
+      "correct": 13,
+      "total": 16,
+      "accuracy": 0.812,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 13,
+          "total": 16
+        }
+      ]
+    },
+    {
+      "expert": "joe-reedy",
+      "expert_name": "Joe Reedy",
+      "outlet": "Associated Press",
+      "correct": 13,
+      "total": 16,
+      "accuracy": 0.812,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 13,
+          "total": 16
+        }
+      ]
+    },
+    {
+      "expert": "kelly-hallinan",
+      "expert_name": "Kelly Hallinan",
+      "outlet": "NBC 26",
+      "correct": 13,
+      "total": 16,
+      "accuracy": 0.812,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 13,
+          "total": 16
+        }
+      ]
+    },
+    {
+      "expert": "dom-tibbetts",
+      "expert_name": "Dom Tibbetts",
+      "outlet": "WKBW-TV",
+      "correct": 12,
+      "total": 16,
+      "accuracy": 0.75,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 12,
+          "total": 16
+        }
+      ]
+    },
+    {
+      "expert": "john-miller",
+      "expert_name": "John Miller",
+      "outlet": "NBC 26",
+      "correct": 12,
+      "total": 16,
+      "accuracy": 0.75,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 12,
+          "total": 16
+        }
+      ]
+    },
+    {
+      "expert": "scott-smith",
+      "expert_name": "Scott Smith",
+      "outlet": "FOX 13 Tampa Bay",
+      "correct": 12,
+      "total": 16,
+      "accuracy": 0.75,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 12,
+          "total": 16
+        }
+      ]
+    },
+    {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "outlet": "CBS Sports",
+      "correct": 22,
+      "total": 32,
+      "accuracy": 0.688,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 13,
+          "total": 16
+        },
+        {
+          "week": 18,
+          "correct": 9,
+          "total": 16
+        }
+      ]
+    },
+    {
+      "expert": "fanduel",
+      "expert_name": "FanDuel",
+      "outlet": "FanDuel",
+      "correct": 20,
+      "total": 30,
+      "accuracy": 0.667,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 10,
+          "total": 15
+        },
+        {
+          "week": 18,
+          "correct": 10,
+          "total": 15
+        }
+      ]
+    },
+    {
+      "expert": "yahoo-users",
+      "expert_name": "Yahoo Users",
+      "outlet": "Yahoo Sports",
+      "correct": 18,
+      "total": 27,
+      "accuracy": 0.667,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 12,
+          "total": 15
+        },
+        {
+          "week": 18,
+          "correct": 6,
+          "total": 12
+        }
+      ]
+    },
+    {
       "expert": "jason-reid",
       "expert_name": "Jason Reid",
       "outlet": "ESPN",
@@ -203,6 +368,26 @@
       ]
     },
     {
+      "expert": "draftkings",
+      "expert_name": "DraftKings",
+      "outlet": "DraftKings",
+      "correct": 19,
+      "total": 30,
+      "accuracy": 0.633,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 9,
+          "total": 15
+        },
+        {
+          "week": 18,
+          "correct": 10,
+          "total": 15
+        }
+      ]
+    },
+    {
       "expert": "lindsey-thiry",
       "expert_name": "Lindsey Thiry",
       "outlet": "ESPN",
@@ -398,6 +583,136 @@
         {
           "week": 18,
           "correct": 11,
+          "total": 16
+        }
+      ]
+    },
+    {
+      "expert": "regan-holgate",
+      "expert_name": "Regan Holgate",
+      "outlet": "WXIX-TV",
+      "correct": 20,
+      "total": 32,
+      "accuracy": 0.625,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 12,
+          "total": 16
+        },
+        {
+          "week": 18,
+          "correct": 8,
+          "total": 16
+        }
+      ]
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "outlet": "CBS Sports",
+      "correct": 20,
+      "total": 32,
+      "accuracy": 0.625,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 11,
+          "total": 16
+        },
+        {
+          "week": 18,
+          "correct": 9,
+          "total": 16
+        }
+      ]
+    },
+    {
+      "expert": "dave-richard",
+      "expert_name": "Dave Richard",
+      "outlet": "CBS Sports",
+      "correct": 20,
+      "total": 32,
+      "accuracy": 0.625,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 12,
+          "total": 16
+        },
+        {
+          "week": 18,
+          "correct": 8,
+          "total": 16
+        }
+      ]
+    },
+    {
+      "expert": "greg-kellogg",
+      "expert_name": "Greg Kellogg",
+      "outlet": "The Sports Affiliation",
+      "correct": 20,
+      "total": 32,
+      "accuracy": 0.625,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 12,
+          "total": 16
+        },
+        {
+          "week": 18,
+          "correct": 8,
+          "total": 16
+        }
+      ]
+    },
+    {
+      "expert": "nick-rothschild",
+      "expert_name": "Nick Rothschild",
+      "outlet": "Denver7",
+      "correct": 20,
+      "total": 32,
+      "accuracy": 0.625,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 11,
+          "total": 16
+        },
+        {
+          "week": 18,
+          "correct": 9,
+          "total": 16
+        }
+      ]
+    },
+    {
+      "expert": "mike-cairns",
+      "expert_name": "Mike Cairns",
+      "outlet": "Spectrum Sports",
+      "correct": 10,
+      "total": 16,
+      "accuracy": 0.625,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 10,
+          "total": 16
+        }
+      ]
+    },
+    {
+      "expert": "jeremy-rauch",
+      "expert_name": "Jeremy Rauch",
+      "outlet": "WXIX-TV",
+      "correct": 10,
+      "total": 16,
+      "accuracy": 0.625,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 10,
           "total": 16
         }
       ]
@@ -1098,6 +1413,126 @@
         {
           "week": 18,
           "correct": 10,
+          "total": 16
+        }
+      ]
+    },
+    {
+      "expert": "john-breech",
+      "expert_name": "John Breech",
+      "outlet": "CBS Sports",
+      "correct": 19,
+      "total": 32,
+      "accuracy": 0.594,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 11,
+          "total": 16
+        },
+        {
+          "week": 18,
+          "correct": 8,
+          "total": 16
+        }
+      ]
+    },
+    {
+      "expert": "steve-gardner",
+      "expert_name": "Steve Gardner",
+      "outlet": "USA Today",
+      "correct": 19,
+      "total": 32,
+      "accuracy": 0.594,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 9,
+          "total": 16
+        },
+        {
+          "week": 18,
+          "correct": 10,
+          "total": 16
+        }
+      ]
+    },
+    {
+      "expert": "ethan-mcreynolds",
+      "expert_name": "Ethan McReynolds",
+      "outlet": "Fox 13 Seattle",
+      "correct": 19,
+      "total": 32,
+      "accuracy": 0.594,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 12,
+          "total": 16
+        },
+        {
+          "week": 18,
+          "correct": 7,
+          "total": 16
+        }
+      ]
+    },
+    {
+      "expert": "tyler-sullivan",
+      "expert_name": "Tyler Sullivan",
+      "outlet": "CBS Sports",
+      "correct": 18,
+      "total": 32,
+      "accuracy": 0.562,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 9,
+          "total": 16
+        },
+        {
+          "week": 18,
+          "correct": 9,
+          "total": 16
+        }
+      ]
+    },
+    {
+      "expert": "cody-benjamin",
+      "expert_name": "Cody Benjamin",
+      "outlet": "CBS Sports",
+      "correct": 18,
+      "total": 32,
+      "accuracy": 0.562,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 10,
+          "total": 16
+        },
+        {
+          "week": 18,
+          "correct": 8,
+          "total": 16
+        }
+      ]
+    },
+    {
+      "expert": "jared-dubin",
+      "expert_name": "Jared Dubin",
+      "outlet": "CBS Sports",
+      "correct": 16,
+      "total": 32,
+      "accuracy": 0.5,
+      "weekly": [
+        {
+          "week": 1,
+          "correct": 9,
+          "total": 16
+        },
+        {
+          "week": 18,
+          "correct": 7,
           "total": 16
         }
       ]

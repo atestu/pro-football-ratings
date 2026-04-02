@@ -38,6 +38,7 @@ def find_scored_weeks(season: int) -> list[int]:
     picks_weeks = {
         int(f.stem.split("-")[1])
         for f in picks_dir.glob("week-*.json")
+        if f.stem.split("-")[1].isdigit()
     }
     results_weeks = sorted(
         int(f.stem.split("-")[1])
@@ -147,18 +148,38 @@ def main():
 
     weekly_scores: dict[int, dict[str, dict]] = {}
     for w in weeks_to_score:
-        picks = load_json(ROOT / "data" / "picks" / str(season) / f"week-{w}.json")
+        picks_dir = ROOT / "data" / "picks" / str(season)
+        espn_picks = load_json(picks_dir / f"week-{w}.json")
+        fn_picks = load_json(picks_dir / f"week-{w}-fantasynerds.json")
         results = load_json(ROOT / "data" / "results" / str(season) / f"week-{w}.json")
 
-        if not picks:
-            print(f"  No picks file for Week {w}, skipping")
+        all_picks_list = []
+        seen = set()
+        for source in (espn_picks, fn_picks):
+            if not source:
+                continue
+            for p in source["picks"]:
+                key = (p["expert"], p["game_id"])
+                if key not in seen:
+                    seen.add(key)
+                    all_picks_list.append(p)
+
+        if not all_picks_list:
+            print(f"  No picks files for Week {w}, skipping")
             continue
         if not results:
             print(f"  No results file for Week {w}, skipping")
             continue
 
-        print(f"  Week {w}: {len(picks['picks'])} picks, {len(results['games'])} games")
-        weekly_scores[w] = score_week(picks, results)
+        sources = []
+        if espn_picks:
+            sources.append(f"ESPN:{len(espn_picks['picks'])}")
+        if fn_picks:
+            sources.append(f"FN:{len(fn_picks['picks'])}")
+
+        combined = {"picks": all_picks_list}
+        print(f"  Week {w}: {len(all_picks_list)} picks ({', '.join(sources)}), {len(results['games'])} games")
+        weekly_scores[w] = score_week(combined, results)
 
     if not weekly_scores:
         print("No weeks could be scored.")
