@@ -158,10 +158,53 @@ def build_leaderboard(
     }
 
 
+def print_leaderboard(leaderboard: dict, sort_by: str = "pct", outlet: str | None = None) -> None:
+    """Print leaderboard as a formatted table."""
+    experts = leaderboard["experts"]
+
+    if outlet:
+        outlet_lower = outlet.lower()
+        experts = [e for e in experts if outlet_lower in e["outlet"].lower()]
+
+    if sort_by == "ats":
+        experts.sort(key=lambda e: (-e["ats_accuracy"], -e["ats_total"]))
+
+    if not experts:
+        print("No experts to display.")
+        return
+
+    title = f"  {leaderboard['season']} NFL Expert Picks — Through Week {leaderboard['through_week']}"
+    if outlet:
+        title += f" ({outlet})"
+    sort_label = "ATS%" if sort_by == "ats" else "Pct"
+    title += f"  [sorted by {sort_label}]"
+
+    header = f"{'#':>3}  {'Expert':<25} {'Outlet':<20} {'W-L':>7} {'Pct':>6} {'ATS':>9} {'ATS%':>6}"
+    print(f"\n{'=' * len(header)}")
+    print(title)
+    print(f"{'=' * len(header)}")
+    print(header)
+    print(f"{'-' * len(header)}")
+
+    for i, e in enumerate(experts, 1):
+        wl = f"{e['correct']}-{e['total'] - e['correct']}"
+        pct = f"{e['accuracy']:.1%}"
+        ats_w = e["ats_correct"]
+        ats_l = e["ats_total"] - e["ats_correct"]
+        ats = f"{ats_w:g}-{ats_l:g}"
+        ats_pct = f"{e['ats_accuracy']:.1%}" if e["ats_total"] else "—"
+        print(f"{i:>3}  {e['expert_name']:<25} {e['outlet']:<20} {wl:>7} {pct:>6} {ats:>9} {ats_pct:>6}")
+
+    print()
+
+
 def get_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Score expert picks")
     parser.add_argument("--season", type=int, default=None)
     parser.add_argument("--week", type=int, default=None)
+    parser.add_argument("--table", action="store_true", help="Print leaderboard as a table")
+    parser.add_argument("--sort", choices=["pct", "ats"], default="pct", help="Sort by: pct (straight-up) or ats (against the spread)")
+    parser.add_argument("--outlet", type=str, default=None, help="Filter by outlet (substring match, e.g. 'ESPN', 'CBS')")
     return parser.parse_args()
 
 
@@ -227,6 +270,9 @@ def main():
     scores_path = scores_dir / "leaderboard.json"
     scores_path.write_text(json.dumps(leaderboard, indent=2) + "\n")
     print(f"Wrote leaderboard with {len(leaderboard['experts'])} experts to {scores_path}")
+
+    if args.table:
+        print_leaderboard(leaderboard, sort_by=args.sort, outlet=args.outlet)
 
 
 if __name__ == "__main__":
