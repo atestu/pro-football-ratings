@@ -1,0 +1,979 @@
+{
+  "season": 2022,
+  "week": 7,
+  "season_type": "REG",
+  "scraped_at": "2026-04-02T14:10:16Z",
+  "sources": [
+    "espn_talentpicks"
+  ],
+  "games": [
+    {
+      "game_id": "2022_07_NO_ARI",
+      "away_team": "NO",
+      "home_team": "ARI",
+      "kickoff": "2022-10-21T00:15:00.000+00:00"
+    },
+    {
+      "game_id": "2022_07_ATL_CIN",
+      "away_team": "ATL",
+      "home_team": "CIN",
+      "kickoff": "2022-10-23T17:00:00.000+00:00"
+    },
+    {
+      "game_id": "2022_07_DET_DAL",
+      "away_team": "DET",
+      "home_team": "DAL",
+      "kickoff": "2022-10-23T17:00:00.000+00:00"
+    },
+    {
+      "game_id": "2022_07_IND_TEN",
+      "away_team": "IND",
+      "home_team": "TEN",
+      "kickoff": "2022-10-23T17:00:00.000+00:00"
+    },
+    {
+      "game_id": "2022_07_GB_WAS",
+      "away_team": "GB",
+      "home_team": "WAS",
+      "kickoff": "2022-10-23T17:00:00.000+00:00"
+    },
+    {
+      "game_id": "2022_07_TB_CAR",
+      "away_team": "TB",
+      "home_team": "CAR",
+      "kickoff": "2022-10-23T17:00:00.000+00:00"
+    },
+    {
+      "game_id": "2022_07_NYG_JAX",
+      "away_team": "NYG",
+      "home_team": "JAX",
+      "kickoff": "2022-10-23T17:00:00.000+00:00"
+    },
+    {
+      "game_id": "2022_07_CLE_BAL",
+      "away_team": "CLE",
+      "home_team": "BAL",
+      "kickoff": "2022-10-23T17:00:00.000+00:00"
+    },
+    {
+      "game_id": "2022_07_NYJ_DEN",
+      "away_team": "NYJ",
+      "home_team": "DEN",
+      "kickoff": "2022-10-23T20:05:00.000+00:00"
+    },
+    {
+      "game_id": "2022_07_HOU_LV",
+      "away_team": "HOU",
+      "home_team": "LV",
+      "kickoff": "2022-10-23T20:05:00.000+00:00"
+    },
+    {
+      "game_id": "2022_07_SEA_LAC",
+      "away_team": "SEA",
+      "home_team": "LAC",
+      "kickoff": "2022-10-23T20:25:00.000+00:00"
+    },
+    {
+      "game_id": "2022_07_KC_SF",
+      "away_team": "KC",
+      "home_team": "SF",
+      "kickoff": "2022-10-23T20:25:00.000+00:00"
+    },
+    {
+      "game_id": "2022_07_PIT_MIA",
+      "away_team": "PIT",
+      "home_team": "MIA",
+      "kickoff": "2022-10-24T00:20:00.000+00:00"
+    },
+    {
+      "game_id": "2022_07_CHI_NE",
+      "away_team": "CHI",
+      "home_team": "NE",
+      "kickoff": "2022-10-25T00:15:00.000+00:00"
+    }
+  ],
+  "picks": [
+    {
+      "expert": "stephania-bell",
+      "expert_name": "Stephania Bell",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_NO_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_NO_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_NO_ARI",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_NO_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_NO_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_NO_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_NO_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "stephania-bell",
+      "expert_name": "Stephania Bell",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_ATL_CIN",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_ATL_CIN",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_ATL_CIN",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_ATL_CIN",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_ATL_CIN",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_ATL_CIN",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_ATL_CIN",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "stephania-bell",
+      "expert_name": "Stephania Bell",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_DET_DAL",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_DET_DAL",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_DET_DAL",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_DET_DAL",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_DET_DAL",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_DET_DAL",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_DET_DAL",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "stephania-bell",
+      "expert_name": "Stephania Bell",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_IND_TEN",
+      "pick": "IND",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_IND_TEN",
+      "pick": "TEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_IND_TEN",
+      "pick": "IND",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_IND_TEN",
+      "pick": "IND",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_IND_TEN",
+      "pick": "IND",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_IND_TEN",
+      "pick": "TEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_IND_TEN",
+      "pick": "TEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "stephania-bell",
+      "expert_name": "Stephania Bell",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_GB_WAS",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_GB_WAS",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_GB_WAS",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_GB_WAS",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_GB_WAS",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_GB_WAS",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_GB_WAS",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "stephania-bell",
+      "expert_name": "Stephania Bell",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_TB_CAR",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_TB_CAR",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_TB_CAR",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_TB_CAR",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_TB_CAR",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_TB_CAR",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_TB_CAR",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "stephania-bell",
+      "expert_name": "Stephania Bell",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_NYG_JAX",
+      "pick": "NYG",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_NYG_JAX",
+      "pick": "NYG",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_NYG_JAX",
+      "pick": "JAX",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_NYG_JAX",
+      "pick": "NYG",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_NYG_JAX",
+      "pick": "NYG",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_NYG_JAX",
+      "pick": "NYG",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_NYG_JAX",
+      "pick": "NYG",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "stephania-bell",
+      "expert_name": "Stephania Bell",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_CLE_BAL",
+      "pick": "BAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_CLE_BAL",
+      "pick": "BAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_CLE_BAL",
+      "pick": "BAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_CLE_BAL",
+      "pick": "BAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_CLE_BAL",
+      "pick": "BAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_CLE_BAL",
+      "pick": "BAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_CLE_BAL",
+      "pick": "BAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "stephania-bell",
+      "expert_name": "Stephania Bell",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_NYJ_DEN",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_NYJ_DEN",
+      "pick": "NYJ",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_NYJ_DEN",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_NYJ_DEN",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_NYJ_DEN",
+      "pick": "NYJ",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_NYJ_DEN",
+      "pick": "NYJ",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_NYJ_DEN",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "stephania-bell",
+      "expert_name": "Stephania Bell",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_HOU_LV",
+      "pick": "LV",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_HOU_LV",
+      "pick": "LV",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_HOU_LV",
+      "pick": "LV",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_HOU_LV",
+      "pick": "LV",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_HOU_LV",
+      "pick": "LV",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_HOU_LV",
+      "pick": "LV",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_HOU_LV",
+      "pick": "LV",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "stephania-bell",
+      "expert_name": "Stephania Bell",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_SEA_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_SEA_LAC",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_SEA_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_SEA_LAC",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_SEA_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_SEA_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_SEA_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "stephania-bell",
+      "expert_name": "Stephania Bell",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_KC_SF",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_KC_SF",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_KC_SF",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_KC_SF",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_KC_SF",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_KC_SF",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_KC_SF",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "stephania-bell",
+      "expert_name": "Stephania Bell",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_PIT_MIA",
+      "pick": "MIA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_PIT_MIA",
+      "pick": "MIA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_PIT_MIA",
+      "pick": "MIA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_PIT_MIA",
+      "pick": "MIA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_PIT_MIA",
+      "pick": "MIA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_PIT_MIA",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_PIT_MIA",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "stephania-bell",
+      "expert_name": "Stephania Bell",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_CHI_NE",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_CHI_NE",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_CHI_NE",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_CHI_NE",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_CHI_NE",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_CHI_NE",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2022_07_CHI_NE",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    }
+  ]
+}

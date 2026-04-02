@@ -1,0 +1,6807 @@
+{
+  "season": 2021,
+  "week": 2,
+  "season_type": "REG",
+  "scraped_at": "2026-04-02T18:22:52Z",
+  "sources": [
+    "fantasynerds"
+  ],
+  "games": [
+    {
+      "game_id": "2021_02_DET_GB",
+      "away_team": "DET",
+      "home_team": "GB"
+    },
+    {
+      "game_id": "2021_02_KC_BAL",
+      "away_team": "KC",
+      "home_team": "BAL"
+    },
+    {
+      "game_id": "2021_02_TEN_SEA",
+      "away_team": "TEN",
+      "home_team": "SEA"
+    },
+    {
+      "game_id": "2021_02_DAL_LAC",
+      "away_team": "DAL",
+      "home_team": "LAC"
+    },
+    {
+      "game_id": "2021_02_ATL_TB",
+      "away_team": "ATL",
+      "home_team": "TB"
+    },
+    {
+      "game_id": "2021_02_MIN_ARI",
+      "away_team": "MIN",
+      "home_team": "ARI"
+    },
+    {
+      "game_id": "2021_02_DEN_JAX",
+      "away_team": "DEN",
+      "home_team": "JAX"
+    },
+    {
+      "game_id": "2021_02_NO_CAR",
+      "away_team": "NO",
+      "home_team": "CAR"
+    },
+    {
+      "game_id": "2021_02_LV_PIT",
+      "away_team": "LV",
+      "home_team": "PIT"
+    },
+    {
+      "game_id": "2021_02_SF_PHI",
+      "away_team": "SF",
+      "home_team": "PHI"
+    },
+    {
+      "game_id": "2021_02_NE_NYJ",
+      "away_team": "NE",
+      "home_team": "NYJ"
+    },
+    {
+      "game_id": "2021_02_BUF_MIA",
+      "away_team": "BUF",
+      "home_team": "MIA"
+    },
+    {
+      "game_id": "2021_02_LA_IND",
+      "away_team": "LA",
+      "home_team": "IND"
+    },
+    {
+      "game_id": "2021_02_HOU_CLE",
+      "away_team": "HOU",
+      "home_team": "CLE"
+    },
+    {
+      "game_id": "2021_02_CIN_CHI",
+      "away_team": "CIN",
+      "home_team": "CHI"
+    },
+    {
+      "game_id": "2021_02_NYG_WAS",
+      "away_team": "NYG",
+      "home_team": "WAS"
+    }
+  ],
+  "picks": [
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "MIA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "NYG",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "PHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-la-canfora",
+      "expert_name": "Jason La Canfora",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-la-canfora",
+      "expert_name": "Jason La Canfora",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-la-canfora",
+      "expert_name": "Jason La Canfora",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-la-canfora",
+      "expert_name": "Jason La Canfora",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-la-canfora",
+      "expert_name": "Jason La Canfora",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-la-canfora",
+      "expert_name": "Jason La Canfora",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-la-canfora",
+      "expert_name": "Jason La Canfora",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-la-canfora",
+      "expert_name": "Jason La Canfora",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-la-canfora",
+      "expert_name": "Jason La Canfora",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-la-canfora",
+      "expert_name": "Jason La Canfora",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-la-canfora",
+      "expert_name": "Jason La Canfora",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-la-canfora",
+      "expert_name": "Jason La Canfora",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-la-canfora",
+      "expert_name": "Jason La Canfora",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-la-canfora",
+      "expert_name": "Jason La Canfora",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-la-canfora",
+      "expert_name": "Jason La Canfora",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-la-canfora",
+      "expert_name": "Jason La Canfora",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "will-brinson",
+      "expert_name": "Will Brinson",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "will-brinson",
+      "expert_name": "Will Brinson",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "will-brinson",
+      "expert_name": "Will Brinson",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "will-brinson",
+      "expert_name": "Will Brinson",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "will-brinson",
+      "expert_name": "Will Brinson",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "will-brinson",
+      "expert_name": "Will Brinson",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "will-brinson",
+      "expert_name": "Will Brinson",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "will-brinson",
+      "expert_name": "Will Brinson",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "will-brinson",
+      "expert_name": "Will Brinson",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "will-brinson",
+      "expert_name": "Will Brinson",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "will-brinson",
+      "expert_name": "Will Brinson",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "will-brinson",
+      "expert_name": "Will Brinson",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "will-brinson",
+      "expert_name": "Will Brinson",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "will-brinson",
+      "expert_name": "Will Brinson",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "will-brinson",
+      "expert_name": "Will Brinson",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "will-brinson",
+      "expert_name": "Will Brinson",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jared-dubin",
+      "expert_name": "Jared Dubin",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jared-dubin",
+      "expert_name": "Jared Dubin",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jared-dubin",
+      "expert_name": "Jared Dubin",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jared-dubin",
+      "expert_name": "Jared Dubin",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jared-dubin",
+      "expert_name": "Jared Dubin",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jared-dubin",
+      "expert_name": "Jared Dubin",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jared-dubin",
+      "expert_name": "Jared Dubin",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jared-dubin",
+      "expert_name": "Jared Dubin",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jared-dubin",
+      "expert_name": "Jared Dubin",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jared-dubin",
+      "expert_name": "Jared Dubin",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jared-dubin",
+      "expert_name": "Jared Dubin",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jared-dubin",
+      "expert_name": "Jared Dubin",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jared-dubin",
+      "expert_name": "Jared Dubin",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jared-dubin",
+      "expert_name": "Jared Dubin",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jared-dubin",
+      "expert_name": "Jared Dubin",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jared-dubin",
+      "expert_name": "Jared Dubin",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "MIA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "john-breech",
+      "expert_name": "John Breech",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "john-breech",
+      "expert_name": "John Breech",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "john-breech",
+      "expert_name": "John Breech",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "john-breech",
+      "expert_name": "John Breech",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "john-breech",
+      "expert_name": "John Breech",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "john-breech",
+      "expert_name": "John Breech",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "john-breech",
+      "expert_name": "John Breech",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "john-breech",
+      "expert_name": "John Breech",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "john-breech",
+      "expert_name": "John Breech",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "john-breech",
+      "expert_name": "John Breech",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "john-breech",
+      "expert_name": "John Breech",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "john-breech",
+      "expert_name": "John Breech",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "john-breech",
+      "expert_name": "John Breech",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "john-breech",
+      "expert_name": "John Breech",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "john-breech",
+      "expert_name": "John Breech",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "john-breech",
+      "expert_name": "John Breech",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "NYG",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dave-richard",
+      "expert_name": "Dave Richard",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dave-richard",
+      "expert_name": "Dave Richard",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dave-richard",
+      "expert_name": "Dave Richard",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dave-richard",
+      "expert_name": "Dave Richard",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dave-richard",
+      "expert_name": "Dave Richard",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dave-richard",
+      "expert_name": "Dave Richard",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dave-richard",
+      "expert_name": "Dave Richard",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dave-richard",
+      "expert_name": "Dave Richard",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dave-richard",
+      "expert_name": "Dave Richard",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dave-richard",
+      "expert_name": "Dave Richard",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "PHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dave-richard",
+      "expert_name": "Dave Richard",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dave-richard",
+      "expert_name": "Dave Richard",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dave-richard",
+      "expert_name": "Dave Richard",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dave-richard",
+      "expert_name": "Dave Richard",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dave-richard",
+      "expert_name": "Dave Richard",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dave-richard",
+      "expert_name": "Dave Richard",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "PHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "source": "fantasynerds",
+      "outlet": "CBS",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "TEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "PHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-seifert",
+      "expert_name": "Kevin Seifert",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-seifert",
+      "expert_name": "Kevin Seifert",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "BAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-seifert",
+      "expert_name": "Kevin Seifert",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-seifert",
+      "expert_name": "Kevin Seifert",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-seifert",
+      "expert_name": "Kevin Seifert",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-seifert",
+      "expert_name": "Kevin Seifert",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-seifert",
+      "expert_name": "Kevin Seifert",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-seifert",
+      "expert_name": "Kevin Seifert",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-seifert",
+      "expert_name": "Kevin Seifert",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-seifert",
+      "expert_name": "Kevin Seifert",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-seifert",
+      "expert_name": "Kevin Seifert",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-seifert",
+      "expert_name": "Kevin Seifert",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "MIA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-seifert",
+      "expert_name": "Kevin Seifert",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-seifert",
+      "expert_name": "Kevin Seifert",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-seifert",
+      "expert_name": "Kevin Seifert",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-seifert",
+      "expert_name": "Kevin Seifert",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "yahoo-users",
+      "expert_name": "Yahoo Users",
+      "source": "fantasynerds",
+      "outlet": "Yahoo Sports",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "yahoo-users",
+      "expert_name": "Yahoo Users",
+      "source": "fantasynerds",
+      "outlet": "Yahoo Sports",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "yahoo-users",
+      "expert_name": "Yahoo Users",
+      "source": "fantasynerds",
+      "outlet": "Yahoo Sports",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "yahoo-users",
+      "expert_name": "Yahoo Users",
+      "source": "fantasynerds",
+      "outlet": "Yahoo Sports",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "yahoo-users",
+      "expert_name": "Yahoo Users",
+      "source": "fantasynerds",
+      "outlet": "Yahoo Sports",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "yahoo-users",
+      "expert_name": "Yahoo Users",
+      "source": "fantasynerds",
+      "outlet": "Yahoo Sports",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "yahoo-users",
+      "expert_name": "Yahoo Users",
+      "source": "fantasynerds",
+      "outlet": "Yahoo Sports",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "yahoo-users",
+      "expert_name": "Yahoo Users",
+      "source": "fantasynerds",
+      "outlet": "Yahoo Sports",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "yahoo-users",
+      "expert_name": "Yahoo Users",
+      "source": "fantasynerds",
+      "outlet": "Yahoo Sports",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "yahoo-users",
+      "expert_name": "Yahoo Users",
+      "source": "fantasynerds",
+      "outlet": "Yahoo Sports",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "yahoo-users",
+      "expert_name": "Yahoo Users",
+      "source": "fantasynerds",
+      "outlet": "Yahoo Sports",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "yahoo-users",
+      "expert_name": "Yahoo Users",
+      "source": "fantasynerds",
+      "outlet": "Yahoo Sports",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "yahoo-users",
+      "expert_name": "Yahoo Users",
+      "source": "fantasynerds",
+      "outlet": "Yahoo Sports",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "PHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brad-castronovo",
+      "expert_name": "Brad Castronovo",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brad-castronovo",
+      "expert_name": "Brad Castronovo",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brad-castronovo",
+      "expert_name": "Brad Castronovo",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "TEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brad-castronovo",
+      "expert_name": "Brad Castronovo",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brad-castronovo",
+      "expert_name": "Brad Castronovo",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brad-castronovo",
+      "expert_name": "Brad Castronovo",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brad-castronovo",
+      "expert_name": "Brad Castronovo",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brad-castronovo",
+      "expert_name": "Brad Castronovo",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brad-castronovo",
+      "expert_name": "Brad Castronovo",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brad-castronovo",
+      "expert_name": "Brad Castronovo",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brad-castronovo",
+      "expert_name": "Brad Castronovo",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brad-castronovo",
+      "expert_name": "Brad Castronovo",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brad-castronovo",
+      "expert_name": "Brad Castronovo",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brad-castronovo",
+      "expert_name": "Brad Castronovo",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brad-castronovo",
+      "expert_name": "Brad Castronovo",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brad-castronovo",
+      "expert_name": "Brad Castronovo",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brandon-hamer",
+      "expert_name": "Brandon Hamer",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brandon-hamer",
+      "expert_name": "Brandon Hamer",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brandon-hamer",
+      "expert_name": "Brandon Hamer",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brandon-hamer",
+      "expert_name": "Brandon Hamer",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brandon-hamer",
+      "expert_name": "Brandon Hamer",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brandon-hamer",
+      "expert_name": "Brandon Hamer",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brandon-hamer",
+      "expert_name": "Brandon Hamer",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brandon-hamer",
+      "expert_name": "Brandon Hamer",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brandon-hamer",
+      "expert_name": "Brandon Hamer",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "LV",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brandon-hamer",
+      "expert_name": "Brandon Hamer",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brandon-hamer",
+      "expert_name": "Brandon Hamer",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brandon-hamer",
+      "expert_name": "Brandon Hamer",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brandon-hamer",
+      "expert_name": "Brandon Hamer",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brandon-hamer",
+      "expert_name": "Brandon Hamer",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brandon-hamer",
+      "expert_name": "Brandon Hamer",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brandon-sysak",
+      "expert_name": "Brandon Sysak",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brandon-sysak",
+      "expert_name": "Brandon Sysak",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brandon-sysak",
+      "expert_name": "Brandon Sysak",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brandon-sysak",
+      "expert_name": "Brandon Sysak",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brandon-sysak",
+      "expert_name": "Brandon Sysak",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brandon-sysak",
+      "expert_name": "Brandon Sysak",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brandon-sysak",
+      "expert_name": "Brandon Sysak",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brandon-sysak",
+      "expert_name": "Brandon Sysak",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brandon-sysak",
+      "expert_name": "Brandon Sysak",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brandon-sysak",
+      "expert_name": "Brandon Sysak",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brandon-sysak",
+      "expert_name": "Brandon Sysak",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brandon-sysak",
+      "expert_name": "Brandon Sysak",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brandon-sysak",
+      "expert_name": "Brandon Sysak",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brandon-sysak",
+      "expert_name": "Brandon Sysak",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brandon-sysak",
+      "expert_name": "Brandon Sysak",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brandon-sysak",
+      "expert_name": "Brandon Sysak",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kyle-salamido",
+      "expert_name": "Kyle Salamido",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kyle-salamido",
+      "expert_name": "Kyle Salamido",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kyle-salamido",
+      "expert_name": "Kyle Salamido",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kyle-salamido",
+      "expert_name": "Kyle Salamido",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kyle-salamido",
+      "expert_name": "Kyle Salamido",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kyle-salamido",
+      "expert_name": "Kyle Salamido",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kyle-salamido",
+      "expert_name": "Kyle Salamido",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kyle-salamido",
+      "expert_name": "Kyle Salamido",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kyle-salamido",
+      "expert_name": "Kyle Salamido",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kyle-salamido",
+      "expert_name": "Kyle Salamido",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kyle-salamido",
+      "expert_name": "Kyle Salamido",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kyle-salamido",
+      "expert_name": "Kyle Salamido",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "MIA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kyle-salamido",
+      "expert_name": "Kyle Salamido",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kyle-salamido",
+      "expert_name": "Kyle Salamido",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kyle-salamido",
+      "expert_name": "Kyle Salamido",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kyle-salamido",
+      "expert_name": "Kyle Salamido",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-keller",
+      "expert_name": "Seth Keller",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-keller",
+      "expert_name": "Seth Keller",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-keller",
+      "expert_name": "Seth Keller",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-keller",
+      "expert_name": "Seth Keller",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-keller",
+      "expert_name": "Seth Keller",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-keller",
+      "expert_name": "Seth Keller",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-keller",
+      "expert_name": "Seth Keller",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-keller",
+      "expert_name": "Seth Keller",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-keller",
+      "expert_name": "Seth Keller",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-keller",
+      "expert_name": "Seth Keller",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-keller",
+      "expert_name": "Seth Keller",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-keller",
+      "expert_name": "Seth Keller",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-keller",
+      "expert_name": "Seth Keller",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-keller",
+      "expert_name": "Seth Keller",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-keller",
+      "expert_name": "Seth Keller",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-keller",
+      "expert_name": "Seth Keller",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "warren-kiessling",
+      "expert_name": "Warren Kiessling",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "warren-kiessling",
+      "expert_name": "Warren Kiessling",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "warren-kiessling",
+      "expert_name": "Warren Kiessling",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "warren-kiessling",
+      "expert_name": "Warren Kiessling",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "warren-kiessling",
+      "expert_name": "Warren Kiessling",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "warren-kiessling",
+      "expert_name": "Warren Kiessling",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "warren-kiessling",
+      "expert_name": "Warren Kiessling",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "warren-kiessling",
+      "expert_name": "Warren Kiessling",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "warren-kiessling",
+      "expert_name": "Warren Kiessling",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "warren-kiessling",
+      "expert_name": "Warren Kiessling",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "PHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "warren-kiessling",
+      "expert_name": "Warren Kiessling",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "warren-kiessling",
+      "expert_name": "Warren Kiessling",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "MIA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "warren-kiessling",
+      "expert_name": "Warren Kiessling",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "warren-kiessling",
+      "expert_name": "Warren Kiessling",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "warren-kiessling",
+      "expert_name": "Warren Kiessling",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "warren-kiessling",
+      "expert_name": "Warren Kiessling",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "laura-rutledge",
+      "expert_name": "Laura Rutledge",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "laura-rutledge",
+      "expert_name": "Laura Rutledge",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "laura-rutledge",
+      "expert_name": "Laura Rutledge",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "laura-rutledge",
+      "expert_name": "Laura Rutledge",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "laura-rutledge",
+      "expert_name": "Laura Rutledge",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "laura-rutledge",
+      "expert_name": "Laura Rutledge",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "laura-rutledge",
+      "expert_name": "Laura Rutledge",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "laura-rutledge",
+      "expert_name": "Laura Rutledge",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "laura-rutledge",
+      "expert_name": "Laura Rutledge",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "laura-rutledge",
+      "expert_name": "Laura Rutledge",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "PHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "laura-rutledge",
+      "expert_name": "Laura Rutledge",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "laura-rutledge",
+      "expert_name": "Laura Rutledge",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "laura-rutledge",
+      "expert_name": "Laura Rutledge",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "laura-rutledge",
+      "expert_name": "Laura Rutledge",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "laura-rutledge",
+      "expert_name": "Laura Rutledge",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "laura-rutledge",
+      "expert_name": "Laura Rutledge",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "woody-damien",
+      "expert_name": "Woody Damien",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "woody-damien",
+      "expert_name": "Woody Damien",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "woody-damien",
+      "expert_name": "Woody Damien",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "woody-damien",
+      "expert_name": "Woody Damien",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "woody-damien",
+      "expert_name": "Woody Damien",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "woody-damien",
+      "expert_name": "Woody Damien",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "woody-damien",
+      "expert_name": "Woody Damien",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "woody-damien",
+      "expert_name": "Woody Damien",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "woody-damien",
+      "expert_name": "Woody Damien",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "woody-damien",
+      "expert_name": "Woody Damien",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "PHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "woody-damien",
+      "expert_name": "Woody Damien",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "woody-damien",
+      "expert_name": "Woody Damien",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "MIA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "woody-damien",
+      "expert_name": "Woody Damien",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "woody-damien",
+      "expert_name": "Woody Damien",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "woody-damien",
+      "expert_name": "Woody Damien",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "woody-damien",
+      "expert_name": "Woody Damien",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "fanduel",
+      "expert_name": "FanDuel",
+      "source": "fantasynerds",
+      "outlet": "FanDuel",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "fanduel",
+      "expert_name": "FanDuel",
+      "source": "fantasynerds",
+      "outlet": "FanDuel",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "fanduel",
+      "expert_name": "FanDuel",
+      "source": "fantasynerds",
+      "outlet": "FanDuel",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "fanduel",
+      "expert_name": "FanDuel",
+      "source": "fantasynerds",
+      "outlet": "FanDuel",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "fanduel",
+      "expert_name": "FanDuel",
+      "source": "fantasynerds",
+      "outlet": "FanDuel",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "fanduel",
+      "expert_name": "FanDuel",
+      "source": "fantasynerds",
+      "outlet": "FanDuel",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "fanduel",
+      "expert_name": "FanDuel",
+      "source": "fantasynerds",
+      "outlet": "FanDuel",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "fanduel",
+      "expert_name": "FanDuel",
+      "source": "fantasynerds",
+      "outlet": "FanDuel",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "fanduel",
+      "expert_name": "FanDuel",
+      "source": "fantasynerds",
+      "outlet": "FanDuel",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "fanduel",
+      "expert_name": "FanDuel",
+      "source": "fantasynerds",
+      "outlet": "FanDuel",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "fanduel",
+      "expert_name": "FanDuel",
+      "source": "fantasynerds",
+      "outlet": "FanDuel",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "fanduel",
+      "expert_name": "FanDuel",
+      "source": "fantasynerds",
+      "outlet": "FanDuel",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "fanduel",
+      "expert_name": "FanDuel",
+      "source": "fantasynerds",
+      "outlet": "FanDuel",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "fanduel",
+      "expert_name": "FanDuel",
+      "source": "fantasynerds",
+      "outlet": "FanDuel",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "fanduel",
+      "expert_name": "FanDuel",
+      "source": "fantasynerds",
+      "outlet": "FanDuel",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "fanduel",
+      "expert_name": "FanDuel",
+      "source": "fantasynerds",
+      "outlet": "FanDuel",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "draftkings",
+      "expert_name": "DraftKings",
+      "source": "fantasynerds",
+      "outlet": "DraftKings",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "draftkings",
+      "expert_name": "DraftKings",
+      "source": "fantasynerds",
+      "outlet": "DraftKings",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "draftkings",
+      "expert_name": "DraftKings",
+      "source": "fantasynerds",
+      "outlet": "DraftKings",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "draftkings",
+      "expert_name": "DraftKings",
+      "source": "fantasynerds",
+      "outlet": "DraftKings",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "draftkings",
+      "expert_name": "DraftKings",
+      "source": "fantasynerds",
+      "outlet": "DraftKings",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "draftkings",
+      "expert_name": "DraftKings",
+      "source": "fantasynerds",
+      "outlet": "DraftKings",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "draftkings",
+      "expert_name": "DraftKings",
+      "source": "fantasynerds",
+      "outlet": "DraftKings",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "draftkings",
+      "expert_name": "DraftKings",
+      "source": "fantasynerds",
+      "outlet": "DraftKings",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "draftkings",
+      "expert_name": "DraftKings",
+      "source": "fantasynerds",
+      "outlet": "DraftKings",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "draftkings",
+      "expert_name": "DraftKings",
+      "source": "fantasynerds",
+      "outlet": "DraftKings",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "draftkings",
+      "expert_name": "DraftKings",
+      "source": "fantasynerds",
+      "outlet": "DraftKings",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "draftkings",
+      "expert_name": "DraftKings",
+      "source": "fantasynerds",
+      "outlet": "DraftKings",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "draftkings",
+      "expert_name": "DraftKings",
+      "source": "fantasynerds",
+      "outlet": "DraftKings",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "draftkings",
+      "expert_name": "DraftKings",
+      "source": "fantasynerds",
+      "outlet": "DraftKings",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "draftkings",
+      "expert_name": "DraftKings",
+      "source": "fantasynerds",
+      "outlet": "DraftKings",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "draftkings",
+      "expert_name": "DraftKings",
+      "source": "fantasynerds",
+      "outlet": "DraftKings",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "damon-marx",
+      "expert_name": "Damon Marx",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "damon-marx",
+      "expert_name": "Damon Marx",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "damon-marx",
+      "expert_name": "Damon Marx",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "damon-marx",
+      "expert_name": "Damon Marx",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "damon-marx",
+      "expert_name": "Damon Marx",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "damon-marx",
+      "expert_name": "Damon Marx",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "damon-marx",
+      "expert_name": "Damon Marx",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "damon-marx",
+      "expert_name": "Damon Marx",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "damon-marx",
+      "expert_name": "Damon Marx",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "damon-marx",
+      "expert_name": "Damon Marx",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "damon-marx",
+      "expert_name": "Damon Marx",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "damon-marx",
+      "expert_name": "Damon Marx",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "damon-marx",
+      "expert_name": "Damon Marx",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "damon-marx",
+      "expert_name": "Damon Marx",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "damon-marx",
+      "expert_name": "Damon Marx",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "damon-marx",
+      "expert_name": "Damon Marx",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tim-cowlishaw",
+      "expert_name": "Tim Cowlishaw",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tim-cowlishaw",
+      "expert_name": "Tim Cowlishaw",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tim-cowlishaw",
+      "expert_name": "Tim Cowlishaw",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tim-cowlishaw",
+      "expert_name": "Tim Cowlishaw",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tim-cowlishaw",
+      "expert_name": "Tim Cowlishaw",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tim-cowlishaw",
+      "expert_name": "Tim Cowlishaw",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tim-cowlishaw",
+      "expert_name": "Tim Cowlishaw",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tim-cowlishaw",
+      "expert_name": "Tim Cowlishaw",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tim-cowlishaw",
+      "expert_name": "Tim Cowlishaw",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tim-cowlishaw",
+      "expert_name": "Tim Cowlishaw",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tim-cowlishaw",
+      "expert_name": "Tim Cowlishaw",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tim-cowlishaw",
+      "expert_name": "Tim Cowlishaw",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tim-cowlishaw",
+      "expert_name": "Tim Cowlishaw",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tim-cowlishaw",
+      "expert_name": "Tim Cowlishaw",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tim-cowlishaw",
+      "expert_name": "Tim Cowlishaw",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tim-cowlishaw",
+      "expert_name": "Tim Cowlishaw",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "NYG",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "michael-gehlken",
+      "expert_name": "Michael Gehlken",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "michael-gehlken",
+      "expert_name": "Michael Gehlken",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "michael-gehlken",
+      "expert_name": "Michael Gehlken",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "michael-gehlken",
+      "expert_name": "Michael Gehlken",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "michael-gehlken",
+      "expert_name": "Michael Gehlken",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "michael-gehlken",
+      "expert_name": "Michael Gehlken",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "michael-gehlken",
+      "expert_name": "Michael Gehlken",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "michael-gehlken",
+      "expert_name": "Michael Gehlken",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "michael-gehlken",
+      "expert_name": "Michael Gehlken",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "michael-gehlken",
+      "expert_name": "Michael Gehlken",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "michael-gehlken",
+      "expert_name": "Michael Gehlken",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "michael-gehlken",
+      "expert_name": "Michael Gehlken",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "michael-gehlken",
+      "expert_name": "Michael Gehlken",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "michael-gehlken",
+      "expert_name": "Michael Gehlken",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "michael-gehlken",
+      "expert_name": "Michael Gehlken",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "michael-gehlken",
+      "expert_name": "Michael Gehlken",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dana-larson",
+      "expert_name": "Dana Larson",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dana-larson",
+      "expert_name": "Dana Larson",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dana-larson",
+      "expert_name": "Dana Larson",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dana-larson",
+      "expert_name": "Dana Larson",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dana-larson",
+      "expert_name": "Dana Larson",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dana-larson",
+      "expert_name": "Dana Larson",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dana-larson",
+      "expert_name": "Dana Larson",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dana-larson",
+      "expert_name": "Dana Larson",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dana-larson",
+      "expert_name": "Dana Larson",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dana-larson",
+      "expert_name": "Dana Larson",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dana-larson",
+      "expert_name": "Dana Larson",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dana-larson",
+      "expert_name": "Dana Larson",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dana-larson",
+      "expert_name": "Dana Larson",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dana-larson",
+      "expert_name": "Dana Larson",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dana-larson",
+      "expert_name": "Dana Larson",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dana-larson",
+      "expert_name": "Dana Larson",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "NYG",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "craig-miller",
+      "expert_name": "Craig Miller",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "craig-miller",
+      "expert_name": "Craig Miller",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "craig-miller",
+      "expert_name": "Craig Miller",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "craig-miller",
+      "expert_name": "Craig Miller",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "craig-miller",
+      "expert_name": "Craig Miller",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "craig-miller",
+      "expert_name": "Craig Miller",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "craig-miller",
+      "expert_name": "Craig Miller",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "craig-miller",
+      "expert_name": "Craig Miller",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "craig-miller",
+      "expert_name": "Craig Miller",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "craig-miller",
+      "expert_name": "Craig Miller",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "craig-miller",
+      "expert_name": "Craig Miller",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "craig-miller",
+      "expert_name": "Craig Miller",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "craig-miller",
+      "expert_name": "Craig Miller",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "craig-miller",
+      "expert_name": "Craig Miller",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "craig-miller",
+      "expert_name": "Craig Miller",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "craig-miller",
+      "expert_name": "Craig Miller",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "david-moore",
+      "expert_name": "David Moore",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "david-moore",
+      "expert_name": "David Moore",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "david-moore",
+      "expert_name": "David Moore",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "david-moore",
+      "expert_name": "David Moore",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "david-moore",
+      "expert_name": "David Moore",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "david-moore",
+      "expert_name": "David Moore",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "david-moore",
+      "expert_name": "David Moore",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "david-moore",
+      "expert_name": "David Moore",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "david-moore",
+      "expert_name": "David Moore",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "david-moore",
+      "expert_name": "David Moore",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "david-moore",
+      "expert_name": "David Moore",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "david-moore",
+      "expert_name": "David Moore",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "david-moore",
+      "expert_name": "David Moore",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_LA_IND",
+      "pick": "IND",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "david-moore",
+      "expert_name": "David Moore",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "david-moore",
+      "expert_name": "David Moore",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "david-moore",
+      "expert_name": "David Moore",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "newy-scruggs",
+      "expert_name": "Newy Scruggs",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "newy-scruggs",
+      "expert_name": "Newy Scruggs",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "newy-scruggs",
+      "expert_name": "Newy Scruggs",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "newy-scruggs",
+      "expert_name": "Newy Scruggs",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "newy-scruggs",
+      "expert_name": "Newy Scruggs",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "newy-scruggs",
+      "expert_name": "Newy Scruggs",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "newy-scruggs",
+      "expert_name": "Newy Scruggs",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "newy-scruggs",
+      "expert_name": "Newy Scruggs",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "newy-scruggs",
+      "expert_name": "Newy Scruggs",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "newy-scruggs",
+      "expert_name": "Newy Scruggs",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "newy-scruggs",
+      "expert_name": "Newy Scruggs",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "newy-scruggs",
+      "expert_name": "Newy Scruggs",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "newy-scruggs",
+      "expert_name": "Newy Scruggs",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "newy-scruggs",
+      "expert_name": "Newy Scruggs",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "newy-scruggs",
+      "expert_name": "Newy Scruggs",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "newy-scruggs",
+      "expert_name": "Newy Scruggs",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-sherrington",
+      "expert_name": "Kevin Sherrington",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-sherrington",
+      "expert_name": "Kevin Sherrington",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-sherrington",
+      "expert_name": "Kevin Sherrington",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-sherrington",
+      "expert_name": "Kevin Sherrington",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-sherrington",
+      "expert_name": "Kevin Sherrington",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-sherrington",
+      "expert_name": "Kevin Sherrington",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-sherrington",
+      "expert_name": "Kevin Sherrington",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-sherrington",
+      "expert_name": "Kevin Sherrington",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-sherrington",
+      "expert_name": "Kevin Sherrington",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-sherrington",
+      "expert_name": "Kevin Sherrington",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-sherrington",
+      "expert_name": "Kevin Sherrington",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-sherrington",
+      "expert_name": "Kevin Sherrington",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-sherrington",
+      "expert_name": "Kevin Sherrington",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-sherrington",
+      "expert_name": "Kevin Sherrington",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-sherrington",
+      "expert_name": "Kevin Sherrington",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-sherrington",
+      "expert_name": "Kevin Sherrington",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "calvin-watkins",
+      "expert_name": "Calvin Watkins",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "calvin-watkins",
+      "expert_name": "Calvin Watkins",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "calvin-watkins",
+      "expert_name": "Calvin Watkins",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "calvin-watkins",
+      "expert_name": "Calvin Watkins",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "calvin-watkins",
+      "expert_name": "Calvin Watkins",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "calvin-watkins",
+      "expert_name": "Calvin Watkins",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "calvin-watkins",
+      "expert_name": "Calvin Watkins",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "calvin-watkins",
+      "expert_name": "Calvin Watkins",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "calvin-watkins",
+      "expert_name": "Calvin Watkins",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "calvin-watkins",
+      "expert_name": "Calvin Watkins",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "calvin-watkins",
+      "expert_name": "Calvin Watkins",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NYJ",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "calvin-watkins",
+      "expert_name": "Calvin Watkins",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "calvin-watkins",
+      "expert_name": "Calvin Watkins",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "calvin-watkins",
+      "expert_name": "Calvin Watkins",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "calvin-watkins",
+      "expert_name": "Calvin Watkins",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "calvin-watkins",
+      "expert_name": "Calvin Watkins",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "NYG",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jean-jacques-taylor",
+      "expert_name": "Jean-Jacques Taylor",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jean-jacques-taylor",
+      "expert_name": "Jean-Jacques Taylor",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jean-jacques-taylor",
+      "expert_name": "Jean-Jacques Taylor",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jean-jacques-taylor",
+      "expert_name": "Jean-Jacques Taylor",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jean-jacques-taylor",
+      "expert_name": "Jean-Jacques Taylor",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jean-jacques-taylor",
+      "expert_name": "Jean-Jacques Taylor",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jean-jacques-taylor",
+      "expert_name": "Jean-Jacques Taylor",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jean-jacques-taylor",
+      "expert_name": "Jean-Jacques Taylor",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jean-jacques-taylor",
+      "expert_name": "Jean-Jacques Taylor",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jean-jacques-taylor",
+      "expert_name": "Jean-Jacques Taylor",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jean-jacques-taylor",
+      "expert_name": "Jean-Jacques Taylor",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jean-jacques-taylor",
+      "expert_name": "Jean-Jacques Taylor",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jean-jacques-taylor",
+      "expert_name": "Jean-Jacques Taylor",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jean-jacques-taylor",
+      "expert_name": "Jean-Jacques Taylor",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jean-jacques-taylor",
+      "expert_name": "Jean-Jacques Taylor",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jean-jacques-taylor",
+      "expert_name": "Jean-Jacques Taylor",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-wagenman",
+      "expert_name": "Mike Wagenman",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-wagenman",
+      "expert_name": "Mike Wagenman",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-wagenman",
+      "expert_name": "Mike Wagenman",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-wagenman",
+      "expert_name": "Mike Wagenman",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-wagenman",
+      "expert_name": "Mike Wagenman",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-wagenman",
+      "expert_name": "Mike Wagenman",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-wagenman",
+      "expert_name": "Mike Wagenman",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-wagenman",
+      "expert_name": "Mike Wagenman",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-wagenman",
+      "expert_name": "Mike Wagenman",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-wagenman",
+      "expert_name": "Mike Wagenman",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "PHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-wagenman",
+      "expert_name": "Mike Wagenman",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-wagenman",
+      "expert_name": "Mike Wagenman",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-wagenman",
+      "expert_name": "Mike Wagenman",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-wagenman",
+      "expert_name": "Mike Wagenman",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-wagenman",
+      "expert_name": "Mike Wagenman",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-wagenman",
+      "expert_name": "Mike Wagenman",
+      "source": "fantasynerds",
+      "outlet": "Gridiron Experts",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-morgan",
+      "expert_name": "Ryan Morgan",
+      "source": "fantasynerds",
+      "outlet": "Belly Up Sports",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-morgan",
+      "expert_name": "Ryan Morgan",
+      "source": "fantasynerds",
+      "outlet": "Belly Up Sports",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-morgan",
+      "expert_name": "Ryan Morgan",
+      "source": "fantasynerds",
+      "outlet": "Belly Up Sports",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-morgan",
+      "expert_name": "Ryan Morgan",
+      "source": "fantasynerds",
+      "outlet": "Belly Up Sports",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-morgan",
+      "expert_name": "Ryan Morgan",
+      "source": "fantasynerds",
+      "outlet": "Belly Up Sports",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "NYG",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "austin-amandolia",
+      "expert_name": "Austin Amandolia",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "austin-amandolia",
+      "expert_name": "Austin Amandolia",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "austin-amandolia",
+      "expert_name": "Austin Amandolia",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "austin-amandolia",
+      "expert_name": "Austin Amandolia",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "austin-amandolia",
+      "expert_name": "Austin Amandolia",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "austin-amandolia",
+      "expert_name": "Austin Amandolia",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "austin-amandolia",
+      "expert_name": "Austin Amandolia",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "austin-amandolia",
+      "expert_name": "Austin Amandolia",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "austin-amandolia",
+      "expert_name": "Austin Amandolia",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "austin-amandolia",
+      "expert_name": "Austin Amandolia",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "austin-amandolia",
+      "expert_name": "Austin Amandolia",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "austin-amandolia",
+      "expert_name": "Austin Amandolia",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "austin-amandolia",
+      "expert_name": "Austin Amandolia",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "austin-amandolia",
+      "expert_name": "Austin Amandolia",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "austin-amandolia",
+      "expert_name": "Austin Amandolia",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "austin-amandolia",
+      "expert_name": "Austin Amandolia",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "michael-hauff",
+      "expert_name": "Michael Hauff",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "michael-hauff",
+      "expert_name": "Michael Hauff",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "michael-hauff",
+      "expert_name": "Michael Hauff",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "michael-hauff",
+      "expert_name": "Michael Hauff",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "michael-hauff",
+      "expert_name": "Michael Hauff",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "michael-hauff",
+      "expert_name": "Michael Hauff",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "michael-hauff",
+      "expert_name": "Michael Hauff",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "michael-hauff",
+      "expert_name": "Michael Hauff",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "michael-hauff",
+      "expert_name": "Michael Hauff",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "michael-hauff",
+      "expert_name": "Michael Hauff",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "michael-hauff",
+      "expert_name": "Michael Hauff",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "michael-hauff",
+      "expert_name": "Michael Hauff",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "michael-hauff",
+      "expert_name": "Michael Hauff",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "michael-hauff",
+      "expert_name": "Michael Hauff",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "michael-hauff",
+      "expert_name": "Michael Hauff",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "michael-hauff",
+      "expert_name": "Michael Hauff",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "anthony-cervino",
+      "expert_name": "Anthony Cervino",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "anthony-cervino",
+      "expert_name": "Anthony Cervino",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "anthony-cervino",
+      "expert_name": "Anthony Cervino",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "anthony-cervino",
+      "expert_name": "Anthony Cervino",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "anthony-cervino",
+      "expert_name": "Anthony Cervino",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "anthony-cervino",
+      "expert_name": "Anthony Cervino",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "anthony-cervino",
+      "expert_name": "Anthony Cervino",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "anthony-cervino",
+      "expert_name": "Anthony Cervino",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "anthony-cervino",
+      "expert_name": "Anthony Cervino",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "anthony-cervino",
+      "expert_name": "Anthony Cervino",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "anthony-cervino",
+      "expert_name": "Anthony Cervino",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "anthony-cervino",
+      "expert_name": "Anthony Cervino",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "anthony-cervino",
+      "expert_name": "Anthony Cervino",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "anthony-cervino",
+      "expert_name": "Anthony Cervino",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "anthony-cervino",
+      "expert_name": "Anthony Cervino",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "anthony-cervino",
+      "expert_name": "Anthony Cervino",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brendan-o-bryan",
+      "expert_name": "Brendan O'Bryan",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brendan-o-bryan",
+      "expert_name": "Brendan O'Bryan",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brendan-o-bryan",
+      "expert_name": "Brendan O'Bryan",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "TEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brendan-o-bryan",
+      "expert_name": "Brendan O'Bryan",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brendan-o-bryan",
+      "expert_name": "Brendan O'Bryan",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brendan-o-bryan",
+      "expert_name": "Brendan O'Bryan",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brendan-o-bryan",
+      "expert_name": "Brendan O'Bryan",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brendan-o-bryan",
+      "expert_name": "Brendan O'Bryan",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brendan-o-bryan",
+      "expert_name": "Brendan O'Bryan",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brendan-o-bryan",
+      "expert_name": "Brendan O'Bryan",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brendan-o-bryan",
+      "expert_name": "Brendan O'Bryan",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brendan-o-bryan",
+      "expert_name": "Brendan O'Bryan",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brendan-o-bryan",
+      "expert_name": "Brendan O'Bryan",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brendan-o-bryan",
+      "expert_name": "Brendan O'Bryan",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brendan-o-bryan",
+      "expert_name": "Brendan O'Bryan",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brendan-o-bryan",
+      "expert_name": "Brendan O'Bryan",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "steve-deangelo",
+      "expert_name": "Steve DeAngelo",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "steve-deangelo",
+      "expert_name": "Steve DeAngelo",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "steve-deangelo",
+      "expert_name": "Steve DeAngelo",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "steve-deangelo",
+      "expert_name": "Steve DeAngelo",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "steve-deangelo",
+      "expert_name": "Steve DeAngelo",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "steve-deangelo",
+      "expert_name": "Steve DeAngelo",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "PHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "steve-deangelo",
+      "expert_name": "Steve DeAngelo",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "steve-deangelo",
+      "expert_name": "Steve DeAngelo",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "steve-deangelo",
+      "expert_name": "Steve DeAngelo",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-mackay",
+      "expert_name": "Matt MacKay",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-mackay",
+      "expert_name": "Matt MacKay",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-mackay",
+      "expert_name": "Matt MacKay",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-mackay",
+      "expert_name": "Matt MacKay",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-mackay",
+      "expert_name": "Matt MacKay",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-mackay",
+      "expert_name": "Matt MacKay",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-mackay",
+      "expert_name": "Matt MacKay",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-mackay",
+      "expert_name": "Matt MacKay",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-mackay",
+      "expert_name": "Matt MacKay",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-mackay",
+      "expert_name": "Matt MacKay",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "PHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-mackay",
+      "expert_name": "Matt MacKay",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-mackay",
+      "expert_name": "Matt MacKay",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-mackay",
+      "expert_name": "Matt MacKay",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-mackay",
+      "expert_name": "Matt MacKay",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-mackay",
+      "expert_name": "Matt MacKay",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-mackay",
+      "expert_name": "Matt MacKay",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "phillip-caldwell",
+      "expert_name": "Phillip Caldwell",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "phillip-caldwell",
+      "expert_name": "Phillip Caldwell",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "phillip-caldwell",
+      "expert_name": "Phillip Caldwell",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "phillip-caldwell",
+      "expert_name": "Phillip Caldwell",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "phillip-caldwell",
+      "expert_name": "Phillip Caldwell",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "phillip-caldwell",
+      "expert_name": "Phillip Caldwell",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "phillip-caldwell",
+      "expert_name": "Phillip Caldwell",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "phillip-caldwell",
+      "expert_name": "Phillip Caldwell",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "phillip-caldwell",
+      "expert_name": "Phillip Caldwell",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "phillip-caldwell",
+      "expert_name": "Phillip Caldwell",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "phillip-caldwell",
+      "expert_name": "Phillip Caldwell",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "phillip-caldwell",
+      "expert_name": "Phillip Caldwell",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "phillip-caldwell",
+      "expert_name": "Phillip Caldwell",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "phillip-caldwell",
+      "expert_name": "Phillip Caldwell",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "phillip-caldwell",
+      "expert_name": "Phillip Caldwell",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "phillip-caldwell",
+      "expert_name": "Phillip Caldwell",
+      "source": "fantasynerds",
+      "outlet": "FF Faceoff",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jake-watkins",
+      "expert_name": "Jake Watkins",
+      "source": "fantasynerds",
+      "outlet": "Trainwreck Sports",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jake-watkins",
+      "expert_name": "Jake Watkins",
+      "source": "fantasynerds",
+      "outlet": "Trainwreck Sports",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jake-watkins",
+      "expert_name": "Jake Watkins",
+      "source": "fantasynerds",
+      "outlet": "Trainwreck Sports",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jake-watkins",
+      "expert_name": "Jake Watkins",
+      "source": "fantasynerds",
+      "outlet": "Trainwreck Sports",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jake-watkins",
+      "expert_name": "Jake Watkins",
+      "source": "fantasynerds",
+      "outlet": "Trainwreck Sports",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jake-watkins",
+      "expert_name": "Jake Watkins",
+      "source": "fantasynerds",
+      "outlet": "Trainwreck Sports",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jake-watkins",
+      "expert_name": "Jake Watkins",
+      "source": "fantasynerds",
+      "outlet": "Trainwreck Sports",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jake-watkins",
+      "expert_name": "Jake Watkins",
+      "source": "fantasynerds",
+      "outlet": "Trainwreck Sports",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jake-watkins",
+      "expert_name": "Jake Watkins",
+      "source": "fantasynerds",
+      "outlet": "Trainwreck Sports",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "LV",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jake-watkins",
+      "expert_name": "Jake Watkins",
+      "source": "fantasynerds",
+      "outlet": "Trainwreck Sports",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "PHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jake-watkins",
+      "expert_name": "Jake Watkins",
+      "source": "fantasynerds",
+      "outlet": "Trainwreck Sports",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jake-watkins",
+      "expert_name": "Jake Watkins",
+      "source": "fantasynerds",
+      "outlet": "Trainwreck Sports",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jake-watkins",
+      "expert_name": "Jake Watkins",
+      "source": "fantasynerds",
+      "outlet": "Trainwreck Sports",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jake-watkins",
+      "expert_name": "Jake Watkins",
+      "source": "fantasynerds",
+      "outlet": "Trainwreck Sports",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jake-watkins",
+      "expert_name": "Jake Watkins",
+      "source": "fantasynerds",
+      "outlet": "Trainwreck Sports",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jake-watkins",
+      "expert_name": "Jake Watkins",
+      "source": "fantasynerds",
+      "outlet": "Trainwreck Sports",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "sam-acho",
+      "expert_name": "Sam Acho",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DET_GB",
+      "pick": "DET",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "sam-acho",
+      "expert_name": "Sam Acho",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "sam-acho",
+      "expert_name": "Sam Acho",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "sam-acho",
+      "expert_name": "Sam Acho",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "sam-acho",
+      "expert_name": "Sam Acho",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "sam-acho",
+      "expert_name": "Sam Acho",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "sam-acho",
+      "expert_name": "Sam Acho",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "sam-acho",
+      "expert_name": "Sam Acho",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "sam-acho",
+      "expert_name": "Sam Acho",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "LV",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "sam-acho",
+      "expert_name": "Sam Acho",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "sam-acho",
+      "expert_name": "Sam Acho",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "sam-acho",
+      "expert_name": "Sam Acho",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "MIA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "sam-acho",
+      "expert_name": "Sam Acho",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "sam-acho",
+      "expert_name": "Sam Acho",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "sam-acho",
+      "expert_name": "Sam Acho",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "sam-acho",
+      "expert_name": "Sam Acho",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "NYG",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_LA_IND",
+      "pick": "IND",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "NYG",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "domonique-foxworth",
+      "expert_name": "Domonique Foxworth",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "domonique-foxworth",
+      "expert_name": "Domonique Foxworth",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "domonique-foxworth",
+      "expert_name": "Domonique Foxworth",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "domonique-foxworth",
+      "expert_name": "Domonique Foxworth",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "domonique-foxworth",
+      "expert_name": "Domonique Foxworth",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "domonique-foxworth",
+      "expert_name": "Domonique Foxworth",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "domonique-foxworth",
+      "expert_name": "Domonique Foxworth",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "domonique-foxworth",
+      "expert_name": "Domonique Foxworth",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "domonique-foxworth",
+      "expert_name": "Domonique Foxworth",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "domonique-foxworth",
+      "expert_name": "Domonique Foxworth",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "domonique-foxworth",
+      "expert_name": "Domonique Foxworth",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "domonique-foxworth",
+      "expert_name": "Domonique Foxworth",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "MIA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "domonique-foxworth",
+      "expert_name": "Domonique Foxworth",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "domonique-foxworth",
+      "expert_name": "Domonique Foxworth",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "domonique-foxworth",
+      "expert_name": "Domonique Foxworth",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "domonique-foxworth",
+      "expert_name": "Domonique Foxworth",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "rob-ninkovich",
+      "expert_name": "Rob Ninkovich",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DET_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "rob-ninkovich",
+      "expert_name": "Rob Ninkovich",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_KC_BAL",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "rob-ninkovich",
+      "expert_name": "Rob Ninkovich",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_TEN_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "rob-ninkovich",
+      "expert_name": "Rob Ninkovich",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DAL_LAC",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "rob-ninkovich",
+      "expert_name": "Rob Ninkovich",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_ATL_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "rob-ninkovich",
+      "expert_name": "Rob Ninkovich",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_MIN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "rob-ninkovich",
+      "expert_name": "Rob Ninkovich",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_DEN_JAX",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "rob-ninkovich",
+      "expert_name": "Rob Ninkovich",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NO_CAR",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "rob-ninkovich",
+      "expert_name": "Rob Ninkovich",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_LV_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "rob-ninkovich",
+      "expert_name": "Rob Ninkovich",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_SF_PHI",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "rob-ninkovich",
+      "expert_name": "Rob Ninkovich",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "rob-ninkovich",
+      "expert_name": "Rob Ninkovich",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_BUF_MIA",
+      "pick": "MIA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "rob-ninkovich",
+      "expert_name": "Rob Ninkovich",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_LA_IND",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "rob-ninkovich",
+      "expert_name": "Rob Ninkovich",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_HOU_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "rob-ninkovich",
+      "expert_name": "Rob Ninkovich",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_CIN_CHI",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "rob-ninkovich",
+      "expert_name": "Rob Ninkovich",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2021_02_NYG_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    }
+  ]
+}
