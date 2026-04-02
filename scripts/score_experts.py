@@ -131,11 +131,13 @@ def build_leaderboard(
             })
 
     # Build sorted list
+    total_scored_weeks = len(weekly_scores)
     experts = []
     for slug, data in cumulative.items():
         info = expert_info.get(slug, {})
         accuracy = round(data["correct"] / data["total"], 3) if data["total"] else 0
         ats_accuracy = round(data["ats_correct"] / data["ats_total"], 3) if data["ats_total"] else 0
+        weeks_participated = len(data["weekly"])
         experts.append({
             "expert": slug,
             "expert_name": info.get("expert_name", slug),
@@ -146,6 +148,7 @@ def build_leaderboard(
             "ats_correct": data["ats_correct"],
             "ats_total": data["ats_total"],
             "ats_accuracy": ats_accuracy,
+            "qualified": weeks_participated / total_scored_weeks >= 0.5 if total_scored_weeks else True,
             "weekly": data["weekly"],
         })
 
@@ -229,11 +232,13 @@ def main():
         picks_dir = ROOT / "data" / "picks" / str(season)
         espn_picks = load_json(picks_dir / f"week-{w}.json")
         fn_picks = load_json(picks_dir / f"week-{w}-fantasynerds.json")
+        nfl_picks = load_json(picks_dir / f"week-{w}-nfl.json")
+        pft_picks = load_json(picks_dir / f"week-{w}-pft.json")
         results = load_json(ROOT / "data" / "results" / str(season) / f"week-{w}.json")
 
         all_picks_list = []
         seen = set()
-        for source in (espn_picks, fn_picks):
+        for source in (espn_picks, fn_picks, nfl_picks, pft_picks):
             if not source:
                 continue
             for p in source["picks"]:
@@ -254,6 +259,10 @@ def main():
             sources.append(f"ESPN:{len(espn_picks['picks'])}")
         if fn_picks:
             sources.append(f"FN:{len(fn_picks['picks'])}")
+        if nfl_picks:
+            sources.append(f"NFL:{len(nfl_picks['picks'])}")
+        if pft_picks:
+            sources.append(f"PFT:{len(pft_picks['picks'])}")
 
         combined = {"picks": all_picks_list}
         print(f"  Week {w}: {len(all_picks_list)} picks ({', '.join(sources)}), {len(results['games'])} games")
