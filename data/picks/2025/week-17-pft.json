@@ -1,0 +1,335 @@
+{
+  "season": 2025,
+  "week": 17,
+  "season_type": "REG",
+  "scraped_at": "2026-04-02T13:58:46Z",
+  "sources": [
+    "pft"
+  ],
+  "games": [
+    {
+      "game_id": "2025_17_DEN_KC",
+      "away_team": "DEN",
+      "home_team": "KC"
+    },
+    {
+      "game_id": "2025_17_HOU_LAC",
+      "away_team": "HOU",
+      "home_team": "LAC"
+    },
+    {
+      "game_id": "2025_17_BAL_GB",
+      "away_team": "BAL",
+      "home_team": "GB"
+    },
+    {
+      "game_id": "2025_17_SEA_CAR",
+      "away_team": "SEA",
+      "home_team": "CAR"
+    },
+    {
+      "game_id": "2025_17_ARI_CIN",
+      "away_team": "ARI",
+      "home_team": "CIN"
+    },
+    {
+      "game_id": "2025_17_PIT_CLE",
+      "away_team": "PIT",
+      "home_team": "CLE"
+    },
+    {
+      "game_id": "2025_17_JAX_IND",
+      "away_team": "JAX",
+      "home_team": "IND"
+    },
+    {
+      "game_id": "2025_17_TB_MIA",
+      "away_team": "TB",
+      "home_team": "MIA"
+    },
+    {
+      "game_id": "2025_17_NE_NYJ",
+      "away_team": "NE",
+      "home_team": "NYJ"
+    },
+    {
+      "game_id": "2025_17_NO_TEN",
+      "away_team": "NO",
+      "home_team": "TEN"
+    },
+    {
+      "game_id": "2025_17_NYG_LV",
+      "away_team": "NYG",
+      "home_team": "LV"
+    },
+    {
+      "game_id": "2025_17_PHI_BUF",
+      "away_team": "PHI",
+      "home_team": "BUF"
+    },
+    {
+      "game_id": "2025_17_CHI_SF",
+      "away_team": "CHI",
+      "home_team": "SF"
+    },
+    {
+      "game_id": "2025_17_LA_ATL",
+      "away_team": "LA",
+      "home_team": "ATL"
+    }
+  ],
+  "picks": [
+    {
+      "expert": "mike-florio",
+      "expert_name": "Mike Florio",
+      "source": "pft",
+      "outlet": "ProFootballTalk",
+      "game_id": "2025_17_DEN_KC",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "chris-simms",
+      "expert_name": "Chris Simms",
+      "source": "pft",
+      "outlet": "ProFootballTalk",
+      "game_id": "2025_17_DEN_KC",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-florio",
+      "expert_name": "Mike Florio",
+      "source": "pft",
+      "outlet": "ProFootballTalk",
+      "game_id": "2025_17_HOU_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "chris-simms",
+      "expert_name": "Chris Simms",
+      "source": "pft",
+      "outlet": "ProFootballTalk",
+      "game_id": "2025_17_HOU_LAC",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-florio",
+      "expert_name": "Mike Florio",
+      "source": "pft",
+      "outlet": "ProFootballTalk",
+      "game_id": "2025_17_BAL_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "chris-simms",
+      "expert_name": "Chris Simms",
+      "source": "pft",
+      "outlet": "ProFootballTalk",
+      "game_id": "2025_17_BAL_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-florio",
+      "expert_name": "Mike Florio",
+      "source": "pft",
+      "outlet": "ProFootballTalk",
+      "game_id": "2025_17_SEA_CAR",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "chris-simms",
+      "expert_name": "Chris Simms",
+      "source": "pft",
+      "outlet": "ProFootballTalk",
+      "game_id": "2025_17_SEA_CAR",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-florio",
+      "expert_name": "Mike Florio",
+      "source": "pft",
+      "outlet": "ProFootballTalk",
+      "game_id": "2025_17_ARI_CIN",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "chris-simms",
+      "expert_name": "Chris Simms",
+      "source": "pft",
+      "outlet": "ProFootballTalk",
+      "game_id": "2025_17_ARI_CIN",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-florio",
+      "expert_name": "Mike Florio",
+      "source": "pft",
+      "outlet": "ProFootballTalk",
+      "game_id": "2025_17_PIT_CLE",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "chris-simms",
+      "expert_name": "Chris Simms",
+      "source": "pft",
+      "outlet": "ProFootballTalk",
+      "game_id": "2025_17_PIT_CLE",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-florio",
+      "expert_name": "Mike Florio",
+      "source": "pft",
+      "outlet": "ProFootballTalk",
+      "game_id": "2025_17_JAX_IND",
+      "pick": "JAX",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "chris-simms",
+      "expert_name": "Chris Simms",
+      "source": "pft",
+      "outlet": "ProFootballTalk",
+      "game_id": "2025_17_JAX_IND",
+      "pick": "JAX",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-florio",
+      "expert_name": "Mike Florio",
+      "source": "pft",
+      "outlet": "ProFootballTalk",
+      "game_id": "2025_17_TB_MIA",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "chris-simms",
+      "expert_name": "Chris Simms",
+      "source": "pft",
+      "outlet": "ProFootballTalk",
+      "game_id": "2025_17_TB_MIA",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-florio",
+      "expert_name": "Mike Florio",
+      "source": "pft",
+      "outlet": "ProFootballTalk",
+      "game_id": "2025_17_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "chris-simms",
+      "expert_name": "Chris Simms",
+      "source": "pft",
+      "outlet": "ProFootballTalk",
+      "game_id": "2025_17_NE_NYJ",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-florio",
+      "expert_name": "Mike Florio",
+      "source": "pft",
+      "outlet": "ProFootballTalk",
+      "game_id": "2025_17_NO_TEN",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "chris-simms",
+      "expert_name": "Chris Simms",
+      "source": "pft",
+      "outlet": "ProFootballTalk",
+      "game_id": "2025_17_NO_TEN",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-florio",
+      "expert_name": "Mike Florio",
+      "source": "pft",
+      "outlet": "ProFootballTalk",
+      "game_id": "2025_17_NYG_LV",
+      "pick": "LV",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "chris-simms",
+      "expert_name": "Chris Simms",
+      "source": "pft",
+      "outlet": "ProFootballTalk",
+      "game_id": "2025_17_NYG_LV",
+      "pick": "LV",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-florio",
+      "expert_name": "Mike Florio",
+      "source": "pft",
+      "outlet": "ProFootballTalk",
+      "game_id": "2025_17_PHI_BUF",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "chris-simms",
+      "expert_name": "Chris Simms",
+      "source": "pft",
+      "outlet": "ProFootballTalk",
+      "game_id": "2025_17_PHI_BUF",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-florio",
+      "expert_name": "Mike Florio",
+      "source": "pft",
+      "outlet": "ProFootballTalk",
+      "game_id": "2025_17_CHI_SF",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "chris-simms",
+      "expert_name": "Chris Simms",
+      "source": "pft",
+      "outlet": "ProFootballTalk",
+      "game_id": "2025_17_CHI_SF",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-florio",
+      "expert_name": "Mike Florio",
+      "source": "pft",
+      "outlet": "ProFootballTalk",
+      "game_id": "2025_17_LA_ATL",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "chris-simms",
+      "expert_name": "Chris Simms",
+      "source": "pft",
+      "outlet": "ProFootballTalk",
+      "game_id": "2025_17_LA_ATL",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    }
+  ]
+}

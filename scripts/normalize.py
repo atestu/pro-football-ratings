@@ -22,6 +22,46 @@ ABBREV_ALIASES: dict[str, str] = {
     "SDG": "SD",
 }
 
+# Map team display names (nicknames) to canonical nflverse abbreviations
+TEAM_NICK_TO_ABBREV: dict[str, str] = {
+    "Cardinal": "ARI",
+    "Cardinals": "ARI",
+    "Falcons": "ATL",
+    "Ravens": "BAL",
+    "Bills": "BUF",
+    "Panthers": "CAR",
+    "Bears": "CHI",
+    "Bengals": "CIN",
+    "Browns": "CLE",
+    "Cowboys": "DAL",
+    "Broncos": "DEN",
+    "Lions": "DET",
+    "Packers": "GB",
+    "Texans": "HOU",
+    "Col": "IND",
+    "Cols": "IND",
+    "Colts": "IND",
+    "Jaguars": "JAX",
+    "Chiefs": "KC",
+    "Rams": "LA",
+    "Chargers": "LAC",
+    "Raiders": "LV",
+    "Dolphin": "MIA",
+    "Dolphins": "MIA",
+    "Vikings": "MIN",
+    "Patriots": "NE",
+    "Saints": "NO",
+    "Giants": "NYG",
+    "Jets": "NYJ",
+    "Eagles": "PHI",
+    "Steelers": "PIT",
+    "Seahawks": "SEA",
+    "49ers": "SF",
+    "Buccaneers": "TB",
+    "Titans": "TEN",
+    "Commanders": "WAS",
+}
+
 # All 32 canonical team abbreviations (nflverse convention)
 TEAMS = frozenset([
     "ARI", "ATL", "BAL", "BUF", "CAR", "CHI", "CIN", "CLE",
@@ -35,6 +75,14 @@ def normalize_team(abbrev: str) -> str:
     """Normalize a team abbreviation to canonical nflverse form."""
     upper = abbrev.strip().upper()
     return ABBREV_ALIASES.get(upper, upper)
+
+
+def normalize_team_name(name: str) -> str:
+    """Resolve a team display name (nickname) to a canonical nflverse abbreviation.
+
+    Raises KeyError if the name is not recognized.
+    """
+    return TEAM_NICK_TO_ABBREV[name.strip()]
 
 
 def make_game_id(season: int, week: int, away: str, home: str) -> str:

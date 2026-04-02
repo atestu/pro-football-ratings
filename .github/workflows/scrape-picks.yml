@@ -38,12 +38,22 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Scrape ESPN picks
+      - name: Build args
+        id: args
         run: |
           ARGS=""
           if [ -n "${{ inputs.season }}" ]; then ARGS="$ARGS --season ${{ inputs.season }}"; fi
           if [ -n "${{ inputs.week }}" ]; then ARGS="$ARGS --week ${{ inputs.week }}"; fi
-          python scripts/scrape_espn_picks.py $ARGS
+          echo "ARGS=$ARGS" >> "$GITHUB_OUTPUT"
+
+      - name: Scrape ESPN picks
+        run: python scripts/scrape_espn_picks.py ${{ steps.args.outputs.ARGS }}
+
+      - name: Scrape NFL.com picks
+        run: python scripts/scrape_nfl_picks.py ${{ steps.args.outputs.ARGS }}
+
+      - name: Scrape PFT picks
+        run: python scripts/scrape_pft_picks.py ${{ steps.args.outputs.ARGS }}
 
       - name: Commit and push
         run: |
@@ -53,6 +63,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "data: scrape ESPN picks"
+            git commit -m "data: scrape expert picks"
             git push
           fi

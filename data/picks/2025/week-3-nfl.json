@@ -1,0 +1,813 @@
+{
+  "season": 2025,
+  "week": 3,
+  "season_type": "REG",
+  "scraped_at": "2026-04-02T13:56:48Z",
+  "sources": [
+    "nfl_com"
+  ],
+  "games": [
+    {
+      "game_id": "2025_03_DET_BAL",
+      "away_team": "DET",
+      "home_team": "BAL"
+    },
+    {
+      "game_id": "2025_03_ATL_CAR",
+      "away_team": "ATL",
+      "home_team": "CAR"
+    },
+    {
+      "game_id": "2025_03_GB_CLE",
+      "away_team": "GB",
+      "home_team": "CLE"
+    },
+    {
+      "game_id": "2025_03_HOU_JAX",
+      "away_team": "HOU",
+      "home_team": "JAX"
+    },
+    {
+      "game_id": "2025_03_CIN_MIN",
+      "away_team": "CIN",
+      "home_team": "MIN"
+    },
+    {
+      "game_id": "2025_03_PIT_NE",
+      "away_team": "PIT",
+      "home_team": "NE"
+    },
+    {
+      "game_id": "2025_03_LA_PHI",
+      "away_team": "LA",
+      "home_team": "PHI"
+    },
+    {
+      "game_id": "2025_03_NYJ_TB",
+      "away_team": "NYJ",
+      "home_team": "TB"
+    },
+    {
+      "game_id": "2025_03_IND_TEN",
+      "away_team": "IND",
+      "home_team": "TEN"
+    },
+    {
+      "game_id": "2025_03_LV_WAS",
+      "away_team": "LV",
+      "home_team": "WAS"
+    },
+    {
+      "game_id": "2025_03_DEN_LAC",
+      "away_team": "DEN",
+      "home_team": "LAC"
+    },
+    {
+      "game_id": "2025_03_NO_SEA",
+      "away_team": "NO",
+      "home_team": "SEA"
+    },
+    {
+      "game_id": "2025_03_DAL_CHI",
+      "away_team": "DAL",
+      "home_team": "CHI"
+    },
+    {
+      "game_id": "2025_03_ARI_SF",
+      "away_team": "ARI",
+      "home_team": "SF"
+    },
+    {
+      "game_id": "2025_03_KC_NYG",
+      "away_team": "KC",
+      "home_team": "NYG"
+    },
+    {
+      "game_id": "2025_03_MIA_BUF",
+      "away_team": "MIA",
+      "home_team": "BUF"
+    }
+  ],
+  "picks": [
+    {
+      "expert": "ali-bhanpuri",
+      "expert_name": "Ali Bhanpuri",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_DET_BAL",
+      "pick": "BAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brooke-cersosimo",
+      "expert_name": "Brooke Cersosimo",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_DET_BAL",
+      "pick": "BAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-parr",
+      "expert_name": "Dan Parr",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_DET_BAL",
+      "pick": "BAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "gennaro-filice",
+      "expert_name": "Gennaro Filice",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_DET_BAL",
+      "pick": "BAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tom-blair",
+      "expert_name": "Tom Blair",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_DET_BAL",
+      "pick": "BAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ali-bhanpuri",
+      "expert_name": "Ali Bhanpuri",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_ATL_CAR",
+      "pick": "ATL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brooke-cersosimo",
+      "expert_name": "Brooke Cersosimo",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_ATL_CAR",
+      "pick": "ATL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-parr",
+      "expert_name": "Dan Parr",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_ATL_CAR",
+      "pick": "ATL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "gennaro-filice",
+      "expert_name": "Gennaro Filice",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_ATL_CAR",
+      "pick": "ATL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tom-blair",
+      "expert_name": "Tom Blair",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_ATL_CAR",
+      "pick": "ATL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ali-bhanpuri",
+      "expert_name": "Ali Bhanpuri",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_GB_CLE",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brooke-cersosimo",
+      "expert_name": "Brooke Cersosimo",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_GB_CLE",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-parr",
+      "expert_name": "Dan Parr",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_GB_CLE",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "gennaro-filice",
+      "expert_name": "Gennaro Filice",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_GB_CLE",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tom-blair",
+      "expert_name": "Tom Blair",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_GB_CLE",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ali-bhanpuri",
+      "expert_name": "Ali Bhanpuri",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_HOU_JAX",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brooke-cersosimo",
+      "expert_name": "Brooke Cersosimo",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_HOU_JAX",
+      "pick": "JAX",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-parr",
+      "expert_name": "Dan Parr",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_HOU_JAX",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "gennaro-filice",
+      "expert_name": "Gennaro Filice",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_HOU_JAX",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tom-blair",
+      "expert_name": "Tom Blair",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_HOU_JAX",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ali-bhanpuri",
+      "expert_name": "Ali Bhanpuri",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_CIN_MIN",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brooke-cersosimo",
+      "expert_name": "Brooke Cersosimo",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_CIN_MIN",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-parr",
+      "expert_name": "Dan Parr",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_CIN_MIN",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "gennaro-filice",
+      "expert_name": "Gennaro Filice",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_CIN_MIN",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tom-blair",
+      "expert_name": "Tom Blair",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_CIN_MIN",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ali-bhanpuri",
+      "expert_name": "Ali Bhanpuri",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_PIT_NE",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brooke-cersosimo",
+      "expert_name": "Brooke Cersosimo",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_PIT_NE",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-parr",
+      "expert_name": "Dan Parr",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_PIT_NE",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "gennaro-filice",
+      "expert_name": "Gennaro Filice",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_PIT_NE",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tom-blair",
+      "expert_name": "Tom Blair",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_PIT_NE",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ali-bhanpuri",
+      "expert_name": "Ali Bhanpuri",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_LA_PHI",
+      "pick": "PHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brooke-cersosimo",
+      "expert_name": "Brooke Cersosimo",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_LA_PHI",
+      "pick": "PHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-parr",
+      "expert_name": "Dan Parr",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_LA_PHI",
+      "pick": "PHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "gennaro-filice",
+      "expert_name": "Gennaro Filice",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_LA_PHI",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tom-blair",
+      "expert_name": "Tom Blair",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_LA_PHI",
+      "pick": "PHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ali-bhanpuri",
+      "expert_name": "Ali Bhanpuri",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_NYJ_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brooke-cersosimo",
+      "expert_name": "Brooke Cersosimo",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_NYJ_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-parr",
+      "expert_name": "Dan Parr",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_NYJ_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "gennaro-filice",
+      "expert_name": "Gennaro Filice",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_NYJ_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tom-blair",
+      "expert_name": "Tom Blair",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_NYJ_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ali-bhanpuri",
+      "expert_name": "Ali Bhanpuri",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_IND_TEN",
+      "pick": "IND",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brooke-cersosimo",
+      "expert_name": "Brooke Cersosimo",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_IND_TEN",
+      "pick": "IND",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-parr",
+      "expert_name": "Dan Parr",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_IND_TEN",
+      "pick": "IND",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "gennaro-filice",
+      "expert_name": "Gennaro Filice",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_IND_TEN",
+      "pick": "IND",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tom-blair",
+      "expert_name": "Tom Blair",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_IND_TEN",
+      "pick": "IND",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ali-bhanpuri",
+      "expert_name": "Ali Bhanpuri",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_LV_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brooke-cersosimo",
+      "expert_name": "Brooke Cersosimo",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_LV_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-parr",
+      "expert_name": "Dan Parr",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_LV_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "gennaro-filice",
+      "expert_name": "Gennaro Filice",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_LV_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tom-blair",
+      "expert_name": "Tom Blair",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_LV_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ali-bhanpuri",
+      "expert_name": "Ali Bhanpuri",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_DEN_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brooke-cersosimo",
+      "expert_name": "Brooke Cersosimo",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_DEN_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-parr",
+      "expert_name": "Dan Parr",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_DEN_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "gennaro-filice",
+      "expert_name": "Gennaro Filice",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_DEN_LAC",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tom-blair",
+      "expert_name": "Tom Blair",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_DEN_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ali-bhanpuri",
+      "expert_name": "Ali Bhanpuri",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_NO_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brooke-cersosimo",
+      "expert_name": "Brooke Cersosimo",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_NO_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-parr",
+      "expert_name": "Dan Parr",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_NO_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "gennaro-filice",
+      "expert_name": "Gennaro Filice",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_NO_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tom-blair",
+      "expert_name": "Tom Blair",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_NO_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ali-bhanpuri",
+      "expert_name": "Ali Bhanpuri",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_DAL_CHI",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brooke-cersosimo",
+      "expert_name": "Brooke Cersosimo",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_DAL_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-parr",
+      "expert_name": "Dan Parr",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_DAL_CHI",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "gennaro-filice",
+      "expert_name": "Gennaro Filice",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_DAL_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tom-blair",
+      "expert_name": "Tom Blair",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_DAL_CHI",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ali-bhanpuri",
+      "expert_name": "Ali Bhanpuri",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_ARI_SF",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brooke-cersosimo",
+      "expert_name": "Brooke Cersosimo",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_ARI_SF",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-parr",
+      "expert_name": "Dan Parr",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_ARI_SF",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "gennaro-filice",
+      "expert_name": "Gennaro Filice",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_ARI_SF",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tom-blair",
+      "expert_name": "Tom Blair",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_ARI_SF",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ali-bhanpuri",
+      "expert_name": "Ali Bhanpuri",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_KC_NYG",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brooke-cersosimo",
+      "expert_name": "Brooke Cersosimo",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_KC_NYG",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-parr",
+      "expert_name": "Dan Parr",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_KC_NYG",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "gennaro-filice",
+      "expert_name": "Gennaro Filice",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_KC_NYG",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tom-blair",
+      "expert_name": "Tom Blair",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_KC_NYG",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ali-bhanpuri",
+      "expert_name": "Ali Bhanpuri",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_MIA_BUF",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "brooke-cersosimo",
+      "expert_name": "Brooke Cersosimo",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_MIA_BUF",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-parr",
+      "expert_name": "Dan Parr",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_MIA_BUF",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "gennaro-filice",
+      "expert_name": "Gennaro Filice",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_MIA_BUF",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tom-blair",
+      "expert_name": "Tom Blair",
+      "source": "nfl_com",
+      "outlet": "NFL.com",
+      "game_id": "2025_03_MIA_BUF",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    }
+  ]
+}

@@ -131,11 +131,13 @@ def build_leaderboard(
             })
 
     # Build sorted list
+    total_scored_weeks = len(weekly_scores)
     experts = []
     for slug, data in cumulative.items():
         info = expert_info.get(slug, {})
         accuracy = round(data["correct"] / data["total"], 3) if data["total"] else 0
         ats_accuracy = round(data["ats_correct"] / data["ats_total"], 3) if data["ats_total"] else 0
+        weeks_participated = len(data["weekly"])
         experts.append({
             "expert": slug,
             "expert_name": info.get("expert_name", slug),
@@ -146,6 +148,7 @@ def build_leaderboard(
             "ats_correct": data["ats_correct"],
             "ats_total": data["ats_total"],
             "ats_accuracy": ats_accuracy,
+            "qualified": weeks_participated / total_scored_weeks >= 0.5 if total_scored_weeks else True,
             "weekly": data["weekly"],
         })
 
@@ -179,13 +182,8 @@ def print_leaderboard(leaderboard: dict, sort_by: str = "pct", outlet: str | Non
     sort_label = "ATS%" if sort_by == "ats" else "Pct"
     title += f"  [sorted by {sort_label}]"
 
-    header = f"{'#':>3}  {'Expert':<25} {'Outlet':<20} {'W-L':>7} {'Pct':>6} {'ATS':>9} {'ATS%':>6}"
-    print(f"\n{'=' * len(header)}")
-    print(title)
-    print(f"{'=' * len(header)}")
-    print(header)
-    print(f"{'-' * len(header)}")
-
+    # Pre-format all rows so we can measure actual widths
+    rows = []
     for i, e in enumerate(experts, 1):
         wl = f"{e['correct']}-{e['total'] - e['correct']}"
         pct = f"{e['accuracy']:.1%}"
@@ -193,8 +191,31 @@ def print_leaderboard(leaderboard: dict, sort_by: str = "pct", outlet: str | Non
         ats_l = e["ats_total"] - e["ats_correct"]
         ats = f"{ats_w:g}-{ats_l:g}"
         ats_pct = f"{e['ats_accuracy']:.1%}" if e["ats_total"] else "—"
-        print(f"{i:>3}  {e['expert_name']:<25} {e['outlet']:<20} {wl:>7} {pct:>6} {ats:>9} {ats_pct:>6}")
+        rows.append((str(i), e["expert_name"], e["outlet"], wl, pct, ats, ats_pct))
 
+    headers = ("#", "Expert", "Outlet", "W-L", "Pct", "ATS", "ATS%")
+    # Column alignment: left for name/outlet, right for everything else
+    aligns = ("r", "l", "l", "r", "r", "r", "r")
+
+    widths = [max(len(h), max((len(r[c]) for r in rows), default=0))
+              for c, h in enumerate(headers)]
+
+    def fmt_row(cells):
+        parts = []
+        for val, w, a in zip(cells, widths, aligns):
+            parts.append(f"{val:>{w}}" if a == "r" else f"{val:<{w}}")
+        return "  ".join(parts)
+
+    header_line = fmt_row(headers)
+    rule_width = len(header_line)
+
+    print(f"\n{'=' * rule_width}")
+    print(title)
+    print(f"{'=' * rule_width}")
+    print(header_line)
+    print(f"{'-' * rule_width}")
+    for row in rows:
+        print(fmt_row(row))
     print()
 
 
@@ -229,11 +250,13 @@ def main():
         picks_dir = ROOT / "data" / "picks" / str(season)
         espn_picks = load_json(picks_dir / f"week-{w}.json")
         fn_picks = load_json(picks_dir / f"week-{w}-fantasynerds.json")
+        nfl_picks = load_json(picks_dir / f"week-{w}-nfl.json")
+        pft_picks = load_json(picks_dir / f"week-{w}-pft.json")
         results = load_json(ROOT / "data" / "results" / str(season) / f"week-{w}.json")
 
         all_picks_list = []
         seen = set()
-        for source in (espn_picks, fn_picks):
+        for source in (espn_picks, fn_picks, nfl_picks, pft_picks):
             if not source:
                 continue
             for p in source["picks"]:
@@ -254,6 +277,10 @@ def main():
             sources.append(f"ESPN:{len(espn_picks['picks'])}")
         if fn_picks:
             sources.append(f"FN:{len(fn_picks['picks'])}")
+        if nfl_picks:
+            sources.append(f"NFL:{len(nfl_picks['picks'])}")
+        if pft_picks:
+            sources.append(f"PFT:{len(pft_picks['picks'])}")
 
         combined = {"picks": all_picks_list}
         print(f"  Week {w}: {len(all_picks_list)} picks ({', '.join(sources)}), {len(results['games'])} games")
