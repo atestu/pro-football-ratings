@@ -10,7 +10,8 @@ import re
 # Map non-standard abbreviations to canonical nflverse form
 ABBREV_ALIASES: dict[str, str] = {
     "WSH": "WAS",
-    "LAR": "LA",   # ESPN uses LAR, nflverse uses LA for Rams
+    "LAR": "LA",   # ESPN/Fantasy Nerds use LAR, nflverse uses LA for Rams
+    "JAC": "JAX",  # Fantasy Nerds uses JAC, nflverse uses JAX
     # ESPN occasionally uses different codes
     "SFO": "SF",
     "TBB": "TB",

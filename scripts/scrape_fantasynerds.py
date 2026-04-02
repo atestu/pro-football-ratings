@@ -16,7 +16,6 @@ Usage:
 import argparse
 import json
 import re
-import sys
 import time
 from pathlib import Path
 from urllib.request import Request, urlopen
@@ -33,113 +32,12 @@ HEADERS = {
                   "Chrome/120.0.0.0 Safari/537.36",
 }
 
-# Map full team names (from Fantasy Nerds alt text) to abbreviations
-TEAM_NAME_MAP: dict[str, str] = {
-    "Arizona Cardinals": "ARI", "Atlanta Falcons": "ATL",
-    "Baltimore Ravens": "BAL", "Buffalo Bills": "BUF",
-    "Carolina Panthers": "CAR", "Chicago Bears": "CHI",
-    "Cincinnati Bengals": "CIN", "Cleveland Browns": "CLE",
-    "Dallas Cowboys": "DAL", "Denver Broncos": "DEN",
-    "Detroit Lions": "DET", "Green Bay Packers": "GB",
-    "Houston Texans": "HOU", "Indianapolis Colts": "IND",
-    "Jacksonville Jaguars": "JAX", "Kansas City Chiefs": "KC",
-    "Las Vegas Raiders": "LV", "Los Angeles Chargers": "LAC",
-    "Los Angeles Rams": "LA", "Miami Dolphins": "MIA",
-    "Minnesota Vikings": "MIN", "New England Patriots": "NE",
-    "New Orleans Saints": "NO", "New York Giants": "NYG",
-    "New York Jets": "NYJ", "N.Y. Giants": "NYG", "N.Y. Jets": "NYJ",
-    "Philadelphia Eagles": "PHI", "Pittsburgh Steelers": "PIT",
-    "San Francisco 49ers": "SF", "Seattle Seahawks": "SEA",
-    "Tampa Bay Buccaneers": "TB", "Tennessee Titans": "TEN",
-    "Washington Commanders": "WAS",
-}
-
 
 def fetch_html(url: str) -> str:
     """Fetch HTML from a URL."""
     req = Request(url, headers=HEADERS)
     with urlopen(req, timeout=30) as resp:
         return resp.read().decode("utf-8")
-
-
-def team_from_img(img_tag: str) -> str | None:
-    """Extract team abbreviation from an <img> tag.
-    Tries alt text first (full name or abbreviation), then src filename.
-    """
-    # Try alt text as full team name
-    alt = re.search(r'alt="([^"]+)"', img_tag)
-    if alt:
-        name = alt.group(1).strip()
-        if name in TEAM_NAME_MAP:
-            return TEAM_NAME_MAP[name]
-        # Try as abbreviation directly
-        upper = name.upper()
-        if len(upper) <= 4:
-            return normalize_team(upper)
-
-    # Try src filename: /images/nfl/teams_small2/NO.png
-    src = re.search(r'src="[^"]*?/(\w+)\.(?:png|svg|jpg)"', img_tag)
-    if src:
-        return normalize_team(src.group(1).upper())
-
-    return None
-
-
-def get_game_ids_for_week(week: int) -> list[str]:
-    """Get Fantasy Nerds game IDs for a specific week.
-
-    The /nfl/picks page always shows the latest week regardless of ?week=.
-    But each game page at /nfl/picks/{week}/{id} works for any week.
-    We fetch the page and extract game IDs from the links, using the week
-    number in the URL to verify we have the right week.
-    """
-    # Try fetching the picks page - it shows the latest week
-    url = f"{BASE_URL}/nfl/picks"
-    print(f"  Fetching game list: {url}")
-    html = fetch_html(url)
-
-    # Extract all game links with their week numbers
-    links = re.findall(r'/nfl/picks/(\d+)/(\d+)', html)
-
-    # Get the week that the page is showing
-    page_week = int(links[0][0]) if links else None
-
-    if page_week == week:
-        game_ids = list(dict.fromkeys(l[1] for l in links))
-        return game_ids
-
-    # If the page shows a different week, we need to figure out the game IDs
-    # for our target week. Fantasy Nerds game IDs are sequential, so we can
-    # estimate based on the offset.
-    # Better approach: just try sequential IDs and see which ones return data
-    print(f"  Page shows week {page_week}, need week {week}")
-
-    # Get game IDs from the page for reference
-    ref_ids = [int(l[1]) for l in links]
-    games_per_week = len(set(l[1] for l in links))
-    if not ref_ids:
-        return []
-
-    # Estimate: IDs are roughly sequential. ~16 games per week.
-    week_diff = page_week - week
-    estimated_start = min(ref_ids) - (week_diff * games_per_week)
-
-    # Try a range around the estimate
-    valid_ids = []
-    for candidate_id in range(estimated_start - 2, estimated_start + games_per_week + 2):
-        try:
-            test_url = f"{BASE_URL}/nfl/picks/{week}/{candidate_id}"
-            req = Request(test_url, headers=HEADERS, method="HEAD")
-            with urlopen(req, timeout=10) as resp:
-                if resp.status == 200:
-                    valid_ids.append(str(candidate_id))
-        except Exception:
-            continue
-
-        if len(valid_ids) >= games_per_week:
-            break
-
-    return valid_ids
 
 
 def scrape_game_picks(week: int, fn_game_id: str) -> tuple[dict | None, list[dict]]:
@@ -150,21 +48,18 @@ def scrape_game_picks(week: int, fn_game_id: str) -> tuple[dict | None, list[dic
     url = f"{BASE_URL}/nfl/picks/{week}/{fn_game_id}"
     html = fetch_html(url)
 
-    # Determine the two teams from the game page
-    # The page title or header usually has "TEAM at TEAM" or team images
-    # Find the two main team images (teams_mid size) in the consensus section
-    team_imgs = re.findall(
-        r'<img[^>]*src="[^"]*teams_mid[^"]*"[^>]*alt="([^"]*)"[^>]*/?>',
-        html,
+    # Determine the two teams from the "Projected Score" line, which has
+    # two teams_small2 images: <img src="/images/nfl/teams_small2/ATL.png" />
+    proj_match = re.search(
+        r'Projected Score.*?teams_small2/(\w+)\.png.*?teams_small2/(\w+)\.png',
+        html, re.DOTALL,
     )
-    teams = []
-    for alt in team_imgs:
-        abbr = TEAM_NAME_MAP.get(alt)
-        if abbr and abbr not in teams:
-            teams.append(abbr)
-
-    away = teams[0] if len(teams) >= 1 else None
-    home = teams[1] if len(teams) >= 2 else None
+    if proj_match:
+        away = normalize_team(proj_match.group(1).upper())
+        home = normalize_team(proj_match.group(2).upper())
+    else:
+        away = None
+        home = None
 
     # Parse expert picks table
     picks = []
@@ -182,20 +77,17 @@ def scrape_game_picks(week: int, fn_game_id: str) -> tuple[dict | None, list[dic
             continue
 
         # The pick is in the last cell as a team image
-        pick_img = re.search(r'<img[^>]*(?:alt="([^"]*)"[^>]*src="([^"]*)"'
-                             r'|src="([^"]*)"[^>]*alt="([^"]*)")', cells[-1])
-        if not pick_img:
-            continue
-
-        alt_text = pick_img.group(1) or pick_img.group(4) or ""
-        src_text = pick_img.group(2) or pick_img.group(3) or ""
-
-        # Get team from alt (full name) or src (filename)
-        picked_team = TEAM_NAME_MAP.get(alt_text)
-        if not picked_team:
-            src_match = re.search(r'/(\w+)\.(?:png|svg)', src_text)
-            if src_match:
-                picked_team = normalize_team(src_match.group(1).upper())
+        # Alt text is an abbreviation (e.g. "ATL"), src has the filename
+        pick_src = re.search(r'teams_small2/(\w+)\.png', cells[-1])
+        if not pick_src:
+            # Fallback: try any img alt or src
+            pick_img = re.search(r'alt="(\w+)"', cells[-1])
+            if pick_img:
+                picked_team = normalize_team(pick_img.group(1).upper())
+            else:
+                continue
+        else:
+            picked_team = normalize_team(pick_src.group(1).upper())
 
         if not picked_team:
             continue
@@ -249,22 +141,32 @@ def scrape_week(season: int, week: int) -> dict:
     if page_week == week:
         fn_game_ids = list(dict.fromkeys(l[1] for l in links if int(l[0]) == week))
     else:
-        # For non-current weeks, estimate game IDs
+        # For non-current weeks, scan for valid game IDs.
+        # IDs are sequential but weeks vary in game count (13-16 during byes).
+        # Estimate a starting point then scan a wide range.
         ref_ids = sorted(set(int(l[1]) for l in links))
-        games_per_week = len(ref_ids)
         week_diff = page_week - week
-        est_start = ref_ids[0] - (week_diff * games_per_week)
+        # Use 15 games/week as average (accounts for bye weeks with fewer)
+        est_start = ref_ids[0] - int(week_diff * 15.5)
 
         fn_game_ids = []
-        for cid in range(est_start - 2, est_start + games_per_week + 4):
+        # Scan a wide window: up to 3 games/week drift over 18 weeks = ~54
+        scan_start = est_start - 30
+        scan_end = est_start + 30
+        consecutive_misses = 0
+        for cid in range(scan_start, scan_end):
             try:
                 test_html = fetch_html(f"{BASE_URL}/nfl/picks/{week}/{cid}")
-                if '<table' in test_html and 'picks' in test_html.lower():
+                if 'Expert Pick' in test_html:
                     fn_game_ids.append(str(cid))
+                    consecutive_misses = 0
+                else:
+                    consecutive_misses += 1
             except Exception:
-                continue
+                consecutive_misses += 1
             time.sleep(0.3)
-            if len(fn_game_ids) >= 16:
+            # Stop after finding all games and hitting a gap
+            if fn_game_ids and consecutive_misses >= 3:
                 break
 
     print(f"  Found {len(fn_game_ids)} games for week {week}")

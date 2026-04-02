@@ -8,7 +8,7 @@ Track NFL media expert picks, compare against actual results, and rank the pundi
 Cron (Wednesday)        Cron (Tuesday)          GitHub Pages (future)
      |                      |                       |
  Scrape picks          Fetch results           Static site
- (ESPN API)            (nflreadpy)                  |
+ (ESPN, Fantasy Nerds) (nflreadpy)                  |
      |                      |                  Leaderboard
  Store as JSON  --->   Score & grade  --->    (auto-deploy)
  (committed)           (committed)
@@ -20,13 +20,14 @@ All data lives as JSON in the repo. No database, no server. Automated via GitHub
 
 | Source | Type | Notes |
 |--------|------|-------|
-| ESPN talentpicks API | Expert picks | ~10-14 ESPN analysts per week |
+| ESPN picks page | Expert picks | ~10-14 ESPN analysts per week (HTML scraping) |
+| Fantasy Nerds | Expert picks | ~26-35 experts from ESPN, CBS, Yahoo, FanDuel, DraftKings, etc. |
 | nflverse (via nflreadpy) | Game results | Canonical NFL schedule data |
 
 ## Setup
 
 ```bash
-pip install -r requirements.txt
+uv sync
 ```
 
 Requires Python 3.12+.
@@ -35,21 +36,22 @@ Requires Python 3.12+.
 
 ### Scrape expert picks
 ```bash
-python scripts/scrape_espn_picks.py --season 2024 --week 1
+uv run scripts/scrape_espn_picks.py --season 2025 --week 1
+uv run scripts/scrape_fantasynerds.py --season 2025 --week 1
 ```
 
 ### Fetch game results
 ```bash
-python scripts/fetch_results.py --season 2024 --week 1
+uv run scripts/fetch_results.py --season 2025 --week 1
 ```
 
 ### Score experts and build leaderboard
 ```bash
 # Score a specific week
-python scripts/score_experts.py --season 2024 --week 1
+uv run scripts/score_experts.py --season 2025 --week 1
 
 # Score all available weeks for a season
-python scripts/score_experts.py --season 2024
+uv run scripts/score_experts.py --season 2025
 ```
 
 All scripts auto-detect the current season/week if `--season` and `--week` are omitted.
@@ -58,10 +60,11 @@ All scripts auto-detect the current season/week if `--season` and `--week` are o
 
 ```
 data/
-  experts.json                     # Master expert registry
-  picks/{season}/week-{week}.json  # Raw expert picks
-  results/{season}/week-{week}.json # Game outcomes
-  scores/{season}/leaderboard.json  # Accuracy rankings
+  experts.json                                # Master expert registry
+  picks/{season}/week-{week}.json             # ESPN expert picks
+  picks/{season}/week-{week}-fantasynerds.json # Fantasy Nerds expert picks
+  results/{season}/week-{week}.json           # Game outcomes
+  scores/{season}/leaderboard.json            # Accuracy rankings
 ```
 
 ## Automation
