@@ -24,6 +24,7 @@ ABBREV_ALIASES: dict[str, str] = {
 
 # Map team display names (nicknames) to canonical nflverse abbreviations
 TEAM_NICK_TO_ABBREV: dict[str, str] = {
+    "Cardinal": "ARI",
     "Cardinals": "ARI",
     "Falcons": "ATL",
     "Ravens": "BAL",
@@ -37,12 +38,15 @@ TEAM_NICK_TO_ABBREV: dict[str, str] = {
     "Lions": "DET",
     "Packers": "GB",
     "Texans": "HOU",
+    "Col": "IND",
+    "Cols": "IND",
     "Colts": "IND",
     "Jaguars": "JAX",
     "Chiefs": "KC",
     "Rams": "LA",
     "Chargers": "LAC",
     "Raiders": "LV",
+    "Dolphin": "MIA",
     "Dolphins": "MIA",
     "Vikings": "MIN",
     "Patriots": "NE",

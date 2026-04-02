@@ -135,9 +135,27 @@ def parse_moneyline_teams(line: str) -> tuple[str, str]:
 
 def scrape_picks(season: int, week: int) -> dict:
     """Scrape all expert picks for a given week from NFL.com."""
-    url = f"https://www.nfl.com/news/nfl-picks-week-{week}-{season}-nfl-season"
-    print(f"Fetching: {url}")
-    html = fetch_html(url)
+    base = "https://www.nfl.com/news/"
+    url_candidates = [
+        f"{base}nfl-picks-week-{week}-{season}-nfl-season",
+        f"{base}nfl-week-{week}-picks-upset-and-score-predictions-matchup-breakdowns-for-every-game",
+    ]
+    html = None
+    url = None
+    from urllib.error import HTTPError
+    for candidate in url_candidates:
+        try:
+            print(f"Fetching: {candidate}")
+            html = fetch_html(candidate)
+            url = candidate
+            break
+        except HTTPError as e:
+            if e.code == 404:
+                print(f"  404 for {candidate}, trying next...")
+                continue
+            raise
+    if html is None:
+        raise RuntimeError(f"No valid URL found for week {week} season {season}")
 
     # Load schedule for canonical game IDs
     print("  Loading nflverse schedule for game ID lookup...")

@@ -69,12 +69,27 @@ def scrape_picks(season: int, week: int) -> dict:
     print("  Loading nflverse schedule for game ID lookup...")
     schedule_lookup = load_schedule(season, week)
 
-    url = (
-        f"https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/"
-        f"pfts-week-{week}-{season}-nfl-picks-florio-vs-simms"
-    )
-    print(f"Fetching: {url}")
-    html = fetch_html(url)
+    base = "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/"
+    url_candidates = [
+        f"{base}pfts-week-{week}-{season}-nfl-picks-florio-vs-simms",
+        f"{base}pfts-week-{week}-{season}-picks-florio-vs-simms",
+    ]
+    html = None
+    url = None
+    from urllib.error import HTTPError
+    for candidate in url_candidates:
+        try:
+            print(f"Fetching: {candidate}")
+            html = fetch_html(candidate)
+            url = candidate
+            break
+        except HTTPError as e:
+            if e.code == 404:
+                print(f"  404 for {candidate}, trying next...")
+                continue
+            raise
+    if html is None:
+        raise RuntimeError(f"No valid URL found for week {week} season {season}")
 
     # Parse pick lines: "Florio's pick: Eagles 30, Cowboys 17."
     # or "Simms's pick: Eagles 27, Cowboys 20."
