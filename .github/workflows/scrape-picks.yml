@@ -1,0 +1,58 @@
+name: Scrape Expert Picks
+
+on:
+  schedule:
+    - cron: '0 12 * * 3' # Wednesday 12:00 UTC
+  workflow_dispatch:
+    inputs:
+      season:
+        description: 'NFL season year (e.g., 2025)'
+        required: false
+      week:
+        description: 'NFL week number (1-18)'
+        required: false
+
+concurrency:
+  group: scrape-picks
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check NFL season (skip offseason for cron)
+        if: github.event_name != 'workflow_dispatch'
+        run: |
+          MONTH=$(date +%-m)
+          if [ "$MONTH" -gt 2 ] && [ "$MONTH" -lt 9 ]; then
+            echo "Off-season (month $MONTH), skipping."
+            exit 0
+          fi
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Scrape ESPN picks
+        run: |
+          ARGS=""
+          if [ -n "${{ inputs.season }}" ]; then ARGS="$ARGS --season ${{ inputs.season }}"; fi
+          if [ -n "${{ inputs.week }}" ]; then ARGS="$ARGS --week ${{ inputs.week }}"; fi
+          python scripts/scrape_espn_picks.py $ARGS
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/picks/ data/experts.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "data: scrape ESPN picks"
+            git push
+          fi

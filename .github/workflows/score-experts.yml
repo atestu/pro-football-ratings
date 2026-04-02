@@ -1,0 +1,50 @@
+name: Score Expert Picks
+
+on:
+  push:
+    paths:
+      - 'data/results/**'
+  workflow_dispatch:
+    inputs:
+      season:
+        description: 'NFL season year (e.g., 2025)'
+        required: false
+      week:
+        description: 'NFL week number (1-18)'
+        required: false
+
+concurrency:
+  group: score-experts
+  cancel-in-progress: false
+
+jobs:
+  score:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Score experts
+        run: |
+          ARGS=""
+          if [ -n "${{ inputs.season }}" ]; then ARGS="$ARGS --season ${{ inputs.season }}"; fi
+          if [ -n "${{ inputs.week }}" ]; then ARGS="$ARGS --week ${{ inputs.week }}"; fi
+          python scripts/score_experts.py $ARGS
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/scores/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "data: update leaderboard"
+            git push
+          fi
