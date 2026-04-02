@@ -8,7 +8,8 @@
       "home_team": "GB",
       "away_score": 18,
       "home_score": 27,
-      "winner": "GB"
+      "winner": "GB",
+      "spread_line": 3.5
     },
     {
       "game_id": "2025_02_CLE_BAL",
@@ -16,7 +17,8 @@
       "home_team": "BAL",
       "away_score": 17,
       "home_score": 41,
-      "winner": "BAL"
+      "winner": "BAL",
+      "spread_line": 12.5
     },
     {
       "game_id": "2025_02_JAX_CIN",
@@ -24,7 +26,8 @@
       "home_team": "CIN",
       "away_score": 27,
       "home_score": 31,
-      "winner": "CIN"
+      "winner": "CIN",
+      "spread_line": 3.5
     },
     {
       "game_id": "2025_02_NYG_DAL",
@@ -32,7 +35,8 @@
       "home_team": "DAL",
       "away_score": 37,
       "home_score": 40,
-      "winner": "DAL"
+      "winner": "DAL",
+      "spread_line": 4.5
     },
     {
       "game_id": "2025_02_CHI_DET",
@@ -40,7 +44,8 @@
       "home_team": "DET",
       "away_score": 21,
       "home_score": 52,
-      "winner": "DET"
+      "winner": "DET",
+      "spread_line": 6.0
     },
     {
       "game_id": "2025_02_NE_MIA",
@@ -48,7 +53,8 @@
       "home_team": "MIA",
       "away_score": 33,
       "home_score": 27,
-      "winner": "NE"
+      "winner": "NE",
+      "spread_line": 1.5
     },
     {
       "game_id": "2025_02_SF_NO",
@@ -56,7 +62,8 @@
       "home_team": "NO",
       "away_score": 26,
       "home_score": 21,
-      "winner": "SF"
+      "winner": "SF",
+      "spread_line": -3.0
     },
     {
       "game_id": "2025_02_BUF_NYJ",
@@ -64,7 +71,8 @@
       "home_team": "NYJ",
       "away_score": 30,
       "home_score": 10,
-      "winner": "BUF"
+      "winner": "BUF",
+      "spread_line": -6.0
     },
     {
       "game_id": "2025_02_SEA_PIT",
@@ -72,7 +80,8 @@
       "home_team": "PIT",
       "away_score": 31,
       "home_score": 17,
-      "winner": "SEA"
+      "winner": "SEA",
+      "spread_line": 3.5
     },
     {
       "game_id": "2025_02_LA_TEN",
@@ -80,7 +89,8 @@
       "home_team": "TEN",
       "away_score": 33,
       "home_score": 19,
-      "winner": "LA"
+      "winner": "LA",
+      "spread_line": -5.5
     },
     {
       "game_id": "2025_02_CAR_ARI",
@@ -88,7 +98,8 @@
       "home_team": "ARI",
       "away_score": 22,
       "home_score": 27,
-      "winner": "ARI"
+      "winner": "ARI",
+      "spread_line": 7.0
     },
     {
       "game_id": "2025_02_DEN_IND",
@@ -96,7 +107,8 @@
       "home_team": "IND",
       "away_score": 28,
       "home_score": 29,
-      "winner": "IND"
+      "winner": "IND",
+      "spread_line": -2.5
     },
     {
       "game_id": "2025_02_PHI_KC",
@@ -104,7 +116,8 @@
       "home_team": "KC",
       "away_score": 20,
       "home_score": 17,
-      "winner": "PHI"
+      "winner": "PHI",
+      "spread_line": -1.5
     },
     {
       "game_id": "2025_02_ATL_MIN",
@@ -112,7 +125,8 @@
       "home_team": "MIN",
       "away_score": 22,
       "home_score": 6,
-      "winner": "ATL"
+      "winner": "ATL",
+      "spread_line": 3.5
     },
     {
       "game_id": "2025_02_TB_HOU",
@@ -120,7 +134,8 @@
       "home_team": "HOU",
       "away_score": 20,
       "home_score": 19,
-      "winner": "TB"
+      "winner": "TB",
+      "spread_line": 2.5
     },
     {
       "game_id": "2025_02_LAC_LV",
@@ -128,7 +143,8 @@
       "home_team": "LV",
       "away_score": 20,
       "home_score": 9,
-      "winner": "LAC"
+      "winner": "LAC",
+      "spread_line": -3.5
     }
   ]
 }
