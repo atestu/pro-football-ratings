@@ -12,6 +12,7 @@ Usage:
     python scripts/rate_experts.py --exclude-seasons 2021   # exclude corrupted
     python scripts/rate_experts.py --validate               # check pick integrity
     python scripts/rate_experts.py --half-life 78           # tune decay
+    python scripts/rate_experts.py --team CAR               # filter to Panthers games
 """
 
 import argparse
@@ -77,9 +78,17 @@ def load_game_dates(seasons: list[int]) -> dict[str, datetime.date]:
     return game_dates
 
 
-def load_all_picks_and_results(seasons: list[int]):
+def _game_involves_team(game_id: str, team: str) -> bool:
+    """Check if a game_id (e.g. 2024_01_BAL_KC) involves the given team."""
+    parts = game_id.split("_")
+    return len(parts) >= 4 and team in (parts[2], parts[3])
+
+
+def load_all_picks_and_results(seasons: list[int], team: str | None = None):
     """
     Load all picks and results across seasons, deduping by (expert, game_id).
+
+    If team is specified, only include games involving that team.
 
     Returns:
         picks_by_expert: {slug: [{game_id, pick, ...}, ...]}
@@ -101,6 +110,8 @@ def load_all_picks_and_results(seasons: list[int]):
             if not results:
                 continue
             for g in results["games"]:
+                if team and not _game_involves_team(g["game_id"], team):
+                    continue
                 results_by_game[g["game_id"]] = g
 
         # Load picks for this season (ESPN first, then FN, NFL, PFT — dedup)
@@ -116,6 +127,8 @@ def load_all_picks_and_results(seasons: list[int]):
                 if not source:
                     continue
                 for p in source["picks"]:
+                    if team and not _game_involves_team(p["game_id"], team):
+                        continue
                     key = (p["expert"], p["game_id"])
                     if key not in seen:
                         seen.add(key)
@@ -447,6 +460,10 @@ def get_args() -> argparse.Namespace:
         "--validate", action="store_true",
         help="Validate historical pick integrity and exit",
     )
+    parser.add_argument(
+        "--team", type=str, default=None,
+        help="Filter to games involving this team (nflverse abbr, e.g. CAR, KC, SF)",
+    )
     return parser.parse_args()
 
 
@@ -471,12 +488,21 @@ def main():
         validate_picks(seasons)
         sys.exit(0)
 
+    team = args.team.upper() if args.team else None
+
+    # When filtering by team, lower default min-picks (17 games/season)
+    min_picks = args.min_picks
+    if team and min_picks == 100:
+        min_picks = 20
+
     print(f"Computing ratings for seasons: {seasons}")
-    print(f"  Half-life: {args.half_life} weeks, Min picks: {args.min_picks}\n")
+    if team:
+        print(f"  Team filter: {team}")
+    print(f"  Half-life: {args.half_life} weeks, Min picks: {min_picks}\n")
 
     # Load data
     game_dates = load_game_dates(seasons)
-    picks_by_expert, results_by_game = load_all_picks_and_results(seasons)
+    picks_by_expert, results_by_game = load_all_picks_and_results(seasons, team=team)
 
     print(f"\n  {len(picks_by_expert)} experts, {len(results_by_game)} games loaded")
 
@@ -484,16 +510,17 @@ def main():
     output = compute_ratings(
         picks_by_expert, results_by_game, game_dates,
         half_life=args.half_life,
-        min_picks=args.min_picks,
+        min_picks=min_picks,
         seasons=seasons,
     )
 
-    # Write output
-    scores_dir = ROOT / "data" / "scores"
-    scores_dir.mkdir(parents=True, exist_ok=True)
-    output_path = scores_dir / "ratings.json"
-    output_path.write_text(json.dumps(output, indent=2) + "\n")
-    print(f"Wrote ratings for {len(output['experts'])} experts to {output_path}")
+    # Only write to file when not filtering by team
+    if not team:
+        scores_dir = ROOT / "data" / "scores"
+        scores_dir.mkdir(parents=True, exist_ok=True)
+        output_path = scores_dir / "ratings.json"
+        output_path.write_text(json.dumps(output, indent=2) + "\n")
+        print(f"Wrote ratings for {len(output['experts'])} experts to {output_path}")
 
     print_summary(output)
 
