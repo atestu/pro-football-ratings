@@ -495,9 +495,10 @@ details p {{ color:var(--muted); font-size:13px; max-width:80ch; }}
 
 <footer class="sitefooter">
   <div class="wrap">
-    <span>profootballratings.com — updated automatically; last build {gen_date}.</span>
+    <span>profootballratings.com — updated automatically; last build {gen_date}.
+      Not affiliated with the NFL or any outlet. Not betting advice.</span>
     <span>Game data from <a href="https://github.com/nflverse">nflverse</a> ·
-      <a href="https://github.com/atestu/nfl-predictions">built in the open</a></span>
+      <a href="https://github.com/atestu/pro-football-ratings">built in the open</a></span>
   </div>
 </footer>
 
