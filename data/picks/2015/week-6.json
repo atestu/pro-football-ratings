@@ -1,0 +1,223 @@
+{
+  "season": 2015,
+  "week": 6,
+  "season_type": "REG",
+  "scraped_at": "2026-04-04T14:03:10Z",
+  "sources": [
+    "espn_talentpicks"
+  ],
+  "games": [
+    {
+      "game_id": "2015_06_ATL_NO",
+      "away_team": "ATL",
+      "home_team": "NO",
+      "kickoff": "2015-10-16T00:25:00.000+00:00"
+    },
+    {
+      "game_id": "2015_06_CIN_BUF",
+      "away_team": "CIN",
+      "home_team": "BUF",
+      "kickoff": "2015-10-18T17:00:00.000+00:00"
+    },
+    {
+      "game_id": "2015_06_DEN_CLE",
+      "away_team": "DEN",
+      "home_team": "CLE",
+      "kickoff": "2015-10-18T17:00:00.000+00:00"
+    },
+    {
+      "game_id": "2015_06_CHI_DET",
+      "away_team": "CHI",
+      "home_team": "DET",
+      "kickoff": "2015-10-18T17:00:00.000+00:00"
+    },
+    {
+      "game_id": "2015_06_MIA_TEN",
+      "away_team": "MIA",
+      "home_team": "TEN",
+      "kickoff": "2015-10-18T17:00:00.000+00:00"
+    },
+    {
+      "game_id": "2015_06_KC_MIN",
+      "away_team": "KC",
+      "home_team": "MIN",
+      "kickoff": "2015-10-18T17:00:00.000+00:00"
+    },
+    {
+      "game_id": "2015_06_WAS_NYJ",
+      "away_team": "WAS",
+      "home_team": "NYJ",
+      "kickoff": "2015-10-18T17:00:00.000+00:00"
+    },
+    {
+      "game_id": "2015_06_ARI_PIT",
+      "away_team": "ARI",
+      "home_team": "PIT",
+      "kickoff": "2015-10-18T17:00:00.000+00:00"
+    },
+    {
+      "game_id": "2015_06_HOU_JAX",
+      "away_team": "HOU",
+      "home_team": "JAX",
+      "kickoff": "2015-10-18T17:00:00.000+00:00"
+    },
+    {
+      "game_id": "2015_06_CAR_SEA",
+      "away_team": "CAR",
+      "home_team": "SEA",
+      "kickoff": "2015-10-18T20:05:00.000+00:00"
+    },
+    {
+      "game_id": "2015_06_SD_GB",
+      "away_team": "SD",
+      "home_team": "GB",
+      "kickoff": "2015-10-18T20:25:00.000+00:00"
+    },
+    {
+      "game_id": "2015_06_BAL_SF",
+      "away_team": "BAL",
+      "home_team": "SF",
+      "kickoff": "2015-10-18T20:25:00.000+00:00"
+    },
+    {
+      "game_id": "2015_06_NE_IND",
+      "away_team": "NE",
+      "home_team": "IND",
+      "kickoff": "2015-10-19T00:30:00.000+00:00"
+    },
+    {
+      "game_id": "2015_06_NYG_PHI",
+      "away_team": "NYG",
+      "home_team": "PHI",
+      "kickoff": "2015-10-20T00:30:00.000+00:00"
+    }
+  ],
+  "picks": [
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2015_06_ATL_NO",
+      "pick": "ATL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2015_06_CIN_BUF",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2015_06_DEN_CLE",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2015_06_CHI_DET",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2015_06_MIA_TEN",
+      "pick": "TEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2015_06_KC_MIN",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2015_06_WAS_NYJ",
+      "pick": "DEFAULT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2015_06_ARI_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2015_06_HOU_JAX",
+      "pick": "JAX",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2015_06_CAR_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2015_06_SD_GB",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2015_06_BAL_SF",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2015_06_NE_IND",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2015_06_NYG_PHI",
+      "pick": "PHI",
+      "pick_type": "straight_up"
+    }
+  ]
+}
