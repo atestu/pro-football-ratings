@@ -2,7 +2,10 @@ name: Scrape Expert Picks
 
 on:
   schedule:
-    - cron: '0 12 * * 3' # Wednesday 12:00 UTC
+    # Thursday 16:00 UTC = noon ET: all outlets have published (PFT's
+    # article lands Thursday morning) but TNF kickoff (~00:15 UTC Fri)
+    # is still hours away
+    - cron: '0 16 * * 4'
   workflow_dispatch:
     inputs:
       season:
@@ -57,12 +60,16 @@ jobs:
         if: steps.season.outputs.skip != 'true'
         run: python scripts/scrape_espn_picks.py ${{ steps.args.outputs.ARGS }}
 
+      # NFL.com and PFT articles occasionally publish late; don't let a 404
+      # from one outlet block committing the others' picks
       - name: Scrape NFL.com picks
         if: steps.season.outputs.skip != 'true'
+        continue-on-error: true
         run: python scripts/scrape_nfl_picks.py ${{ steps.args.outputs.ARGS }}
 
       - name: Scrape PFT picks
         if: steps.season.outputs.skip != 'true'
+        continue-on-error: true
         run: python scripts/scrape_pft_picks.py ${{ steps.args.outputs.ARGS }}
 
       - name: Commit and push
