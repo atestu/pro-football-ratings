@@ -74,5 +74,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "data: results and leaderboard update"
+            git pull --rebase
             git push
           fi

@@ -75,5 +75,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "data: scrape expert picks"
+            git pull --rebase
             git push
           fi
