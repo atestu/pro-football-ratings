@@ -27,3 +27,6 @@ __pycache__/
 
 # Wayback Machine HTML cache
 data/cache/
+
+# Static site build output
+_site/
