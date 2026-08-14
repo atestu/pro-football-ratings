@@ -38,6 +38,12 @@ Scraper/scorer scripts accept `--season` and `--week` (both optional, auto-detec
 - `scrape_espn_picks.py` -- Parses `window['__espnfitt__']` embedded JSON from ESPN picks HTML page. Outputs `data/picks/{season}/week-{week}.json`.
 - `scrape_fantasynerds.py` -- Scrapes fantasynerds.com (aggregates ESPN, CBS, Yahoo, FanDuel, DraftKings, etc.). Outputs `data/picks/{season}/week-{week}-fantasynerds.json`. Teams are parsed from the "Projected Score" line on each game page. The index page (`/nfl/picks`) only shows the current week's game IDs; historical weeks require scanning sequential IDs. Requires nflverse schedule lookup to get canonical away/home ordering for game IDs.
 
+**Fantasy Nerds expert pages** (alternative scraping surface, not yet implemented):
+- Per-expert pages at `/nfl/picks/expert/{id}/{slug}` use sequential numeric IDs (192 active experts found scanning 1-193).
+- Each page is server-rendered HTML (no JS required) with one table per week showing Game, Prediction, Correct columns. All picks for the entire current season appear on a single page.
+- Covers experts from ESPN, CBS Sports, NFL, USA Today, DraftKings, FanDuel, Gridiron Experts, and more.
+- Direct fetching may return 403. For **historical** data, Wayback Machine snapshots work: use the CDX API (`web.archive.org/cdx/search/cdx?url=...`) to find snapshots, then fetch archived pages. Mid/late-season snapshots (Nov-Jan) contain full picks data; offseason snapshots are empty.
+
 **Results:** `fetch_results.py` uses `nflreadpy.load_schedules()` which returns Polars DataFrames from nflverse parquet files. No CSV parsing.
 
 **Scoring:** `score_experts.py` reads picks + results JSON files, compares picks against winners, builds cumulative leaderboard. Ties are excluded from totals.
@@ -58,6 +64,10 @@ Scraper/scorer scripts accept `--season` and `--week` (both optional, auto-detec
 - **Dedup pattern**: When loading picks from multiple sources, iterate ESPN first, then Fantasy Nerds, NFL.com, PFT. Skip any `(expert, game_id)` pair already seen. This prevents double-counting experts that appear in multiple sources.
 - **No external HTTP libraries** -- scrapers use `urllib.request` only. `nflreadpy` (which depends on Polars) is the sole heavy dependency.
 
-## Data Sources Gotcha
+## Data Sources Gotchas
 
-The ESPN Core API (`sports.core.api.espn.com/v2/.../talentpicks`) is **not reliable** for historical picks -- it overwrites pick data with game winners after results are in. The working approach parses the ESPN picks webpage HTML instead.
+The ESPN picks webpage (`espn.com/nfl/picks`) sits behind an AWS WAF JavaScript challenge (HTTP 202 + `gokuProps` challenge page) as of Aug 2026 -- plain HTTP clients can't fetch it. `scrape_espn_picks.py` tries the page first, then falls back to the Core API talentpicks endpoint (`sports.core.api.espn.com/v2/.../talentpicks`), which is not WAF-blocked. The talentpicks `correct` flag is unreliable (always true on historical weeks), but the pick competitor itself is preserved -- verified with zero mismatches against page-scraped 2025 data. We grade picks ourselves in `score_experts.py`, so only the pick matters.
+
+NFL.com picks articles render each pick as a team-logo `<img>` with **empty alt text**; the team is only identifiable from the Cloudinary asset hash in the image URL. `scrape_nfl_picks.py` maps hashes via its `LOGO_TEAM_MAP` (derived by cross-referencing 2025 articles against committed pick data; 8 teams have two logo variants). If NFL.com adds new logo assets, unknown-hash warnings will appear and the map needs new entries.
+
+Fantasy Nerds may 403-block direct requests to expert pages (`/nfl/picks/expert/{id}`). They also have a paid API at `api.fantasynerds.com` with NFL picks endpoints, but we don't use it. For historical picks, Wayback Machine snapshots of expert pages are the proven approach -- only mid-to-late season snapshots contain data.

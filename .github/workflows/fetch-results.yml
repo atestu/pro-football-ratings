@@ -22,23 +22,30 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # exit 0 in a step does not stop the job, so the check exports an
+      # output and every later step is gated on it
       - name: Check NFL season (skip offseason for cron)
-        if: github.event_name != 'workflow_dispatch'
+        id: season
         run: |
           MONTH=$(date +%-m)
-          if [ "$MONTH" -gt 2 ] && [ "$MONTH" -lt 9 ]; then
+          if [ "${{ github.event_name }}" != "workflow_dispatch" ] && [ "$MONTH" -gt 2 ] && [ "$MONTH" -lt 9 ]; then
             echo "Off-season (month $MONTH), skipping."
-            exit 0
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
           fi
 
       - uses: actions/setup-python@v5
+        if: steps.season.outputs.skip != 'true'
         with:
           python-version: '3.12'
 
       - name: Install dependencies
+        if: steps.season.outputs.skip != 'true'
         run: pip install -r requirements.txt
 
       - name: Fetch results
+        if: steps.season.outputs.skip != 'true'
         run: |
           ARGS=""
           if [ -n "${{ inputs.season }}" ]; then ARGS="$ARGS --season ${{ inputs.season }}"; fi
@@ -46,16 +53,19 @@ jobs:
           python scripts/fetch_results.py $ARGS
 
       - name: Score experts
+        if: steps.season.outputs.skip != 'true'
         run: |
           ARGS=""
           if [ -n "${{ inputs.season }}" ]; then ARGS="$ARGS --season ${{ inputs.season }}"; fi
           python scripts/score_experts.py $ARGS
 
       - name: Compute ratings
+        if: steps.season.outputs.skip != 'true'
         continue-on-error: true
         run: python scripts/rate_experts.py
 
       - name: Commit and push
+        if: steps.season.outputs.skip != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"

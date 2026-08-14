@@ -211,6 +211,12 @@ def main():
     season = args.season or nfl.get_current_season()
     week = args.week or nfl.get_current_week()
 
+    # get_current_week() returns 19-22 during the playoffs, but picks pages
+    # only exist for the regular season
+    if args.week is None and week > 18:
+        print(f"Auto-detected week {week} is postseason; nothing to scrape.")
+        return
+
     print(f"Scraping PFT picks for {season} Week {week}...")
 
     data = scrape_picks(season, week)

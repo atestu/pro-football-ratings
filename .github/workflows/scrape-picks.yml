@@ -22,24 +22,31 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # exit 0 in a step does not stop the job, so the check exports an
+      # output and every later step is gated on it
       - name: Check NFL season (skip offseason for cron)
-        if: github.event_name != 'workflow_dispatch'
+        id: season
         run: |
           MONTH=$(date +%-m)
-          if [ "$MONTH" -gt 2 ] && [ "$MONTH" -lt 9 ]; then
+          if [ "${{ github.event_name }}" != "workflow_dispatch" ] && [ "$MONTH" -gt 2 ] && [ "$MONTH" -lt 9 ]; then
             echo "Off-season (month $MONTH), skipping."
-            exit 0
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
           fi
 
       - uses: actions/setup-python@v5
+        if: steps.season.outputs.skip != 'true'
         with:
           python-version: '3.12'
 
       - name: Install dependencies
+        if: steps.season.outputs.skip != 'true'
         run: pip install -r requirements.txt
 
       - name: Build args
         id: args
+        if: steps.season.outputs.skip != 'true'
         run: |
           ARGS=""
           if [ -n "${{ inputs.season }}" ]; then ARGS="$ARGS --season ${{ inputs.season }}"; fi
@@ -47,15 +54,19 @@ jobs:
           echo "ARGS=$ARGS" >> "$GITHUB_OUTPUT"
 
       - name: Scrape ESPN picks
+        if: steps.season.outputs.skip != 'true'
         run: python scripts/scrape_espn_picks.py ${{ steps.args.outputs.ARGS }}
 
       - name: Scrape NFL.com picks
+        if: steps.season.outputs.skip != 'true'
         run: python scripts/scrape_nfl_picks.py ${{ steps.args.outputs.ARGS }}
 
       - name: Scrape PFT picks
+        if: steps.season.outputs.skip != 'true'
         run: python scripts/scrape_pft_picks.py ${{ steps.args.outputs.ARGS }}
 
       - name: Commit and push
+        if: steps.season.outputs.skip != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"

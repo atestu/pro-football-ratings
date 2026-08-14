@@ -40,6 +40,54 @@ EXPERT_MAP = {
     "Tom": "Tom Blair",
 }
 
+# NFL.com renders picks as team logo <img> tags with empty alt text; the team
+# is only identifiable from the Cloudinary asset hash in the image URL
+# (image/private/.../league/{hash}). Map derived by cross-referencing the 2025
+# season's articles against our committed pick data. Teams with two hashes
+# have primary + alternate logo assets.
+LOGO_TEAM_MAP = {
+    "arzzlrzsfiukczemuhto": "ARI",
+    "xpargcpntarsdm2tmshj": "ATL",
+    "atvshz1olzyo0eyunnyv": "BAL",
+    "nojerzrjl4tehty5luci": "BAL",
+    "ju1t4jvdq0sebel8clt9": "BUF",
+    "wziy6mahqyvdbzmn4cua": "BUF",
+    "c6qutq48nzqb42fu4iqr": "CAR",
+    "v9pbctm2sfje6nwylaig": "CHI",
+    "rn2cbi70sjtrsx1j0rcm": "CIN",
+    "kiffilpuvrhwszvhwza4": "CLE",
+    "ypnz11nbcvagjezunxfo": "DAL",
+    "k8qlbg7i53gtcntvrb5s": "DEN",
+    "rzz0x5cweawh2kil2yxs": "DEN",
+    "j7asovdppoq8r91j95eu": "DET",
+    "toarcvalmns6bem9droi": "GB",
+    "vk1uj0lqcxyuc4pbnm7d": "GB",
+    "albzqnwsxx0plmlf1pa0": "HOU",
+    "lh5knuup0bmn8fu1vlsu": "HOU",
+    "voglmrppwqvmz1hfzl5h": "IND",
+    "dfpnutpaycboirusvub4": "JAX",
+    "cvp2wp7suucmhkfkq4hl": "KC",
+    "tyeqbjvaez9uwjibkwd6": "LA",
+    "g8bqjtlvoy9rlmmfkmx1": "LAC",
+    "kawynphwfwz5ldgmp7fa": "LAC",
+    "lzkrq5dfwoaowjnys44m": "LV",
+    "ifjs4pcklmsawsvj3ctf": "MIA",
+    "kzqottsgjvpgxhqlp2vf": "MIN",
+    "ayl1z3wkczqlozqgbhnk": "NE",
+    "ep461medocfcpgz3fsky": "NO",
+    "svbyekzf5hzxcr0kbzae": "NYG",
+    "kabranvceb4xeypvswx5": "NYJ",
+    "axym4emcnflzxaeoxake": "PHI",
+    "jhffy2k0cwmiiwnwglxl": "PHI",
+    "dd0ipqpnw8aoeyalbqt0": "PIT",
+    "w6qszjohybzde3ppyvy0": "SEA",
+    "djy4i1a8zudnewkcest5": "SF",
+    "feyafzrkzxtpi04cr6uq": "TB",
+    "vmsvo1xlwgchq5aqk9xr": "TB",
+    "nhnc3fc5y7eskgkzgtlx": "TEN",
+    "eav1gc44ymjcgaqutsd6": "WAS",
+}
+
 
 class TableParser(HTMLParser):
     """Minimal HTML table parser that extracts rows of cell text."""
@@ -64,6 +112,13 @@ class TableParser(HTMLParser):
         elif tag in ("td", "th") and self._in_row:
             self._in_cell = True
             self._current_cell = ""
+        elif tag == "img" and self._in_cell:
+            # Picks are logo images with empty alt; keep the asset hash so the
+            # cell can be resolved through LOGO_TEAM_MAP
+            src = dict(attrs).get("src", "")
+            m = re.search(r"league/([a-z0-9]{15,})", src)
+            if m:
+                self._current_cell += f"[logo:{m.group(1)}]"
 
     def handle_endtag(self, tag):
         if tag in ("td", "th") and self._in_cell:
@@ -270,21 +325,28 @@ def scrape_picks(season: int, week: int) -> dict:
                 if not cell:
                     continue
 
-                # Cell format: "Team Score-Score" e.g. "Eagles 27-20"
-                # Extract the team name (everything before the score)
-                pick_match = re.match(r"(.+?)\s+\d+\s*-\s*\d+", cell)
-                if not pick_match:
-                    # Try without score (just team name)
-                    pick_match = re.match(r"(\S+)", cell)
-                if not pick_match:
-                    continue
+                logo_match = re.search(r"\[logo:([a-z0-9]+)\]", cell)
+                if logo_match:
+                    picked_team = LOGO_TEAM_MAP.get(logo_match.group(1))
+                    if not picked_team:
+                        print(f"  Warning: unknown logo hash '{logo_match.group(1)}' in {game_id}")
+                        continue
+                else:
+                    # Cell format: "Team Score-Score" e.g. "Eagles 27-20"
+                    # Extract the team name (everything before the score)
+                    pick_match = re.match(r"(.+?)\s+\d+\s*-\s*\d+", cell)
+                    if not pick_match:
+                        # Try without score (just team name)
+                        pick_match = re.match(r"(\S+)", cell)
+                    if not pick_match:
+                        continue
 
-                picked_nick = pick_match.group(1).strip()
-                try:
-                    picked_team = normalize_team_name(picked_nick)
-                except KeyError:
-                    print(f"  Warning: unrecognized pick team '{picked_nick}' in {game_id}")
-                    continue
+                    picked_nick = pick_match.group(1).strip()
+                    try:
+                        picked_team = normalize_team_name(picked_nick)
+                    except KeyError:
+                        print(f"  Warning: unrecognized pick team '{picked_nick}' in {game_id}")
+                        continue
 
                 experts[slug] = {
                     "expert": slug,
@@ -302,6 +364,12 @@ def scrape_picks(season: int, week: int) -> dict:
                     "pick": picked_team,
                     "pick_type": "straight_up",
                 })
+
+    if games and not all_picks:
+        raise RuntimeError(
+            "Parsed games but extracted zero picks -- NFL.com page format "
+            "likely changed again"
+        )
 
     return {
         "season": season,
@@ -348,6 +416,12 @@ def main():
 
     season = args.season or nfl.get_current_season()
     week = args.week or nfl.get_current_week()
+
+    # get_current_week() returns 19-22 during the playoffs, but picks pages
+    # only exist for the regular season
+    if args.week is None and week > 18:
+        print(f"Auto-detected week {week} is postseason; nothing to scrape.")
+        return
 
     print(f"Scraping NFL.com picks for {season} Week {week}...")
 
