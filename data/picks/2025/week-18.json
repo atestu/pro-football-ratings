@@ -2,7 +2,7 @@
   "season": 2025,
   "week": 18,
   "season_type": "REG",
-  "scraped_at": "2026-04-02T01:42:00Z",
+  "scraped_at": "2026-08-14T18:43:21Z",
   "sources": [
     "espn_talentpicks"
   ],
@@ -11,206 +11,107 @@
       "game_id": "2025_18_CAR_TB",
       "away_team": "CAR",
       "home_team": "TB",
-      "kickoff": "2026-01-03T21:30:00.000+00:00"
+      "kickoff": null
     },
     {
       "game_id": "2025_18_SEA_SF",
       "away_team": "SEA",
       "home_team": "SF",
-      "kickoff": "2026-01-04T01:00:00.000+00:00"
-    },
-    {
-      "game_id": "2025_18_NO_ATL",
-      "away_team": "NO",
-      "home_team": "ATL",
-      "kickoff": "2026-01-04T18:00:00.000+00:00"
-    },
-    {
-      "game_id": "2025_18_CLE_CIN",
-      "away_team": "CLE",
-      "home_team": "CIN",
-      "kickoff": "2026-01-04T18:00:00.000+00:00"
-    },
-    {
-      "game_id": "2025_18_GB_MIN",
-      "away_team": "GB",
-      "home_team": "MIN",
-      "kickoff": "2026-01-04T18:00:00.000+00:00"
-    },
-    {
-      "game_id": "2025_18_DAL_NYG",
-      "away_team": "DAL",
-      "home_team": "NYG",
-      "kickoff": "2026-01-04T18:00:00.000+00:00"
-    },
-    {
-      "game_id": "2025_18_TEN_JAX",
-      "away_team": "TEN",
-      "home_team": "JAX",
-      "kickoff": "2026-01-04T18:00:00.000+00:00"
+      "kickoff": null
     },
     {
       "game_id": "2025_18_IND_HOU",
       "away_team": "IND",
       "home_team": "HOU",
-      "kickoff": "2026-01-04T18:00:00.000+00:00"
+      "kickoff": null
     },
     {
-      "game_id": "2025_18_NYJ_BUF",
-      "away_team": "NYJ",
-      "home_team": "BUF",
-      "kickoff": "2026-01-04T21:25:00.000+00:00"
+      "game_id": "2025_18_DAL_NYG",
+      "away_team": "DAL",
+      "home_team": "NYG",
+      "kickoff": null
     },
     {
-      "game_id": "2025_18_DET_CHI",
-      "away_team": "DET",
-      "home_team": "CHI",
-      "kickoff": "2026-01-04T21:25:00.000+00:00"
+      "game_id": "2025_18_CLE_CIN",
+      "away_team": "CLE",
+      "home_team": "CIN",
+      "kickoff": null
     },
     {
-      "game_id": "2025_18_LAC_DEN",
-      "away_team": "LAC",
-      "home_team": "DEN",
-      "kickoff": "2026-01-04T21:25:00.000+00:00"
+      "game_id": "2025_18_NO_ATL",
+      "away_team": "NO",
+      "home_team": "ATL",
+      "kickoff": null
     },
     {
-      "game_id": "2025_18_KC_LV",
-      "away_team": "KC",
-      "home_team": "LV",
-      "kickoff": "2026-01-04T21:25:00.000+00:00"
+      "game_id": "2025_18_GB_MIN",
+      "away_team": "GB",
+      "home_team": "MIN",
+      "kickoff": null
+    },
+    {
+      "game_id": "2025_18_TEN_JAX",
+      "away_team": "TEN",
+      "home_team": "JAX",
+      "kickoff": null
     },
     {
       "game_id": "2025_18_ARI_LA",
       "away_team": "ARI",
       "home_team": "LA",
-      "kickoff": "2026-01-04T21:25:00.000+00:00"
+      "kickoff": null
+    },
+    {
+      "game_id": "2025_18_LAC_DEN",
+      "away_team": "LAC",
+      "home_team": "DEN",
+      "kickoff": null
+    },
+    {
+      "game_id": "2025_18_KC_LV",
+      "away_team": "KC",
+      "home_team": "LV",
+      "kickoff": null
     },
     {
       "game_id": "2025_18_MIA_NE",
       "away_team": "MIA",
       "home_team": "NE",
-      "kickoff": "2026-01-04T21:25:00.000+00:00"
+      "kickoff": null
     },
     {
       "game_id": "2025_18_WAS_PHI",
       "away_team": "WAS",
       "home_team": "PHI",
-      "kickoff": "2026-01-04T21:25:00.000+00:00"
+      "kickoff": null
+    },
+    {
+      "game_id": "2025_18_DET_CHI",
+      "away_team": "DET",
+      "home_team": "CHI",
+      "kickoff": null
+    },
+    {
+      "game_id": "2025_18_NYJ_BUF",
+      "away_team": "NYJ",
+      "home_team": "BUF",
+      "kickoff": null
     },
     {
       "game_id": "2025_18_BAL_PIT",
       "away_team": "BAL",
       "home_team": "PIT",
-      "kickoff": "2026-01-05T01:20:00.000+00:00"
+      "kickoff": null
     }
   ],
   "picks": [
     {
-      "expert": "stephania-bell",
-      "expert_name": "Stephania Bell",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_CAR_TB",
-      "pick": "TB",
-      "pick_type": "straight_up"
-    },
-    {
       "expert": "matt-bowen",
       "expert_name": "Matt Bowen",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
       "game_id": "2025_18_CAR_TB",
       "pick": "TB",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "mike-clay",
-      "expert_name": "Mike Clay",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_CAR_TB",
-      "pick": "TB",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "jeremy-fowler",
-      "expert_name": "Jeremy Fowler",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_CAR_TB",
-      "pick": "TB",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "dan-graziano",
-      "expert_name": "Dan Graziano",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_CAR_TB",
-      "pick": "TB",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "kalyn-kahler",
-      "expert_name": "Kalyn Kahler",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_CAR_TB",
-      "pick": "CAR",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "pamela-maldonado",
-      "expert_name": "Pamela Maldonado",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_CAR_TB",
-      "pick": "CAR",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "eric-moody",
-      "expert_name": "Eric Moody",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_CAR_TB",
-      "pick": "TB",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "jason-reid",
-      "expert_name": "Jason Reid",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_CAR_TB",
-      "pick": "TB",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "lindsey-thiry",
-      "expert_name": "Lindsey Thiry",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_CAR_TB",
-      "pick": "CAR",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "seth-wickersham",
-      "expert_name": "Seth Wickersham",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_CAR_TB",
-      "pick": "TB",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "stephania-bell",
-      "expert_name": "Stephania Bell",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_SEA_SF",
-      "pick": "SF",
       "pick_type": "straight_up"
     },
     {
@@ -223,93 +124,12 @@
       "pick_type": "straight_up"
     },
     {
-      "expert": "mike-clay",
-      "expert_name": "Mike Clay",
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_SEA_SF",
-      "pick": "SEA",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "jeremy-fowler",
-      "expert_name": "Jeremy Fowler",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_SEA_SF",
-      "pick": "SEA",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "dan-graziano",
-      "expert_name": "Dan Graziano",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_SEA_SF",
-      "pick": "SEA",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "kalyn-kahler",
-      "expert_name": "Kalyn Kahler",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_SEA_SF",
-      "pick": "SEA",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "pamela-maldonado",
-      "expert_name": "Pamela Maldonado",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_SEA_SF",
-      "pick": "SF",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "eric-moody",
-      "expert_name": "Eric Moody",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_SEA_SF",
-      "pick": "SF",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "jason-reid",
-      "expert_name": "Jason Reid",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_SEA_SF",
-      "pick": "SF",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "lindsey-thiry",
-      "expert_name": "Lindsey Thiry",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_SEA_SF",
-      "pick": "SF",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "seth-wickersham",
-      "expert_name": "Seth Wickersham",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_SEA_SF",
-      "pick": "SEA",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "stephania-bell",
-      "expert_name": "Stephania Bell",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_NO_ATL",
-      "pick": "ATL",
+      "game_id": "2025_18_IND_HOU",
+      "pick": "HOU",
       "pick_type": "straight_up"
     },
     {
@@ -317,98 +137,8 @@
       "expert_name": "Matt Bowen",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_NO_ATL",
-      "pick": "ATL",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "mike-clay",
-      "expert_name": "Mike Clay",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_NO_ATL",
-      "pick": "ATL",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "jeremy-fowler",
-      "expert_name": "Jeremy Fowler",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_NO_ATL",
-      "pick": "ATL",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "dan-graziano",
-      "expert_name": "Dan Graziano",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_NO_ATL",
-      "pick": "NO",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "kalyn-kahler",
-      "expert_name": "Kalyn Kahler",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_NO_ATL",
-      "pick": "NO",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "pamela-maldonado",
-      "expert_name": "Pamela Maldonado",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_NO_ATL",
-      "pick": "ATL",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "eric-moody",
-      "expert_name": "Eric Moody",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_NO_ATL",
-      "pick": "NO",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "jason-reid",
-      "expert_name": "Jason Reid",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_NO_ATL",
-      "pick": "ATL",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "lindsey-thiry",
-      "expert_name": "Lindsey Thiry",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_NO_ATL",
-      "pick": "ATL",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "seth-wickersham",
-      "expert_name": "Seth Wickersham",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_NO_ATL",
-      "pick": "ATL",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "stephania-bell",
-      "expert_name": "Stephania Bell",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_CLE_CIN",
-      "pick": "CIN",
+      "game_id": "2025_18_DAL_NYG",
+      "pick": "DAL",
       "pick_type": "straight_up"
     },
     {
@@ -421,93 +151,12 @@
       "pick_type": "straight_up"
     },
     {
-      "expert": "mike-clay",
-      "expert_name": "Mike Clay",
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_CLE_CIN",
-      "pick": "CIN",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "jeremy-fowler",
-      "expert_name": "Jeremy Fowler",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_CLE_CIN",
-      "pick": "CIN",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "dan-graziano",
-      "expert_name": "Dan Graziano",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_CLE_CIN",
-      "pick": "CIN",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "kalyn-kahler",
-      "expert_name": "Kalyn Kahler",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_CLE_CIN",
-      "pick": "CIN",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "pamela-maldonado",
-      "expert_name": "Pamela Maldonado",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_CLE_CIN",
-      "pick": "CIN",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "eric-moody",
-      "expert_name": "Eric Moody",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_CLE_CIN",
-      "pick": "CIN",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "jason-reid",
-      "expert_name": "Jason Reid",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_CLE_CIN",
-      "pick": "CIN",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "lindsey-thiry",
-      "expert_name": "Lindsey Thiry",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_CLE_CIN",
-      "pick": "CIN",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "seth-wickersham",
-      "expert_name": "Seth Wickersham",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_CLE_CIN",
-      "pick": "CIN",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "stephania-bell",
-      "expert_name": "Stephania Bell",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_GB_MIN",
-      "pick": "MIN",
+      "game_id": "2025_18_NO_ATL",
+      "pick": "ATL",
       "pick_type": "straight_up"
     },
     {
@@ -520,188 +169,8 @@
       "pick_type": "straight_up"
     },
     {
-      "expert": "mike-clay",
-      "expert_name": "Mike Clay",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_GB_MIN",
-      "pick": "MIN",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "jeremy-fowler",
-      "expert_name": "Jeremy Fowler",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_GB_MIN",
-      "pick": "MIN",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "dan-graziano",
-      "expert_name": "Dan Graziano",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_GB_MIN",
-      "pick": "GB",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "kalyn-kahler",
-      "expert_name": "Kalyn Kahler",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_GB_MIN",
-      "pick": "GB",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "pamela-maldonado",
-      "expert_name": "Pamela Maldonado",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_GB_MIN",
-      "pick": "MIN",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "eric-moody",
-      "expert_name": "Eric Moody",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_GB_MIN",
-      "pick": "MIN",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "jason-reid",
-      "expert_name": "Jason Reid",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_GB_MIN",
-      "pick": "MIN",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "lindsey-thiry",
-      "expert_name": "Lindsey Thiry",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_GB_MIN",
-      "pick": "GB",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "seth-wickersham",
-      "expert_name": "Seth Wickersham",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_GB_MIN",
-      "pick": "MIN",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "stephania-bell",
-      "expert_name": "Stephania Bell",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_DAL_NYG",
-      "pick": "DAL",
-      "pick_type": "straight_up"
-    },
-    {
       "expert": "matt-bowen",
       "expert_name": "Matt Bowen",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_DAL_NYG",
-      "pick": "DAL",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "mike-clay",
-      "expert_name": "Mike Clay",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_DAL_NYG",
-      "pick": "NYG",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "jeremy-fowler",
-      "expert_name": "Jeremy Fowler",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_DAL_NYG",
-      "pick": "DAL",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "dan-graziano",
-      "expert_name": "Dan Graziano",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_DAL_NYG",
-      "pick": "DAL",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "kalyn-kahler",
-      "expert_name": "Kalyn Kahler",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_DAL_NYG",
-      "pick": "DAL",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "pamela-maldonado",
-      "expert_name": "Pamela Maldonado",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_DAL_NYG",
-      "pick": "DAL",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "eric-moody",
-      "expert_name": "Eric Moody",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_DAL_NYG",
-      "pick": "DAL",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "jason-reid",
-      "expert_name": "Jason Reid",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_DAL_NYG",
-      "pick": "DAL",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "lindsey-thiry",
-      "expert_name": "Lindsey Thiry",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_DAL_NYG",
-      "pick": "DAL",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "seth-wickersham",
-      "expert_name": "Seth Wickersham",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_DAL_NYG",
-      "pick": "DAL",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "stephania-bell",
-      "expert_name": "Stephania Bell",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
       "game_id": "2025_18_TEN_JAX",
@@ -713,98 +182,8 @@
       "expert_name": "Matt Bowen",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_TEN_JAX",
-      "pick": "JAX",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "mike-clay",
-      "expert_name": "Mike Clay",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_TEN_JAX",
-      "pick": "JAX",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "jeremy-fowler",
-      "expert_name": "Jeremy Fowler",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_TEN_JAX",
-      "pick": "JAX",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "dan-graziano",
-      "expert_name": "Dan Graziano",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_TEN_JAX",
-      "pick": "JAX",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "kalyn-kahler",
-      "expert_name": "Kalyn Kahler",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_TEN_JAX",
-      "pick": "JAX",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "pamela-maldonado",
-      "expert_name": "Pamela Maldonado",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_TEN_JAX",
-      "pick": "JAX",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "eric-moody",
-      "expert_name": "Eric Moody",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_TEN_JAX",
-      "pick": "JAX",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "jason-reid",
-      "expert_name": "Jason Reid",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_TEN_JAX",
-      "pick": "JAX",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "lindsey-thiry",
-      "expert_name": "Lindsey Thiry",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_TEN_JAX",
-      "pick": "JAX",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "seth-wickersham",
-      "expert_name": "Seth Wickersham",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_TEN_JAX",
-      "pick": "JAX",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "stephania-bell",
-      "expert_name": "Stephania Bell",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_IND_HOU",
-      "pick": "HOU",
+      "game_id": "2025_18_ARI_LA",
+      "pick": "LA",
       "pick_type": "straight_up"
     },
     {
@@ -812,98 +191,8 @@
       "expert_name": "Matt Bowen",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_IND_HOU",
-      "pick": "HOU",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "mike-clay",
-      "expert_name": "Mike Clay",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_IND_HOU",
-      "pick": "HOU",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "jeremy-fowler",
-      "expert_name": "Jeremy Fowler",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_IND_HOU",
-      "pick": "HOU",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "dan-graziano",
-      "expert_name": "Dan Graziano",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_IND_HOU",
-      "pick": "HOU",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "kalyn-kahler",
-      "expert_name": "Kalyn Kahler",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_IND_HOU",
-      "pick": "HOU",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "pamela-maldonado",
-      "expert_name": "Pamela Maldonado",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_IND_HOU",
-      "pick": "HOU",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "eric-moody",
-      "expert_name": "Eric Moody",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_IND_HOU",
-      "pick": "HOU",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "jason-reid",
-      "expert_name": "Jason Reid",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_IND_HOU",
-      "pick": "HOU",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "lindsey-thiry",
-      "expert_name": "Lindsey Thiry",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_IND_HOU",
-      "pick": "HOU",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "seth-wickersham",
-      "expert_name": "Seth Wickersham",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_IND_HOU",
-      "pick": "HOU",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "stephania-bell",
-      "expert_name": "Stephania Bell",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_NYJ_BUF",
-      "pick": "BUF",
+      "game_id": "2025_18_LAC_DEN",
+      "pick": "DEN",
       "pick_type": "straight_up"
     },
     {
@@ -911,98 +200,26 @@
       "expert_name": "Matt Bowen",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_NYJ_BUF",
-      "pick": "BUF",
+      "game_id": "2025_18_KC_LV",
+      "pick": "KC",
       "pick_type": "straight_up"
     },
     {
-      "expert": "mike-clay",
-      "expert_name": "Mike Clay",
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_NYJ_BUF",
-      "pick": "BUF",
+      "game_id": "2025_18_MIA_NE",
+      "pick": "NE",
       "pick_type": "straight_up"
     },
     {
-      "expert": "jeremy-fowler",
-      "expert_name": "Jeremy Fowler",
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_NYJ_BUF",
-      "pick": "BUF",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "dan-graziano",
-      "expert_name": "Dan Graziano",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_NYJ_BUF",
-      "pick": "BUF",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "kalyn-kahler",
-      "expert_name": "Kalyn Kahler",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_NYJ_BUF",
-      "pick": "BUF",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "pamela-maldonado",
-      "expert_name": "Pamela Maldonado",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_NYJ_BUF",
-      "pick": "BUF",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "eric-moody",
-      "expert_name": "Eric Moody",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_NYJ_BUF",
-      "pick": "BUF",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "jason-reid",
-      "expert_name": "Jason Reid",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_NYJ_BUF",
-      "pick": "BUF",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "lindsey-thiry",
-      "expert_name": "Lindsey Thiry",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_NYJ_BUF",
-      "pick": "BUF",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "seth-wickersham",
-      "expert_name": "Seth Wickersham",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_NYJ_BUF",
-      "pick": "BUF",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "stephania-bell",
-      "expert_name": "Stephania Bell",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_DET_CHI",
-      "pick": "CHI",
+      "game_id": "2025_18_WAS_PHI",
+      "pick": "PHI",
       "pick_type": "straight_up"
     },
     {
@@ -1015,75 +232,138 @@
       "pick_type": "straight_up"
     },
     {
-      "expert": "mike-clay",
-      "expert_name": "Mike Clay",
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_DET_CHI",
-      "pick": "CHI",
+      "game_id": "2025_18_NYJ_BUF",
+      "pick": "BUF",
       "pick_type": "straight_up"
     },
     {
-      "expert": "jeremy-fowler",
-      "expert_name": "Jeremy Fowler",
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_DET_CHI",
-      "pick": "DET",
+      "game_id": "2025_18_BAL_PIT",
+      "pick": "BAL",
       "pick_type": "straight_up"
     },
     {
-      "expert": "dan-graziano",
-      "expert_name": "Dan Graziano",
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_DET_CHI",
-      "pick": "CHI",
+      "game_id": "2025_18_CAR_TB",
+      "pick": "TB",
       "pick_type": "straight_up"
     },
     {
-      "expert": "kalyn-kahler",
-      "expert_name": "Kalyn Kahler",
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_DET_CHI",
-      "pick": "CHI",
+      "game_id": "2025_18_SEA_SF",
+      "pick": "SEA",
       "pick_type": "straight_up"
     },
     {
-      "expert": "pamela-maldonado",
-      "expert_name": "Pamela Maldonado",
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_DET_CHI",
-      "pick": "CHI",
+      "game_id": "2025_18_IND_HOU",
+      "pick": "HOU",
       "pick_type": "straight_up"
     },
     {
-      "expert": "eric-moody",
-      "expert_name": "Eric Moody",
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_DET_CHI",
-      "pick": "CHI",
+      "game_id": "2025_18_DAL_NYG",
+      "pick": "DAL",
       "pick_type": "straight_up"
     },
     {
-      "expert": "jason-reid",
-      "expert_name": "Jason Reid",
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_DET_CHI",
-      "pick": "CHI",
+      "game_id": "2025_18_CLE_CIN",
+      "pick": "CIN",
       "pick_type": "straight_up"
     },
     {
-      "expert": "lindsey-thiry",
-      "expert_name": "Lindsey Thiry",
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_DET_CHI",
-      "pick": "CHI",
+      "game_id": "2025_18_NO_ATL",
+      "pick": "ATL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_GB_MIN",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_TEN_JAX",
+      "pick": "JAX",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_ARI_LA",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_LAC_DEN",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_KC_LV",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_MIA_NE",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_WAS_PHI",
+      "pick": "PHI",
       "pick_type": "straight_up"
     },
     {
@@ -1096,8 +376,107 @@
       "pick_type": "straight_up"
     },
     {
-      "expert": "stephania-bell",
-      "expert_name": "Stephania Bell",
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_NYJ_BUF",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_BAL_PIT",
+      "pick": "BAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pamela-maldonado",
+      "expert_name": "Pamela Maldonado",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_CAR_TB",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pamela-maldonado",
+      "expert_name": "Pamela Maldonado",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_SEA_SF",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pamela-maldonado",
+      "expert_name": "Pamela Maldonado",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_IND_HOU",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pamela-maldonado",
+      "expert_name": "Pamela Maldonado",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_DAL_NYG",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pamela-maldonado",
+      "expert_name": "Pamela Maldonado",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_CLE_CIN",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pamela-maldonado",
+      "expert_name": "Pamela Maldonado",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_NO_ATL",
+      "pick": "ATL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pamela-maldonado",
+      "expert_name": "Pamela Maldonado",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_GB_MIN",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pamela-maldonado",
+      "expert_name": "Pamela Maldonado",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_TEN_JAX",
+      "pick": "JAX",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pamela-maldonado",
+      "expert_name": "Pamela Maldonado",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_ARI_LA",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pamela-maldonado",
+      "expert_name": "Pamela Maldonado",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
       "game_id": "2025_18_LAC_DEN",
@@ -1105,39 +484,138 @@
       "pick_type": "straight_up"
     },
     {
-      "expert": "matt-bowen",
-      "expert_name": "Matt Bowen",
+      "expert": "pamela-maldonado",
+      "expert_name": "Pamela Maldonado",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_LAC_DEN",
-      "pick": "DEN",
+      "game_id": "2025_18_KC_LV",
+      "pick": "KC",
       "pick_type": "straight_up"
     },
     {
-      "expert": "mike-clay",
-      "expert_name": "Mike Clay",
+      "expert": "pamela-maldonado",
+      "expert_name": "Pamela Maldonado",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_LAC_DEN",
-      "pick": "DEN",
+      "game_id": "2025_18_MIA_NE",
+      "pick": "NE",
       "pick_type": "straight_up"
     },
     {
-      "expert": "jeremy-fowler",
-      "expert_name": "Jeremy Fowler",
+      "expert": "pamela-maldonado",
+      "expert_name": "Pamela Maldonado",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_LAC_DEN",
-      "pick": "DEN",
+      "game_id": "2025_18_WAS_PHI",
+      "pick": "PHI",
       "pick_type": "straight_up"
     },
     {
-      "expert": "dan-graziano",
-      "expert_name": "Dan Graziano",
+      "expert": "pamela-maldonado",
+      "expert_name": "Pamela Maldonado",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_LAC_DEN",
-      "pick": "DEN",
+      "game_id": "2025_18_DET_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pamela-maldonado",
+      "expert_name": "Pamela Maldonado",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_NYJ_BUF",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pamela-maldonado",
+      "expert_name": "Pamela Maldonado",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_BAL_PIT",
+      "pick": "BAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kalyn-kahler",
+      "expert_name": "Kalyn Kahler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_CAR_TB",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kalyn-kahler",
+      "expert_name": "Kalyn Kahler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_SEA_SF",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kalyn-kahler",
+      "expert_name": "Kalyn Kahler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_IND_HOU",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kalyn-kahler",
+      "expert_name": "Kalyn Kahler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_DAL_NYG",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kalyn-kahler",
+      "expert_name": "Kalyn Kahler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_CLE_CIN",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kalyn-kahler",
+      "expert_name": "Kalyn Kahler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_NO_ATL",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kalyn-kahler",
+      "expert_name": "Kalyn Kahler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_GB_MIN",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kalyn-kahler",
+      "expert_name": "Kalyn Kahler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_TEN_JAX",
+      "pick": "JAX",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kalyn-kahler",
+      "expert_name": "Kalyn Kahler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_ARI_LA",
+      "pick": "LA",
       "pick_type": "straight_up"
     },
     {
@@ -1150,30 +628,138 @@
       "pick_type": "straight_up"
     },
     {
-      "expert": "pamela-maldonado",
-      "expert_name": "Pamela Maldonado",
+      "expert": "kalyn-kahler",
+      "expert_name": "Kalyn Kahler",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_LAC_DEN",
-      "pick": "DEN",
+      "game_id": "2025_18_KC_LV",
+      "pick": "KC",
       "pick_type": "straight_up"
     },
     {
-      "expert": "eric-moody",
-      "expert_name": "Eric Moody",
+      "expert": "kalyn-kahler",
+      "expert_name": "Kalyn Kahler",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_LAC_DEN",
-      "pick": "DEN",
+      "game_id": "2025_18_MIA_NE",
+      "pick": "NE",
       "pick_type": "straight_up"
     },
     {
-      "expert": "jason-reid",
-      "expert_name": "Jason Reid",
+      "expert": "kalyn-kahler",
+      "expert_name": "Kalyn Kahler",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_LAC_DEN",
-      "pick": "DEN",
+      "game_id": "2025_18_WAS_PHI",
+      "pick": "PHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kalyn-kahler",
+      "expert_name": "Kalyn Kahler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_DET_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kalyn-kahler",
+      "expert_name": "Kalyn Kahler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_NYJ_BUF",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kalyn-kahler",
+      "expert_name": "Kalyn Kahler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_BAL_PIT",
+      "pick": "BAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "lindsey-thiry",
+      "expert_name": "Lindsey Thiry",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_CAR_TB",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "lindsey-thiry",
+      "expert_name": "Lindsey Thiry",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_SEA_SF",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "lindsey-thiry",
+      "expert_name": "Lindsey Thiry",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_IND_HOU",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "lindsey-thiry",
+      "expert_name": "Lindsey Thiry",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_DAL_NYG",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "lindsey-thiry",
+      "expert_name": "Lindsey Thiry",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_CLE_CIN",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "lindsey-thiry",
+      "expert_name": "Lindsey Thiry",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_NO_ATL",
+      "pick": "ATL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "lindsey-thiry",
+      "expert_name": "Lindsey Thiry",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_GB_MIN",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "lindsey-thiry",
+      "expert_name": "Lindsey Thiry",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_TEN_JAX",
+      "pick": "JAX",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "lindsey-thiry",
+      "expert_name": "Lindsey Thiry",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_ARI_LA",
+      "pick": "LA",
       "pick_type": "straight_up"
     },
     {
@@ -1186,8 +772,287 @@
       "pick_type": "straight_up"
     },
     {
-      "expert": "seth-wickersham",
-      "expert_name": "Seth Wickersham",
+      "expert": "lindsey-thiry",
+      "expert_name": "Lindsey Thiry",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_KC_LV",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "lindsey-thiry",
+      "expert_name": "Lindsey Thiry",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_MIA_NE",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "lindsey-thiry",
+      "expert_name": "Lindsey Thiry",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_WAS_PHI",
+      "pick": "PHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "lindsey-thiry",
+      "expert_name": "Lindsey Thiry",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_DET_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "lindsey-thiry",
+      "expert_name": "Lindsey Thiry",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_NYJ_BUF",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "lindsey-thiry",
+      "expert_name": "Lindsey Thiry",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_BAL_PIT",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "eric-moody",
+      "expert_name": "Eric Moody",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_CAR_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "eric-moody",
+      "expert_name": "Eric Moody",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_SEA_SF",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "eric-moody",
+      "expert_name": "Eric Moody",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_IND_HOU",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "eric-moody",
+      "expert_name": "Eric Moody",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_DAL_NYG",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "eric-moody",
+      "expert_name": "Eric Moody",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_CLE_CIN",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "eric-moody",
+      "expert_name": "Eric Moody",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_NO_ATL",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "eric-moody",
+      "expert_name": "Eric Moody",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_GB_MIN",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "eric-moody",
+      "expert_name": "Eric Moody",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_TEN_JAX",
+      "pick": "JAX",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "eric-moody",
+      "expert_name": "Eric Moody",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_ARI_LA",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "eric-moody",
+      "expert_name": "Eric Moody",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_LAC_DEN",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "eric-moody",
+      "expert_name": "Eric Moody",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_KC_LV",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "eric-moody",
+      "expert_name": "Eric Moody",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_MIA_NE",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "eric-moody",
+      "expert_name": "Eric Moody",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_WAS_PHI",
+      "pick": "PHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "eric-moody",
+      "expert_name": "Eric Moody",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_DET_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "eric-moody",
+      "expert_name": "Eric Moody",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_NYJ_BUF",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "eric-moody",
+      "expert_name": "Eric Moody",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_BAL_PIT",
+      "pick": "BAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "stephania-bell",
+      "expert_name": "Stephania Bell",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_CAR_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "stephania-bell",
+      "expert_name": "Stephania Bell",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_SEA_SF",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "stephania-bell",
+      "expert_name": "Stephania Bell",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_IND_HOU",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "stephania-bell",
+      "expert_name": "Stephania Bell",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_DAL_NYG",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "stephania-bell",
+      "expert_name": "Stephania Bell",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_CLE_CIN",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "stephania-bell",
+      "expert_name": "Stephania Bell",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_NO_ATL",
+      "pick": "ATL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "stephania-bell",
+      "expert_name": "Stephania Bell",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_GB_MIN",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "stephania-bell",
+      "expert_name": "Stephania Bell",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_TEN_JAX",
+      "pick": "JAX",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "stephania-bell",
+      "expert_name": "Stephania Bell",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_ARI_LA",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "stephania-bell",
+      "expert_name": "Stephania Bell",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
       "game_id": "2025_18_LAC_DEN",
@@ -1204,66 +1069,138 @@
       "pick_type": "straight_up"
     },
     {
-      "expert": "matt-bowen",
-      "expert_name": "Matt Bowen",
+      "expert": "stephania-bell",
+      "expert_name": "Stephania Bell",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_KC_LV",
-      "pick": "KC",
+      "game_id": "2025_18_MIA_NE",
+      "pick": "NE",
       "pick_type": "straight_up"
     },
     {
-      "expert": "mike-clay",
-      "expert_name": "Mike Clay",
+      "expert": "stephania-bell",
+      "expert_name": "Stephania Bell",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_KC_LV",
-      "pick": "KC",
+      "game_id": "2025_18_WAS_PHI",
+      "pick": "PHI",
       "pick_type": "straight_up"
     },
     {
-      "expert": "jeremy-fowler",
-      "expert_name": "Jeremy Fowler",
+      "expert": "stephania-bell",
+      "expert_name": "Stephania Bell",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_KC_LV",
-      "pick": "KC",
+      "game_id": "2025_18_DET_CHI",
+      "pick": "CHI",
       "pick_type": "straight_up"
     },
     {
-      "expert": "dan-graziano",
-      "expert_name": "Dan Graziano",
+      "expert": "stephania-bell",
+      "expert_name": "Stephania Bell",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_KC_LV",
-      "pick": "KC",
+      "game_id": "2025_18_NYJ_BUF",
+      "pick": "BUF",
       "pick_type": "straight_up"
     },
     {
-      "expert": "kalyn-kahler",
-      "expert_name": "Kalyn Kahler",
+      "expert": "stephania-bell",
+      "expert_name": "Stephania Bell",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_KC_LV",
-      "pick": "KC",
+      "game_id": "2025_18_BAL_PIT",
+      "pick": "BAL",
       "pick_type": "straight_up"
     },
     {
-      "expert": "pamela-maldonado",
-      "expert_name": "Pamela Maldonado",
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_KC_LV",
-      "pick": "KC",
+      "game_id": "2025_18_CAR_TB",
+      "pick": "TB",
       "pick_type": "straight_up"
     },
     {
-      "expert": "eric-moody",
-      "expert_name": "Eric Moody",
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_KC_LV",
-      "pick": "KC",
+      "game_id": "2025_18_SEA_SF",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_IND_HOU",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_DAL_NYG",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_CLE_CIN",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_NO_ATL",
+      "pick": "ATL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_GB_MIN",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_TEN_JAX",
+      "pick": "JAX",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_ARI_LA",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_LAC_DEN",
+      "pick": "DEN",
       "pick_type": "straight_up"
     },
     {
@@ -1276,39 +1213,120 @@
       "pick_type": "straight_up"
     },
     {
-      "expert": "lindsey-thiry",
-      "expert_name": "Lindsey Thiry",
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_KC_LV",
-      "pick": "KC",
+      "game_id": "2025_18_MIA_NE",
+      "pick": "NE",
       "pick_type": "straight_up"
     },
     {
-      "expert": "seth-wickersham",
-      "expert_name": "Seth Wickersham",
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_KC_LV",
-      "pick": "KC",
+      "game_id": "2025_18_WAS_PHI",
+      "pick": "PHI",
       "pick_type": "straight_up"
     },
     {
-      "expert": "stephania-bell",
-      "expert_name": "Stephania Bell",
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_ARI_LA",
-      "pick": "LA",
+      "game_id": "2025_18_DET_CHI",
+      "pick": "CHI",
       "pick_type": "straight_up"
     },
     {
-      "expert": "matt-bowen",
-      "expert_name": "Matt Bowen",
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_ARI_LA",
-      "pick": "LA",
+      "game_id": "2025_18_NYJ_BUF",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_BAL_PIT",
+      "pick": "BAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_CAR_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_SEA_SF",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_IND_HOU",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_DAL_NYG",
+      "pick": "NYG",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_CLE_CIN",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_NO_ATL",
+      "pick": "ATL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_GB_MIN",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_TEN_JAX",
+      "pick": "JAX",
       "pick_type": "straight_up"
     },
     {
@@ -1321,12 +1339,138 @@
       "pick_type": "straight_up"
     },
     {
-      "expert": "jeremy-fowler",
-      "expert_name": "Jeremy Fowler",
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_ARI_LA",
-      "pick": "LA",
+      "game_id": "2025_18_LAC_DEN",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_KC_LV",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_MIA_NE",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_WAS_PHI",
+      "pick": "PHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_DET_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_NYJ_BUF",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_BAL_PIT",
+      "pick": "BAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_CAR_TB",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_SEA_SF",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_IND_HOU",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_DAL_NYG",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_CLE_CIN",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_NO_ATL",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_GB_MIN",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_TEN_JAX",
+      "pick": "JAX",
       "pick_type": "straight_up"
     },
     {
@@ -1339,93 +1483,21 @@
       "pick_type": "straight_up"
     },
     {
-      "expert": "kalyn-kahler",
-      "expert_name": "Kalyn Kahler",
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_ARI_LA",
-      "pick": "LA",
+      "game_id": "2025_18_LAC_DEN",
+      "pick": "DEN",
       "pick_type": "straight_up"
     },
     {
-      "expert": "pamela-maldonado",
-      "expert_name": "Pamela Maldonado",
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_ARI_LA",
-      "pick": "LA",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "eric-moody",
-      "expert_name": "Eric Moody",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_ARI_LA",
-      "pick": "LA",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "jason-reid",
-      "expert_name": "Jason Reid",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_ARI_LA",
-      "pick": "LA",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "lindsey-thiry",
-      "expert_name": "Lindsey Thiry",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_ARI_LA",
-      "pick": "LA",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "seth-wickersham",
-      "expert_name": "Seth Wickersham",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_ARI_LA",
-      "pick": "LA",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "stephania-bell",
-      "expert_name": "Stephania Bell",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_MIA_NE",
-      "pick": "NE",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "matt-bowen",
-      "expert_name": "Matt Bowen",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_MIA_NE",
-      "pick": "NE",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "mike-clay",
-      "expert_name": "Mike Clay",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_MIA_NE",
-      "pick": "NE",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "jeremy-fowler",
-      "expert_name": "Jeremy Fowler",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_MIA_NE",
-      "pick": "NE",
+      "game_id": "2025_18_KC_LV",
+      "pick": "KC",
       "pick_type": "straight_up"
     },
     {
@@ -1435,96 +1507,6 @@
       "outlet": "ESPN",
       "game_id": "2025_18_MIA_NE",
       "pick": "NE",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "kalyn-kahler",
-      "expert_name": "Kalyn Kahler",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_MIA_NE",
-      "pick": "NE",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "pamela-maldonado",
-      "expert_name": "Pamela Maldonado",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_MIA_NE",
-      "pick": "NE",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "eric-moody",
-      "expert_name": "Eric Moody",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_MIA_NE",
-      "pick": "NE",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "jason-reid",
-      "expert_name": "Jason Reid",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_MIA_NE",
-      "pick": "NE",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "lindsey-thiry",
-      "expert_name": "Lindsey Thiry",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_MIA_NE",
-      "pick": "NE",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "seth-wickersham",
-      "expert_name": "Seth Wickersham",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_MIA_NE",
-      "pick": "NE",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "stephania-bell",
-      "expert_name": "Stephania Bell",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_WAS_PHI",
-      "pick": "PHI",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "matt-bowen",
-      "expert_name": "Matt Bowen",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_WAS_PHI",
-      "pick": "PHI",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "mike-clay",
-      "expert_name": "Mike Clay",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_WAS_PHI",
-      "pick": "PHI",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "jeremy-fowler",
-      "expert_name": "Jeremy Fowler",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_WAS_PHI",
-      "pick": "PHI",
       "pick_type": "straight_up"
     },
     {
@@ -1537,93 +1519,21 @@
       "pick_type": "straight_up"
     },
     {
-      "expert": "kalyn-kahler",
-      "expert_name": "Kalyn Kahler",
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_WAS_PHI",
-      "pick": "PHI",
+      "game_id": "2025_18_DET_CHI",
+      "pick": "CHI",
       "pick_type": "straight_up"
     },
     {
-      "expert": "pamela-maldonado",
-      "expert_name": "Pamela Maldonado",
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_WAS_PHI",
-      "pick": "PHI",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "eric-moody",
-      "expert_name": "Eric Moody",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_WAS_PHI",
-      "pick": "PHI",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "jason-reid",
-      "expert_name": "Jason Reid",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_WAS_PHI",
-      "pick": "PHI",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "lindsey-thiry",
-      "expert_name": "Lindsey Thiry",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_WAS_PHI",
-      "pick": "PHI",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "seth-wickersham",
-      "expert_name": "Seth Wickersham",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_WAS_PHI",
-      "pick": "PHI",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "stephania-bell",
-      "expert_name": "Stephania Bell",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_BAL_PIT",
-      "pick": "BAL",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "matt-bowen",
-      "expert_name": "Matt Bowen",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_BAL_PIT",
-      "pick": "BAL",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "mike-clay",
-      "expert_name": "Mike Clay",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_BAL_PIT",
-      "pick": "BAL",
-      "pick_type": "straight_up"
-    },
-    {
-      "expert": "jeremy-fowler",
-      "expert_name": "Jeremy Fowler",
-      "source": "espn_talentpicks",
-      "outlet": "ESPN",
-      "game_id": "2025_18_BAL_PIT",
-      "pick": "BAL",
+      "game_id": "2025_18_NYJ_BUF",
+      "pick": "BUF",
       "pick_type": "straight_up"
     },
     {
@@ -1636,53 +1546,143 @@
       "pick_type": "straight_up"
     },
     {
-      "expert": "kalyn-kahler",
-      "expert_name": "Kalyn Kahler",
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_BAL_PIT",
-      "pick": "BAL",
+      "game_id": "2025_18_CAR_TB",
+      "pick": "TB",
       "pick_type": "straight_up"
     },
     {
-      "expert": "pamela-maldonado",
-      "expert_name": "Pamela Maldonado",
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_BAL_PIT",
-      "pick": "BAL",
+      "game_id": "2025_18_SEA_SF",
+      "pick": "SEA",
       "pick_type": "straight_up"
     },
     {
-      "expert": "eric-moody",
-      "expert_name": "Eric Moody",
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_BAL_PIT",
-      "pick": "BAL",
+      "game_id": "2025_18_IND_HOU",
+      "pick": "HOU",
       "pick_type": "straight_up"
     },
     {
-      "expert": "jason-reid",
-      "expert_name": "Jason Reid",
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_BAL_PIT",
-      "pick": "BAL",
+      "game_id": "2025_18_DAL_NYG",
+      "pick": "DAL",
       "pick_type": "straight_up"
     },
     {
-      "expert": "lindsey-thiry",
-      "expert_name": "Lindsey Thiry",
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
-      "game_id": "2025_18_BAL_PIT",
-      "pick": "PIT",
+      "game_id": "2025_18_CLE_CIN",
+      "pick": "CIN",
       "pick_type": "straight_up"
     },
     {
-      "expert": "seth-wickersham",
-      "expert_name": "Seth Wickersham",
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_NO_ATL",
+      "pick": "ATL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_GB_MIN",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_TEN_JAX",
+      "pick": "JAX",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_ARI_LA",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_LAC_DEN",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_KC_LV",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_MIA_NE",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_WAS_PHI",
+      "pick": "PHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_DET_CHI",
+      "pick": "DET",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2025_18_NYJ_BUF",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
       "source": "espn_talentpicks",
       "outlet": "ESPN",
       "game_id": "2025_18_BAL_PIT",
