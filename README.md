@@ -1,6 +1,6 @@
-# NFL Expert Picks Tracker
+# Pro Football Ratings
 
-Track NFL media expert picks, compare against actual results, and rank the pundits by accuracy. Hold the pundits accountable.
+Track NFL media expert picks, compare against actual results, and rate the pickers against a Vegas baseline. Hold the pundits accountable. Future home of [profootballratings.com](https://profootballratings.com).
 
 ## How It Works
 
