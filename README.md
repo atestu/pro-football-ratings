@@ -5,10 +5,10 @@ Track NFL media expert picks, compare against actual results, and rank the pundi
 ## How It Works
 
 ```
-Cron (Wednesday)        Cron (Tuesday)          GitHub Pages (future)
+Cron (Thursday)         Cron (Tuesday)          GitHub Pages (future)
      |                      |                       |
  Scrape picks          Fetch results           Static site
- (ESPN, FN, NFL, PFT)  (nflreadpy)                  |
+ (ESPN, NFL, PFT)      (nflreadpy)                  |
      |                      |                  Leaderboard
  Store as JSON  --->   Score & grade  --->    (auto-deploy)
  (committed)           (committed)
@@ -23,8 +23,8 @@ All data lives as JSON in the repo. No database, no server. Automated via GitHub
 
 | Source | Type | Notes |
 |--------|------|-------|
-| ESPN picks page | Expert picks | ~10-14 ESPN analysts per week (HTML scraping) |
-| Fantasy Nerds | Expert picks | ~26-35 experts from ESPN, CBS, Yahoo, FanDuel, DraftKings, etc. |
+| ESPN picks page | Expert picks | ~10-14 ESPN analysts per week. The page is behind an AWS WAF challenge, so the scraper falls back to ESPN's core API |
+| Fantasy Nerds | Expert picks | ~26-35 experts from ESPN, CBS, Yahoo, FanDuel, DraftKings, etc. Run manually -- not part of the scheduled scrape |
 | NFL.com | Expert picks | ~5 NFL.com analysts per week |
 | ProFootballTalk | Expert picks | ~2 PFT analysts per week |
 | nflverse (via nflreadpy) | Game results + schedule | Canonical NFL data (scores, spreads, game dates) |
@@ -61,7 +61,7 @@ uv run scripts/score_experts.py --season 2025
 
 ### Cross-season expert ratings
 ```bash
-# Rate all experts across all available seasons (2021-2025)
+# Rate all experts across all available seasons (2015-2025)
 uv run scripts/rate_experts.py
 
 # Validate historical pick data integrity
@@ -91,10 +91,10 @@ data/
 
 ## Automation
 
-Three GitHub Actions workflows run automatically during the NFL season (Sep-Feb):
+Three GitHub Actions workflows run automatically during the NFL season (the cron checks skip March-August, and the scrapers skip postseason weeks):
 
-- **Scrape Picks** (Wednesday 12:00 UTC) - Fetches expert picks for the current week
-- **Fetch Results** (Tuesday 08:00 UTC) - Fetches game results after Monday Night Football, then scores experts
+- **Scrape Picks** (Thursday 16:00 UTC / noon ET) - Fetches expert picks for the current week once all outlets have published, hours before Thursday Night Football kicks off. A late NFL.com or PFT article doesn't block committing the other outlets' picks
+- **Fetch Results** (Tuesday 08:00 UTC) - Fetches game results after Monday Night Football, then scores experts and refreshes cross-season ratings
 - **Score Experts** - Also triggered when results data is pushed
 
 All workflows support manual dispatch with custom season/week inputs.
