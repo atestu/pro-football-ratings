@@ -72,6 +72,14 @@ jobs:
         continue-on-error: true
         run: python scripts/scrape_pft_picks.py ${{ steps.args.outputs.ARGS }}
 
+      # Fantasy Nerds has historically 403-blocked datacenter IPs; if that
+      # happens from Actions runners this fails as an annotation and the
+      # scraper stays a manual fallback
+      - name: Scrape Fantasy Nerds picks
+        if: steps.season.outputs.skip != 'true'
+        continue-on-error: true
+        run: python scripts/scrape_fantasynerds.py ${{ steps.args.outputs.ARGS }}
+
       - name: Commit and push
         if: steps.season.outputs.skip != 'true'
         run: |

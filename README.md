@@ -24,7 +24,7 @@ All data lives as JSON in the repo. No database, no server. Automated via GitHub
 | Source | Type | Notes |
 |--------|------|-------|
 | ESPN picks page | Expert picks | ~10-14 ESPN analysts per week. The page is behind an AWS WAF challenge, so the scraper falls back to ESPN's core API |
-| Fantasy Nerds | Expert picks | ~26-35 experts from ESPN, CBS, Yahoo, FanDuel, DraftKings, etc. Run manually -- not part of the scheduled scrape |
+| Fantasy Nerds | Expert picks | ~26-35 experts from ESPN, CBS, Yahoo, FanDuel, DraftKings, etc. In the scheduled scrape on a best-effort basis (may 403-block datacenter IPs); falls back to manual runs |
 | NFL.com | Expert picks | ~5 NFL.com analysts per week |
 | ProFootballTalk | Expert picks | ~2 PFT analysts per week |
 | nflverse (via nflreadpy) | Game results + schedule | Canonical NFL data (scores, spreads, game dates) |
