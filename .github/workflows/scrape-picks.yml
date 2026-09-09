@@ -2,10 +2,12 @@ name: Scrape Expert Picks
 
 on:
   schedule:
-    # Thursday 16:00 UTC = noon ET: all outlets have published (PFT's
-    # article lands Thursday morning) but TNF kickoff (~00:15 UTC Fri)
-    # is still hours away
-    - cron: '0 16 * * 4'
+    # 13:00 UTC = 9am ET, Wednesday and Thursday, an hour before the private
+    # repo's card build. Thursday is the main run (PFT's article lands
+    # Thursday morning); Wednesday exists because two 2026 weeks open on a
+    # Wednesday night and the Thanksgiving slate kicks at 12:30pm ET, so a
+    # Thursday-only scrape would leave those games with no expert layer.
+    - cron: '0 13 * * 3,4'
   workflow_dispatch:
     inputs:
       season:
