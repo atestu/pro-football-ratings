@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T13:04:41Z",
+  "generated_at": "2026-09-29T14:36:24Z",
   "parameters": {
     "half_life_weeks": 52,
     "min_picks": 100,
@@ -28,10 +28,10 @@
     "A-": 0.231,
     "A": 0.282,
     "A+": 6.1434,
-    "F": -15.7011,
-    "D-": -4.945,
+    "F": -17.3387,
+    "D-": -5.7638,
     "D": -1.6048,
-    "D+": -0.4363
+    "D+": -0.4542
   },
   "experts": [
     {
@@ -540,7 +540,7 @@
         2022
       ],
       "qualified": true,
-      "grade": "D"
+      "grade": "D+"
     },
     {
       "expert": "michael-david-smith",
@@ -729,6 +729,22 @@
       "grade": "D"
     },
     {
+      "expert": "vinnie-iyer",
+      "expert_name": "Vinnie Iyer",
+      "outlet": "Sporting News",
+      "score": -1.2238,
+      "total_picks": 107,
+      "weighted_picks": 44.8141,
+      "accuracy": 0.6449,
+      "baseline_accuracy": 0.6262,
+      "seasons_active": [
+        2023,
+        2026
+      ],
+      "qualified": true,
+      "grade": "D"
+    },
+    {
       "expert": "bill-bender",
       "expert_name": "Bill Bender",
       "outlet": "Sporting News",
@@ -791,46 +807,6 @@
       "grade": "D"
     },
     {
-      "expert": "yahoo-users",
-      "expert_name": "Yahoo Users",
-      "outlet": "Yahoo Sports",
-      "score": -1.7904,
-      "total_picks": 976,
-      "weighted_picks": 206.9659,
-      "accuracy": 0.6598,
-      "baseline_accuracy": 0.6578,
-      "seasons_active": [
-        2021,
-        2022,
-        2023,
-        2024,
-        2025,
-        2026
-      ],
-      "qualified": true,
-      "grade": "D-"
-    },
-    {
-      "expert": "jamey-eisenberg",
-      "expert_name": "Jamey Eisenberg",
-      "outlet": "CBS Sports",
-      "score": -1.7999,
-      "total_picks": 1207,
-      "weighted_picks": 197.1191,
-      "accuracy": 0.6653,
-      "baseline_accuracy": 0.6752,
-      "seasons_active": [
-        2021,
-        2022,
-        2023,
-        2024,
-        2025,
-        2026
-      ],
-      "qualified": true,
-      "grade": "D-"
-    },
-    {
       "expert": "nate-davis",
       "expert_name": "Nate Davis",
       "outlet": "USA Today",
@@ -863,6 +839,26 @@
       "grade": "D-"
     },
     {
+      "expert": "yahoo-users",
+      "expert_name": "Yahoo Users",
+      "outlet": "Yahoo Sports",
+      "score": -2.6092,
+      "total_picks": 992,
+      "weighted_picks": 220.0632,
+      "accuracy": 0.6573,
+      "baseline_accuracy": 0.6562,
+      "seasons_active": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "qualified": true,
+      "grade": "D-"
+    },
+    {
       "expert": "ali-bhanpuri",
       "expert_name": "Ali Bhanpuri",
       "outlet": "NFL.com",
@@ -873,24 +869,6 @@
       "baseline_accuracy": 0.6531,
       "seasons_active": [
         2025
-      ],
-      "qualified": true,
-      "grade": "D-"
-    },
-    {
-      "expert": "tim-cowlishaw",
-      "expert_name": "Tim Cowlishaw",
-      "outlet": "Dallas Morning News",
-      "score": -2.905,
-      "total_picks": 643,
-      "weighted_picks": 46.9382,
-      "accuracy": 0.6392,
-      "baseline_accuracy": 0.6407,
-      "seasons_active": [
-        2021,
-        2022,
-        2023,
-        2026
       ],
       "qualified": true,
       "grade": "D-"
@@ -911,15 +889,19 @@
       "grade": "D-"
     },
     {
-      "expert": "steve-gardner",
-      "expert_name": "Steve Gardner",
-      "outlet": "USA Today",
-      "score": -3.2333,
-      "total_picks": 284,
-      "weighted_picks": 131.161,
-      "accuracy": 0.6232,
-      "baseline_accuracy": 0.6549,
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "outlet": "CBS Sports",
+      "score": -3.4374,
+      "total_picks": 1223,
+      "weighted_picks": 210.2164,
+      "accuracy": 0.6623,
+      "baseline_accuracy": 0.6738,
       "seasons_active": [
+        2021,
+        2022,
+        2023,
+        2024,
         2025,
         2026
       ],
@@ -939,6 +921,24 @@
         2022,
         2023,
         2025,
+        2026
+      ],
+      "qualified": true,
+      "grade": "D-"
+    },
+    {
+      "expert": "tim-cowlishaw",
+      "expert_name": "Tim Cowlishaw",
+      "outlet": "Dallas Morning News",
+      "score": -3.7238,
+      "total_picks": 659,
+      "weighted_picks": 60.0355,
+      "accuracy": 0.6358,
+      "baseline_accuracy": 0.6388,
+      "seasons_active": [
+        2021,
+        2022,
+        2023,
         2026
       ],
       "qualified": true,
@@ -976,24 +976,15 @@
       "grade": "D-"
     },
     {
-      "expert": "matt-bowen",
-      "expert_name": "Matt Bowen",
-      "outlet": "ESPN",
-      "score": -4.0843,
-      "total_picks": 2660,
-      "weighted_picks": 264.3392,
-      "accuracy": 0.644,
-      "baseline_accuracy": 0.6668,
+      "expert": "steve-gardner",
+      "expert_name": "Steve Gardner",
+      "outlet": "USA Today",
+      "score": -4.052,
+      "total_picks": 300,
+      "weighted_picks": 144.2583,
+      "accuracy": 0.6167,
+      "baseline_accuracy": 0.65,
       "seasons_active": [
-        2016,
-        2017,
-        2018,
-        2019,
-        2020,
-        2021,
-        2022,
-        2023,
-        2024,
         2025,
         2026
       ],
@@ -1065,129 +1056,16 @@
       "grade": "D-"
     },
     {
-      "expert": "jarrett-bell",
-      "expert_name": "Jarrett Bell",
-      "outlet": "USA Today",
-      "score": -4.945,
-      "total_picks": 345,
-      "weighted_picks": 45.1637,
-      "accuracy": 0.6319,
-      "baseline_accuracy": 0.6638,
-      "seasons_active": [
-        2022,
-        2023,
-        2026
-      ],
-      "qualified": true,
-      "grade": "D-"
-    },
-    {
-      "expert": "tyler-sullivan",
-      "expert_name": "Tyler Sullivan",
-      "outlet": "CBS Sports",
-      "score": -5.7474,
-      "total_picks": 623,
-      "weighted_picks": 210.1648,
-      "accuracy": 0.6404,
-      "baseline_accuracy": 0.679,
-      "seasons_active": [
-        2023,
-        2024,
-        2025,
-        2026
-      ],
-      "qualified": true,
-      "grade": "F"
-    },
-    {
-      "expert": "jason-reid",
-      "expert_name": "Jason Reid",
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
       "outlet": "ESPN",
-      "score": -6.7535,
-      "total_picks": 1504,
-      "weighted_picks": 249.0674,
-      "accuracy": 0.633,
-      "baseline_accuracy": 0.6676,
+      "score": -5.7219,
+      "total_picks": 2676,
+      "weighted_picks": 277.4365,
+      "accuracy": 0.6428,
+      "baseline_accuracy": 0.6662,
       "seasons_active": [
-        2019,
-        2020,
-        2022,
-        2023,
-        2024,
-        2025,
-        2026
-      ],
-      "qualified": true,
-      "grade": "F"
-    },
-    {
-      "expert": "ryan-wilson",
-      "expert_name": "Ryan Wilson",
-      "outlet": "CBS Sports",
-      "score": -6.9256,
-      "total_picks": 1297,
-      "weighted_picks": 247.6676,
-      "accuracy": 0.6407,
-      "baseline_accuracy": 0.6685,
-      "seasons_active": [
-        2021,
-        2022,
-        2023,
-        2024,
-        2025,
-        2026
-      ],
-      "qualified": true,
-      "grade": "F"
-    },
-    {
-      "expert": "jeremy-fowler",
-      "expert_name": "Jeremy Fowler",
-      "outlet": "ESPN",
-      "score": -6.9474,
-      "total_picks": 1387,
-      "weighted_picks": 257.7193,
-      "accuracy": 0.6359,
-      "baseline_accuracy": 0.6676,
-      "seasons_active": [
-        2021,
-        2022,
-        2023,
-        2024,
-        2025,
-        2026
-      ],
-      "qualified": true,
-      "grade": "F"
-    },
-    {
-      "expert": "lindsey-thiry",
-      "expert_name": "Lindsey Thiry",
-      "outlet": "ESPN",
-      "score": -6.9691,
-      "total_picks": 831,
-      "weighted_picks": 222.6589,
-      "accuracy": 0.6414,
-      "baseline_accuracy": 0.6823,
-      "seasons_active": [
-        2023,
-        2024,
-        2025,
-        2026
-      ],
-      "qualified": true,
-      "grade": "F"
-    },
-    {
-      "expert": "mike-clay",
-      "expert_name": "Mike Clay",
-      "outlet": "ESPN",
-      "score": -7.1269,
-      "total_picks": 2407,
-      "weighted_picks": 264.2353,
-      "accuracy": 0.6365,
-      "baseline_accuracy": 0.6693,
-      "seasons_active": [
+        2016,
         2017,
         2018,
         2019,
@@ -1200,36 +1078,35 @@
         2026
       ],
       "qualified": true,
-      "grade": "F"
+      "grade": "D-"
     },
     {
-      "expert": "pamela-maldonado",
-      "expert_name": "Pamela Maldonado",
-      "outlet": "ESPN",
-      "score": -7.2456,
-      "total_picks": 303,
-      "weighted_picks": 145.3626,
-      "accuracy": 0.6106,
-      "baseline_accuracy": 0.6601,
+      "expert": "jarrett-bell",
+      "expert_name": "Jarrett Bell",
+      "outlet": "USA Today",
+      "score": -5.7638,
+      "total_picks": 361,
+      "weighted_picks": 58.261,
+      "accuracy": 0.626,
+      "baseline_accuracy": 0.6593,
       "seasons_active": [
-        2025,
+        2022,
+        2023,
         2026
       ],
       "qualified": true,
-      "grade": "F"
+      "grade": "D-"
     },
     {
-      "expert": "pete-prisco",
-      "expert_name": "Pete Prisco",
+      "expert": "tyler-sullivan",
+      "expert_name": "Tyler Sullivan",
       "outlet": "CBS Sports",
-      "score": -7.7082,
-      "total_picks": 1308,
-      "weighted_picks": 249.2421,
-      "accuracy": 0.6353,
-      "baseline_accuracy": 0.6682,
+      "score": -6.5662,
+      "total_picks": 639,
+      "weighted_picks": 223.2621,
+      "accuracy": 0.6369,
+      "baseline_accuracy": 0.6761,
       "seasons_active": [
-        2021,
-        2022,
         2023,
         2024,
         2025,
@@ -1259,6 +1136,46 @@
       "grade": "F"
     },
     {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "outlet": "ESPN",
+      "score": -7.9457,
+      "total_picks": 2423,
+      "weighted_picks": 277.3326,
+      "accuracy": 0.6356,
+      "baseline_accuracy": 0.6686,
+      "seasons_active": [
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "qualified": true,
+      "grade": "F"
+    },
+    {
+      "expert": "pamela-maldonado",
+      "expert_name": "Pamela Maldonado",
+      "outlet": "ESPN",
+      "score": -8.0644,
+      "total_picks": 319,
+      "weighted_picks": 158.4599,
+      "accuracy": 0.605,
+      "baseline_accuracy": 0.6552,
+      "seasons_active": [
+        2025,
+        2026
+      ],
+      "qualified": true,
+      "grade": "F"
+    },
+    {
       "expert": "will-brinson",
       "expert_name": "Will Brinson",
       "outlet": "CBS",
@@ -1277,14 +1194,75 @@
       "grade": "F"
     },
     {
-      "expert": "eric-moody",
-      "expert_name": "Eric Moody",
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
       "outlet": "ESPN",
-      "score": -8.8226,
+      "score": -8.391,
+      "total_picks": 1520,
+      "weighted_picks": 262.1647,
+      "accuracy": 0.6309,
+      "baseline_accuracy": 0.6664,
+      "seasons_active": [
+        2019,
+        2020,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "qualified": true,
+      "grade": "F"
+    },
+    {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "outlet": "CBS Sports",
+      "score": -8.527,
+      "total_picks": 1324,
+      "weighted_picks": 262.3394,
+      "accuracy": 0.6337,
+      "baseline_accuracy": 0.6669,
+      "seasons_active": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "qualified": true,
+      "grade": "F"
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "outlet": "CBS Sports",
+      "score": -8.5631,
+      "total_picks": 1313,
+      "weighted_picks": 260.7649,
+      "accuracy": 0.6382,
+      "baseline_accuracy": 0.6672,
+      "seasons_active": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "qualified": true,
+      "grade": "F"
+    },
+    {
+      "expert": "lindsey-thiry",
+      "expert_name": "Lindsey Thiry",
+      "outlet": "ESPN",
+      "score": -8.6066,
       "total_picks": 847,
-      "weighted_picks": 235.4056,
-      "accuracy": 0.6494,
-      "baseline_accuracy": 0.6836,
+      "weighted_picks": 235.7562,
+      "accuracy": 0.6375,
+      "baseline_accuracy": 0.68,
       "seasons_active": [
         2023,
         2024,
@@ -1313,14 +1291,52 @@
       "grade": "F"
     },
     {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "outlet": "ESPN",
+      "score": -9.4037,
+      "total_picks": 1403,
+      "weighted_picks": 270.8166,
+      "accuracy": 0.6329,
+      "baseline_accuracy": 0.6664,
+      "seasons_active": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "qualified": true,
+      "grade": "F"
+    },
+    {
+      "expert": "eric-moody",
+      "expert_name": "Eric Moody",
+      "outlet": "ESPN",
+      "score": -10.4601,
+      "total_picks": 863,
+      "weighted_picks": 248.5029,
+      "accuracy": 0.6454,
+      "baseline_accuracy": 0.6813,
+      "seasons_active": [
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "qualified": true,
+      "grade": "F"
+    },
+    {
       "expert": "john-breech",
       "expert_name": "John Breech",
       "outlet": "CBS Sports",
-      "score": -10.1939,
-      "total_picks": 1302,
-      "weighted_picks": 247.9834,
-      "accuracy": 0.6321,
-      "baseline_accuracy": 0.6667,
+      "score": -11.0127,
+      "total_picks": 1318,
+      "weighted_picks": 261.0807,
+      "accuracy": 0.6305,
+      "baseline_accuracy": 0.6654,
       "seasons_active": [
         2021,
         2022,
@@ -1336,11 +1352,11 @@
       "expert": "jared-dubin",
       "expert_name": "Jared Dubin",
       "outlet": "CBS Sports",
-      "score": -11.2548,
-      "total_picks": 1237,
-      "weighted_picks": 243.6107,
-      "accuracy": 0.6419,
-      "baseline_accuracy": 0.6661,
+      "score": -12.0736,
+      "total_picks": 1253,
+      "weighted_picks": 256.708,
+      "accuracy": 0.6401,
+      "baseline_accuracy": 0.6648,
       "seasons_active": [
         2021,
         2022,
@@ -1356,11 +1372,11 @@
       "expert": "seth-wickersham",
       "expert_name": "Seth Wickersham",
       "outlet": "ESPN",
-      "score": -13.6754,
-      "total_picks": 2916,
-      "weighted_picks": 264.5553,
-      "accuracy": 0.6001,
-      "baseline_accuracy": 0.6635,
+      "score": -15.313,
+      "total_picks": 2932,
+      "weighted_picks": 277.6526,
+      "accuracy": 0.5992,
+      "baseline_accuracy": 0.6629,
       "seasons_active": [
         2015,
         2016,
@@ -1382,11 +1398,11 @@
       "expert": "kalyn-kahler",
       "expert_name": "Kalyn Kahler",
       "outlet": "ESPN",
-      "score": -14.824,
-      "total_picks": 559,
-      "weighted_picks": 192.6352,
-      "accuracy": 0.6064,
-      "baseline_accuracy": 0.6834,
+      "score": -16.4615,
+      "total_picks": 574,
+      "weighted_picks": 204.9137,
+      "accuracy": 0.6028,
+      "baseline_accuracy": 0.6812,
       "seasons_active": [
         2024,
         2025,
@@ -1399,11 +1415,11 @@
       "expert": "dan-graziano",
       "expert_name": "Dan Graziano",
       "outlet": "ESPN",
-      "score": -15.7011,
-      "total_picks": 2661,
-      "weighted_picks": 264.4501,
-      "accuracy": 0.6054,
-      "baseline_accuracy": 0.6669,
+      "score": -17.3387,
+      "total_picks": 2677,
+      "weighted_picks": 277.5474,
+      "accuracy": 0.6044,
+      "baseline_accuracy": 0.6663,
       "seasons_active": [
         2016,
         2017,
@@ -1421,6 +1437,21 @@
       "grade": "F"
     },
     {
+      "expert": "conor-orr",
+      "expert_name": "Conor Orr",
+      "outlet": "NFL Around the League",
+      "score": 2.4455,
+      "total_picks": 32,
+      "weighted_picks": 26.0212,
+      "accuracy": 0.7188,
+      "baseline_accuracy": 0.625,
+      "seasons_active": [
+        2026
+      ],
+      "qualified": false,
+      "grade": "provisional"
+    },
+    {
       "expert": "john-miller",
       "expert_name": "John Miller",
       "outlet": "NBC 26",
@@ -1431,21 +1462,6 @@
       "baseline_accuracy": 0.7031,
       "seasons_active": [
         2025,
-        2026
-      ],
-      "qualified": false,
-      "grade": "provisional"
-    },
-    {
-      "expert": "conor-orr",
-      "expert_name": "Conor Orr",
-      "outlet": "NFL Around the League",
-      "score": 0.8079,
-      "total_picks": 16,
-      "weighted_picks": 12.9239,
-      "accuracy": 0.75,
-      "baseline_accuracy": 0.6875,
-      "seasons_active": [
         2026
       ],
       "qualified": false,
@@ -1647,22 +1663,6 @@
       "grade": "provisional"
     },
     {
-      "expert": "vinnie-iyer",
-      "expert_name": "Vinnie Iyer",
-      "outlet": "Sporting News",
-      "score": -0.405,
-      "total_picks": 91,
-      "weighted_picks": 31.7168,
-      "accuracy": 0.6703,
-      "baseline_accuracy": 0.6374,
-      "seasons_active": [
-        2023,
-        2026
-      ],
-      "qualified": false,
-      "grade": "provisional"
-    },
-    {
       "expert": "boris",
       "expert_name": "Boris",
       "outlet": "Gridiron Experts",
@@ -1674,6 +1674,21 @@
       "seasons_active": [
         2023,
         2024
+      ],
+      "qualified": false,
+      "grade": "provisional"
+    },
+    {
+      "expert": "cynthia-frelund",
+      "expert_name": "Cynthia Frelund",
+      "outlet": "NFL",
+      "score": -0.8188,
+      "total_picks": 16,
+      "weighted_picks": 13.0973,
+      "accuracy": 0.5,
+      "baseline_accuracy": 0.5625,
+      "seasons_active": [
+        2026
       ],
       "qualified": false,
       "grade": "provisional"
@@ -1710,31 +1725,15 @@
       "grade": "provisional"
     },
     {
-      "expert": "mike-middlehurst-schwartz",
-      "expert_name": "Mike Middlehurst-Schwartz",
-      "outlet": "USA Today",
-      "score": -1.6067,
-      "total_picks": 32,
-      "weighted_picks": 25.6706,
-      "accuracy": 0.6562,
-      "baseline_accuracy": 0.7188,
-      "seasons_active": [
-        2026
-      ],
-      "qualified": false,
-      "grade": "provisional"
-    },
-    {
-      "expert": "colleen-wolfe",
-      "expert_name": "Colleen Wolfe",
+      "expert": "bucky-brooks",
+      "expert_name": "Bucky Brooks",
       "outlet": "NFL",
-      "score": -1.7999,
-      "total_picks": 80,
-      "weighted_picks": 30.4535,
-      "accuracy": 0.6,
-      "baseline_accuracy": 0.65,
+      "score": -1.5867,
+      "total_picks": 48,
+      "weighted_picks": 38.7678,
+      "accuracy": 0.625,
+      "baseline_accuracy": 0.6667,
       "seasons_active": [
-        2023,
         2026
       ],
       "qualified": false,
@@ -1757,14 +1756,14 @@
       "grade": "provisional"
     },
     {
-      "expert": "bucky-brooks",
-      "expert_name": "Bucky Brooks",
-      "outlet": "NFL",
-      "score": -2.4009,
-      "total_picks": 32,
-      "weighted_picks": 25.6706,
-      "accuracy": 0.625,
-      "baseline_accuracy": 0.7188,
+      "expert": "mike-middlehurst-schwartz",
+      "expert_name": "Mike Middlehurst-Schwartz",
+      "outlet": "USA Today",
+      "score": -2.4255,
+      "total_picks": 48,
+      "weighted_picks": 38.7678,
+      "accuracy": 0.6042,
+      "baseline_accuracy": 0.6667,
       "seasons_active": [
         2026
       ],
@@ -1775,11 +1774,11 @@
       "expert": "ben-solak",
       "expert_name": "Ben Solak",
       "outlet": "ESPN",
-      "score": -2.4086,
-      "total_picks": 31,
-      "weighted_picks": 24.8733,
-      "accuracy": 0.6129,
-      "baseline_accuracy": 0.7097,
+      "score": -3.2258,
+      "total_picks": 47,
+      "weighted_picks": 37.9706,
+      "accuracy": 0.5745,
+      "baseline_accuracy": 0.6596,
       "seasons_active": [
         2026
       ],
@@ -1790,13 +1789,29 @@
       "expert": "mike-cairns",
       "expert_name": "Mike Cairns",
       "outlet": "Spectrum Sports",
-      "score": -2.4164,
-      "total_picks": 46,
-      "weighted_picks": 25.1619,
-      "accuracy": 0.6087,
-      "baseline_accuracy": 0.7174,
+      "score": -4.0539,
+      "total_picks": 62,
+      "weighted_picks": 38.2592,
+      "accuracy": 0.5645,
+      "baseline_accuracy": 0.6774,
       "seasons_active": [
         2025,
+        2026
+      ],
+      "qualified": false,
+      "grade": "provisional"
+    },
+    {
+      "expert": "colleen-wolfe",
+      "expert_name": "Colleen Wolfe",
+      "outlet": "NFL",
+      "score": -4.2562,
+      "total_picks": 96,
+      "weighted_picks": 43.5508,
+      "accuracy": 0.5625,
+      "baseline_accuracy": 0.6354,
+      "seasons_active": [
+        2023,
         2026
       ],
       "qualified": false,
@@ -1806,11 +1821,11 @@
       "expert": "kevin-patra",
       "expert_name": "Kevin Patra",
       "outlet": "NFL Around the League",
-      "score": -3.9984,
-      "total_picks": 32,
-      "weighted_picks": 25.6706,
-      "accuracy": 0.5625,
-      "baseline_accuracy": 0.7188,
+      "score": -5.6359,
+      "total_picks": 48,
+      "weighted_picks": 38.7678,
+      "accuracy": 0.5208,
+      "baseline_accuracy": 0.6667,
       "seasons_active": [
         2026
       ],
