@@ -2,7 +2,7 @@
   "season": 2026,
   "week": 7,
   "season_type": "REG",
-  "scraped_at": "2026-10-21T17:55:54Z",
+  "scraped_at": "2026-10-22T17:52:28Z",
   "sources": [
     "fantasynerds"
   ],
@@ -80,6 +80,15 @@
   ],
   "picks": [
     {
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_NE_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "mike-clay",
       "expert_name": "Mike Clay",
       "source": "fantasynerds",
@@ -89,10 +98,55 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "mike-middlehurst-schwartz",
+      "expert_name": "Mike Middlehurst-Schwartz",
+      "source": "fantasynerds",
+      "outlet": "USA Today",
+      "game_id": "2026_07_NE_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_NE_CHI",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tyler-sullivan",
+      "expert_name": "Tyler Sullivan",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_NE_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "eric-moody",
+      "expert_name": "Eric Moody",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_NE_CHI",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "lindsey-thiry",
       "expert_name": "Lindsey Thiry",
       "source": "fantasynerds",
       "outlet": "ESPN",
+      "game_id": "2026_07_NE_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ethan-mcreynolds",
+      "expert_name": "Ethan McReynolds",
+      "source": "fantasynerds",
+      "outlet": "Fox 13 Seattle",
       "game_id": "2026_07_NE_CHI",
       "pick": "CHI",
       "pick_type": "straight_up"
@@ -107,10 +161,46 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_NE_CHI",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "matt-bowen",
       "expert_name": "Matt Bowen",
       "source": "fantasynerds",
       "outlet": "ESPN",
+      "game_id": "2026_07_NE_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pamela-maldonado",
+      "expert_name": "Pamela Maldonado",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_NE_CHI",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "cynthia-frelund",
+      "expert_name": "Cynthia Frelund",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_NE_CHI",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jared-dubin",
+      "expert_name": "Jared Dubin",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
       "game_id": "2026_07_NE_CHI",
       "pick": "CHI",
       "pick_type": "straight_up"
@@ -152,12 +242,102 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "ben-solak",
+      "expert_name": "Ben Solak",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_NE_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "john-breech",
+      "expert_name": "John Breech",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_NE_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_NE_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "colleen-wolfe",
+      "expert_name": "Colleen Wolfe",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_NE_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "john-miller",
       "expert_name": "John Miller",
       "source": "fantasynerds",
       "outlet": "NBC 26",
       "game_id": "2026_07_NE_CHI",
       "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jarrett-bell",
+      "expert_name": "Jarrett Bell",
+      "source": "fantasynerds",
+      "outlet": "USA Today",
+      "game_id": "2026_07_NE_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tim-cowlishaw",
+      "expert_name": "Tim Cowlishaw",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2026_07_NE_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-patra",
+      "expert_name": "Kevin Patra",
+      "source": "fantasynerds",
+      "outlet": "NFL Around the League",
+      "game_id": "2026_07_NE_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "conor-orr",
+      "expert_name": "Conor Orr",
+      "source": "fantasynerds",
+      "outlet": "NFL Around the League",
+      "game_id": "2026_07_NE_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "bucky-brooks",
+      "expert_name": "Bucky Brooks",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_NE_CHI",
+      "pick": "NE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_PIT_NO",
+      "pick": "PIT",
       "pick_type": "straight_up"
     },
     {
@@ -170,10 +350,55 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "mike-middlehurst-schwartz",
+      "expert_name": "Mike Middlehurst-Schwartz",
+      "source": "fantasynerds",
+      "outlet": "USA Today",
+      "game_id": "2026_07_PIT_NO",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_PIT_NO",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tyler-sullivan",
+      "expert_name": "Tyler Sullivan",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_PIT_NO",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "eric-moody",
+      "expert_name": "Eric Moody",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_PIT_NO",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "lindsey-thiry",
       "expert_name": "Lindsey Thiry",
       "source": "fantasynerds",
       "outlet": "ESPN",
+      "game_id": "2026_07_PIT_NO",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ethan-mcreynolds",
+      "expert_name": "Ethan McReynolds",
+      "source": "fantasynerds",
+      "outlet": "Fox 13 Seattle",
       "game_id": "2026_07_PIT_NO",
       "pick": "PIT",
       "pick_type": "straight_up"
@@ -188,10 +413,37 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_PIT_NO",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "matt-bowen",
       "expert_name": "Matt Bowen",
       "source": "fantasynerds",
       "outlet": "ESPN",
+      "game_id": "2026_07_PIT_NO",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pamela-maldonado",
+      "expert_name": "Pamela Maldonado",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_PIT_NO",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "cynthia-frelund",
+      "expert_name": "Cynthia Frelund",
+      "source": "fantasynerds",
+      "outlet": "NFL",
       "game_id": "2026_07_PIT_NO",
       "pick": "PIT",
       "pick_type": "straight_up"
@@ -233,6 +485,33 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "ben-solak",
+      "expert_name": "Ben Solak",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_PIT_NO",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "john-breech",
+      "expert_name": "John Breech",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_PIT_NO",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "colleen-wolfe",
+      "expert_name": "Colleen Wolfe",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_PIT_NO",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "john-miller",
       "expert_name": "John Miller",
       "source": "fantasynerds",
@@ -242,8 +521,98 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "jarrett-bell",
+      "expert_name": "Jarrett Bell",
+      "source": "fantasynerds",
+      "outlet": "USA Today",
+      "game_id": "2026_07_PIT_NO",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tim-cowlishaw",
+      "expert_name": "Tim Cowlishaw",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2026_07_PIT_NO",
+      "pick": "NO",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-patra",
+      "expert_name": "Kevin Patra",
+      "source": "fantasynerds",
+      "outlet": "NFL Around the League",
+      "game_id": "2026_07_PIT_NO",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "conor-orr",
+      "expert_name": "Conor Orr",
+      "source": "fantasynerds",
+      "outlet": "NFL Around the League",
+      "game_id": "2026_07_PIT_NO",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "bucky-brooks",
+      "expert_name": "Bucky Brooks",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_PIT_NO",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_SF_ATL",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "mike-clay",
       "expert_name": "Mike Clay",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_SF_ATL",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-middlehurst-schwartz",
+      "expert_name": "Mike Middlehurst-Schwartz",
+      "source": "fantasynerds",
+      "outlet": "USA Today",
+      "game_id": "2026_07_SF_ATL",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_SF_ATL",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tyler-sullivan",
+      "expert_name": "Tyler Sullivan",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_SF_ATL",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "eric-moody",
+      "expert_name": "Eric Moody",
       "source": "fantasynerds",
       "outlet": "ESPN",
       "game_id": "2026_07_SF_ATL",
@@ -260,6 +629,15 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "ethan-mcreynolds",
+      "expert_name": "Ethan McReynolds",
+      "source": "fantasynerds",
+      "outlet": "Fox 13 Seattle",
+      "game_id": "2026_07_SF_ATL",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "yahoo-users",
       "expert_name": "Yahoo Users",
       "source": "fantasynerds",
@@ -269,10 +647,46 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_SF_ATL",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "matt-bowen",
       "expert_name": "Matt Bowen",
       "source": "fantasynerds",
       "outlet": "ESPN",
+      "game_id": "2026_07_SF_ATL",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pamela-maldonado",
+      "expert_name": "Pamela Maldonado",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_SF_ATL",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "cynthia-frelund",
+      "expert_name": "Cynthia Frelund",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_SF_ATL",
+      "pick": "ATL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jared-dubin",
+      "expert_name": "Jared Dubin",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
       "game_id": "2026_07_SF_ATL",
       "pick": "SF",
       "pick_type": "straight_up"
@@ -314,6 +728,42 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "ben-solak",
+      "expert_name": "Ben Solak",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_SF_ATL",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "john-breech",
+      "expert_name": "John Breech",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_SF_ATL",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_SF_ATL",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "colleen-wolfe",
+      "expert_name": "Colleen Wolfe",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_SF_ATL",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "john-miller",
       "expert_name": "John Miller",
       "source": "fantasynerds",
@@ -323,8 +773,98 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "jarrett-bell",
+      "expert_name": "Jarrett Bell",
+      "source": "fantasynerds",
+      "outlet": "USA Today",
+      "game_id": "2026_07_SF_ATL",
+      "pick": "ATL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tim-cowlishaw",
+      "expert_name": "Tim Cowlishaw",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2026_07_SF_ATL",
+      "pick": "ATL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-patra",
+      "expert_name": "Kevin Patra",
+      "source": "fantasynerds",
+      "outlet": "NFL Around the League",
+      "game_id": "2026_07_SF_ATL",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "conor-orr",
+      "expert_name": "Conor Orr",
+      "source": "fantasynerds",
+      "outlet": "NFL Around the League",
+      "game_id": "2026_07_SF_ATL",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "bucky-brooks",
+      "expert_name": "Bucky Brooks",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_SF_ATL",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_CIN_BAL",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "mike-clay",
       "expert_name": "Mike Clay",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_CIN_BAL",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-middlehurst-schwartz",
+      "expert_name": "Mike Middlehurst-Schwartz",
+      "source": "fantasynerds",
+      "outlet": "USA Today",
+      "game_id": "2026_07_CIN_BAL",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_CIN_BAL",
+      "pick": "BAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tyler-sullivan",
+      "expert_name": "Tyler Sullivan",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_CIN_BAL",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "eric-moody",
+      "expert_name": "Eric Moody",
       "source": "fantasynerds",
       "outlet": "ESPN",
       "game_id": "2026_07_CIN_BAL",
@@ -341,12 +881,30 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "ethan-mcreynolds",
+      "expert_name": "Ethan McReynolds",
+      "source": "fantasynerds",
+      "outlet": "Fox 13 Seattle",
+      "game_id": "2026_07_CIN_BAL",
+      "pick": "BAL",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "yahoo-users",
       "expert_name": "Yahoo Users",
       "source": "fantasynerds",
       "outlet": "Yahoo Sports",
       "game_id": "2026_07_CIN_BAL",
-      "pick": "BAL",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_CIN_BAL",
+      "pick": "CIN",
       "pick_type": "straight_up"
     },
     {
@@ -354,6 +912,33 @@
       "expert_name": "Matt Bowen",
       "source": "fantasynerds",
       "outlet": "ESPN",
+      "game_id": "2026_07_CIN_BAL",
+      "pick": "BAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pamela-maldonado",
+      "expert_name": "Pamela Maldonado",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_CIN_BAL",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "cynthia-frelund",
+      "expert_name": "Cynthia Frelund",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_CIN_BAL",
+      "pick": "BAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jared-dubin",
+      "expert_name": "Jared Dubin",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
       "game_id": "2026_07_CIN_BAL",
       "pick": "BAL",
       "pick_type": "straight_up"
@@ -395,6 +980,42 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "ben-solak",
+      "expert_name": "Ben Solak",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_CIN_BAL",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "john-breech",
+      "expert_name": "John Breech",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_CIN_BAL",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_CIN_BAL",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "colleen-wolfe",
+      "expert_name": "Colleen Wolfe",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_CIN_BAL",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "john-miller",
       "expert_name": "John Miller",
       "source": "fantasynerds",
@@ -404,8 +1025,98 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "jarrett-bell",
+      "expert_name": "Jarrett Bell",
+      "source": "fantasynerds",
+      "outlet": "USA Today",
+      "game_id": "2026_07_CIN_BAL",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tim-cowlishaw",
+      "expert_name": "Tim Cowlishaw",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2026_07_CIN_BAL",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-patra",
+      "expert_name": "Kevin Patra",
+      "source": "fantasynerds",
+      "outlet": "NFL Around the League",
+      "game_id": "2026_07_CIN_BAL",
+      "pick": "BAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "conor-orr",
+      "expert_name": "Conor Orr",
+      "source": "fantasynerds",
+      "outlet": "NFL Around the League",
+      "game_id": "2026_07_CIN_BAL",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "bucky-brooks",
+      "expert_name": "Bucky Brooks",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_CIN_BAL",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_TB_CAR",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "mike-clay",
       "expert_name": "Mike Clay",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_TB_CAR",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-middlehurst-schwartz",
+      "expert_name": "Mike Middlehurst-Schwartz",
+      "source": "fantasynerds",
+      "outlet": "USA Today",
+      "game_id": "2026_07_TB_CAR",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_TB_CAR",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tyler-sullivan",
+      "expert_name": "Tyler Sullivan",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_TB_CAR",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "eric-moody",
+      "expert_name": "Eric Moody",
       "source": "fantasynerds",
       "outlet": "ESPN",
       "game_id": "2026_07_TB_CAR",
@@ -422,6 +1133,15 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "ethan-mcreynolds",
+      "expert_name": "Ethan McReynolds",
+      "source": "fantasynerds",
+      "outlet": "Fox 13 Seattle",
+      "game_id": "2026_07_TB_CAR",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "yahoo-users",
       "expert_name": "Yahoo Users",
       "source": "fantasynerds",
@@ -431,10 +1151,46 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_TB_CAR",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "matt-bowen",
       "expert_name": "Matt Bowen",
       "source": "fantasynerds",
       "outlet": "ESPN",
+      "game_id": "2026_07_TB_CAR",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pamela-maldonado",
+      "expert_name": "Pamela Maldonado",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_TB_CAR",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "cynthia-frelund",
+      "expert_name": "Cynthia Frelund",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_TB_CAR",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jared-dubin",
+      "expert_name": "Jared Dubin",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
       "game_id": "2026_07_TB_CAR",
       "pick": "CAR",
       "pick_type": "straight_up"
@@ -476,6 +1232,42 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "ben-solak",
+      "expert_name": "Ben Solak",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_TB_CAR",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "john-breech",
+      "expert_name": "John Breech",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_TB_CAR",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_TB_CAR",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "colleen-wolfe",
+      "expert_name": "Colleen Wolfe",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_TB_CAR",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "john-miller",
       "expert_name": "John Miller",
       "source": "fantasynerds",
@@ -485,8 +1277,98 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "jarrett-bell",
+      "expert_name": "Jarrett Bell",
+      "source": "fantasynerds",
+      "outlet": "USA Today",
+      "game_id": "2026_07_TB_CAR",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tim-cowlishaw",
+      "expert_name": "Tim Cowlishaw",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2026_07_TB_CAR",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-patra",
+      "expert_name": "Kevin Patra",
+      "source": "fantasynerds",
+      "outlet": "NFL Around the League",
+      "game_id": "2026_07_TB_CAR",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "conor-orr",
+      "expert_name": "Conor Orr",
+      "source": "fantasynerds",
+      "outlet": "NFL Around the League",
+      "game_id": "2026_07_TB_CAR",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "bucky-brooks",
+      "expert_name": "Bucky Brooks",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_TB_CAR",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_NYG_HOU",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "mike-clay",
       "expert_name": "Mike Clay",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_NYG_HOU",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-middlehurst-schwartz",
+      "expert_name": "Mike Middlehurst-Schwartz",
+      "source": "fantasynerds",
+      "outlet": "USA Today",
+      "game_id": "2026_07_NYG_HOU",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_NYG_HOU",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tyler-sullivan",
+      "expert_name": "Tyler Sullivan",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_NYG_HOU",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "eric-moody",
+      "expert_name": "Eric Moody",
       "source": "fantasynerds",
       "outlet": "ESPN",
       "game_id": "2026_07_NYG_HOU",
@@ -503,6 +1385,15 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "ethan-mcreynolds",
+      "expert_name": "Ethan McReynolds",
+      "source": "fantasynerds",
+      "outlet": "Fox 13 Seattle",
+      "game_id": "2026_07_NYG_HOU",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "yahoo-users",
       "expert_name": "Yahoo Users",
       "source": "fantasynerds",
@@ -512,10 +1403,46 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_NYG_HOU",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "matt-bowen",
       "expert_name": "Matt Bowen",
       "source": "fantasynerds",
       "outlet": "ESPN",
+      "game_id": "2026_07_NYG_HOU",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pamela-maldonado",
+      "expert_name": "Pamela Maldonado",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_NYG_HOU",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "cynthia-frelund",
+      "expert_name": "Cynthia Frelund",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_NYG_HOU",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jared-dubin",
+      "expert_name": "Jared Dubin",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
       "game_id": "2026_07_NYG_HOU",
       "pick": "HOU",
       "pick_type": "straight_up"
@@ -557,6 +1484,42 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "ben-solak",
+      "expert_name": "Ben Solak",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_NYG_HOU",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "john-breech",
+      "expert_name": "John Breech",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_NYG_HOU",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_NYG_HOU",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "colleen-wolfe",
+      "expert_name": "Colleen Wolfe",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_NYG_HOU",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "john-miller",
       "expert_name": "John Miller",
       "source": "fantasynerds",
@@ -566,8 +1529,98 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "jarrett-bell",
+      "expert_name": "Jarrett Bell",
+      "source": "fantasynerds",
+      "outlet": "USA Today",
+      "game_id": "2026_07_NYG_HOU",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tim-cowlishaw",
+      "expert_name": "Tim Cowlishaw",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2026_07_NYG_HOU",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-patra",
+      "expert_name": "Kevin Patra",
+      "source": "fantasynerds",
+      "outlet": "NFL Around the League",
+      "game_id": "2026_07_NYG_HOU",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "conor-orr",
+      "expert_name": "Conor Orr",
+      "source": "fantasynerds",
+      "outlet": "NFL Around the League",
+      "game_id": "2026_07_NYG_HOU",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "bucky-brooks",
+      "expert_name": "Bucky Brooks",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_NYG_HOU",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_IND_MIN",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "mike-clay",
       "expert_name": "Mike Clay",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_IND_MIN",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-middlehurst-schwartz",
+      "expert_name": "Mike Middlehurst-Schwartz",
+      "source": "fantasynerds",
+      "outlet": "USA Today",
+      "game_id": "2026_07_IND_MIN",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_IND_MIN",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tyler-sullivan",
+      "expert_name": "Tyler Sullivan",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_IND_MIN",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "eric-moody",
+      "expert_name": "Eric Moody",
       "source": "fantasynerds",
       "outlet": "ESPN",
       "game_id": "2026_07_IND_MIN",
@@ -584,6 +1637,15 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "ethan-mcreynolds",
+      "expert_name": "Ethan McReynolds",
+      "source": "fantasynerds",
+      "outlet": "Fox 13 Seattle",
+      "game_id": "2026_07_IND_MIN",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "yahoo-users",
       "expert_name": "Yahoo Users",
       "source": "fantasynerds",
@@ -593,10 +1655,46 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_IND_MIN",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "matt-bowen",
       "expert_name": "Matt Bowen",
       "source": "fantasynerds",
       "outlet": "ESPN",
+      "game_id": "2026_07_IND_MIN",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pamela-maldonado",
+      "expert_name": "Pamela Maldonado",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_IND_MIN",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "cynthia-frelund",
+      "expert_name": "Cynthia Frelund",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_IND_MIN",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jared-dubin",
+      "expert_name": "Jared Dubin",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
       "game_id": "2026_07_IND_MIN",
       "pick": "MIN",
       "pick_type": "straight_up"
@@ -638,6 +1736,42 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "ben-solak",
+      "expert_name": "Ben Solak",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_IND_MIN",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "john-breech",
+      "expert_name": "John Breech",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_IND_MIN",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_IND_MIN",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "colleen-wolfe",
+      "expert_name": "Colleen Wolfe",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_IND_MIN",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "john-miller",
       "expert_name": "John Miller",
       "source": "fantasynerds",
@@ -647,8 +1781,98 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "jarrett-bell",
+      "expert_name": "Jarrett Bell",
+      "source": "fantasynerds",
+      "outlet": "USA Today",
+      "game_id": "2026_07_IND_MIN",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tim-cowlishaw",
+      "expert_name": "Tim Cowlishaw",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2026_07_IND_MIN",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-patra",
+      "expert_name": "Kevin Patra",
+      "source": "fantasynerds",
+      "outlet": "NFL Around the League",
+      "game_id": "2026_07_IND_MIN",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "conor-orr",
+      "expert_name": "Conor Orr",
+      "source": "fantasynerds",
+      "outlet": "NFL Around the League",
+      "game_id": "2026_07_IND_MIN",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "bucky-brooks",
+      "expert_name": "Bucky Brooks",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_IND_MIN",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_MIA_NYJ",
+      "pick": "NYJ",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "mike-clay",
       "expert_name": "Mike Clay",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_MIA_NYJ",
+      "pick": "NYJ",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-middlehurst-schwartz",
+      "expert_name": "Mike Middlehurst-Schwartz",
+      "source": "fantasynerds",
+      "outlet": "USA Today",
+      "game_id": "2026_07_MIA_NYJ",
+      "pick": "NYJ",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_MIA_NYJ",
+      "pick": "NYJ",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tyler-sullivan",
+      "expert_name": "Tyler Sullivan",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_MIA_NYJ",
+      "pick": "NYJ",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "eric-moody",
+      "expert_name": "Eric Moody",
       "source": "fantasynerds",
       "outlet": "ESPN",
       "game_id": "2026_07_MIA_NYJ",
@@ -665,6 +1889,15 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "ethan-mcreynolds",
+      "expert_name": "Ethan McReynolds",
+      "source": "fantasynerds",
+      "outlet": "Fox 13 Seattle",
+      "game_id": "2026_07_MIA_NYJ",
+      "pick": "NYJ",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "yahoo-users",
       "expert_name": "Yahoo Users",
       "source": "fantasynerds",
@@ -674,10 +1907,46 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_MIA_NYJ",
+      "pick": "NYJ",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "matt-bowen",
       "expert_name": "Matt Bowen",
       "source": "fantasynerds",
       "outlet": "ESPN",
+      "game_id": "2026_07_MIA_NYJ",
+      "pick": "NYJ",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pamela-maldonado",
+      "expert_name": "Pamela Maldonado",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_MIA_NYJ",
+      "pick": "NYJ",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "cynthia-frelund",
+      "expert_name": "Cynthia Frelund",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_MIA_NYJ",
+      "pick": "NYJ",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jared-dubin",
+      "expert_name": "Jared Dubin",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
       "game_id": "2026_07_MIA_NYJ",
       "pick": "NYJ",
       "pick_type": "straight_up"
@@ -719,6 +1988,42 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "ben-solak",
+      "expert_name": "Ben Solak",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_MIA_NYJ",
+      "pick": "NYJ",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "john-breech",
+      "expert_name": "John Breech",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_MIA_NYJ",
+      "pick": "NYJ",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_MIA_NYJ",
+      "pick": "NYJ",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "colleen-wolfe",
+      "expert_name": "Colleen Wolfe",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_MIA_NYJ",
+      "pick": "NYJ",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "john-miller",
       "expert_name": "John Miller",
       "source": "fantasynerds",
@@ -728,8 +2033,98 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "jarrett-bell",
+      "expert_name": "Jarrett Bell",
+      "source": "fantasynerds",
+      "outlet": "USA Today",
+      "game_id": "2026_07_MIA_NYJ",
+      "pick": "NYJ",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tim-cowlishaw",
+      "expert_name": "Tim Cowlishaw",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2026_07_MIA_NYJ",
+      "pick": "NYJ",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-patra",
+      "expert_name": "Kevin Patra",
+      "source": "fantasynerds",
+      "outlet": "NFL Around the League",
+      "game_id": "2026_07_MIA_NYJ",
+      "pick": "NYJ",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "conor-orr",
+      "expert_name": "Conor Orr",
+      "source": "fantasynerds",
+      "outlet": "NFL Around the League",
+      "game_id": "2026_07_MIA_NYJ",
+      "pick": "NYJ",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "bucky-brooks",
+      "expert_name": "Bucky Brooks",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_MIA_NYJ",
+      "pick": "NYJ",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_CLE_TEN",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "mike-clay",
       "expert_name": "Mike Clay",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_CLE_TEN",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-middlehurst-schwartz",
+      "expert_name": "Mike Middlehurst-Schwartz",
+      "source": "fantasynerds",
+      "outlet": "USA Today",
+      "game_id": "2026_07_CLE_TEN",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_CLE_TEN",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tyler-sullivan",
+      "expert_name": "Tyler Sullivan",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_CLE_TEN",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "eric-moody",
+      "expert_name": "Eric Moody",
       "source": "fantasynerds",
       "outlet": "ESPN",
       "game_id": "2026_07_CLE_TEN",
@@ -746,6 +2141,15 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "ethan-mcreynolds",
+      "expert_name": "Ethan McReynolds",
+      "source": "fantasynerds",
+      "outlet": "Fox 13 Seattle",
+      "game_id": "2026_07_CLE_TEN",
+      "pick": "TEN",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "yahoo-users",
       "expert_name": "Yahoo Users",
       "source": "fantasynerds",
@@ -755,10 +2159,46 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_CLE_TEN",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "matt-bowen",
       "expert_name": "Matt Bowen",
       "source": "fantasynerds",
       "outlet": "ESPN",
+      "game_id": "2026_07_CLE_TEN",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pamela-maldonado",
+      "expert_name": "Pamela Maldonado",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_CLE_TEN",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "cynthia-frelund",
+      "expert_name": "Cynthia Frelund",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_CLE_TEN",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jared-dubin",
+      "expert_name": "Jared Dubin",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
       "game_id": "2026_07_CLE_TEN",
       "pick": "CLE",
       "pick_type": "straight_up"
@@ -800,6 +2240,42 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "ben-solak",
+      "expert_name": "Ben Solak",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_CLE_TEN",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "john-breech",
+      "expert_name": "John Breech",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_CLE_TEN",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_CLE_TEN",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "colleen-wolfe",
+      "expert_name": "Colleen Wolfe",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_CLE_TEN",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "john-miller",
       "expert_name": "John Miller",
       "source": "fantasynerds",
@@ -809,8 +2285,98 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "jarrett-bell",
+      "expert_name": "Jarrett Bell",
+      "source": "fantasynerds",
+      "outlet": "USA Today",
+      "game_id": "2026_07_CLE_TEN",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tim-cowlishaw",
+      "expert_name": "Tim Cowlishaw",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2026_07_CLE_TEN",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-patra",
+      "expert_name": "Kevin Patra",
+      "source": "fantasynerds",
+      "outlet": "NFL Around the League",
+      "game_id": "2026_07_CLE_TEN",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "conor-orr",
+      "expert_name": "Conor Orr",
+      "source": "fantasynerds",
+      "outlet": "NFL Around the League",
+      "game_id": "2026_07_CLE_TEN",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "bucky-brooks",
+      "expert_name": "Bucky Brooks",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_CLE_TEN",
+      "pick": "CLE",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_DEN_ARI",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "mike-clay",
       "expert_name": "Mike Clay",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_DEN_ARI",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-middlehurst-schwartz",
+      "expert_name": "Mike Middlehurst-Schwartz",
+      "source": "fantasynerds",
+      "outlet": "USA Today",
+      "game_id": "2026_07_DEN_ARI",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_DEN_ARI",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tyler-sullivan",
+      "expert_name": "Tyler Sullivan",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_DEN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "eric-moody",
+      "expert_name": "Eric Moody",
       "source": "fantasynerds",
       "outlet": "ESPN",
       "game_id": "2026_07_DEN_ARI",
@@ -827,6 +2393,15 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "ethan-mcreynolds",
+      "expert_name": "Ethan McReynolds",
+      "source": "fantasynerds",
+      "outlet": "Fox 13 Seattle",
+      "game_id": "2026_07_DEN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "yahoo-users",
       "expert_name": "Yahoo Users",
       "source": "fantasynerds",
@@ -836,10 +2411,46 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_DEN_ARI",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "matt-bowen",
       "expert_name": "Matt Bowen",
       "source": "fantasynerds",
       "outlet": "ESPN",
+      "game_id": "2026_07_DEN_ARI",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pamela-maldonado",
+      "expert_name": "Pamela Maldonado",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_DEN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "cynthia-frelund",
+      "expert_name": "Cynthia Frelund",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_DEN_ARI",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jared-dubin",
+      "expert_name": "Jared Dubin",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
       "game_id": "2026_07_DEN_ARI",
       "pick": "DEN",
       "pick_type": "straight_up"
@@ -881,6 +2492,42 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "ben-solak",
+      "expert_name": "Ben Solak",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_DEN_ARI",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "john-breech",
+      "expert_name": "John Breech",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_DEN_ARI",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_DEN_ARI",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "colleen-wolfe",
+      "expert_name": "Colleen Wolfe",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_DEN_ARI",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "john-miller",
       "expert_name": "John Miller",
       "source": "fantasynerds",
@@ -890,8 +2537,98 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "jarrett-bell",
+      "expert_name": "Jarrett Bell",
+      "source": "fantasynerds",
+      "outlet": "USA Today",
+      "game_id": "2026_07_DEN_ARI",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tim-cowlishaw",
+      "expert_name": "Tim Cowlishaw",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2026_07_DEN_ARI",
+      "pick": "ARI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-patra",
+      "expert_name": "Kevin Patra",
+      "source": "fantasynerds",
+      "outlet": "NFL Around the League",
+      "game_id": "2026_07_DEN_ARI",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "conor-orr",
+      "expert_name": "Conor Orr",
+      "source": "fantasynerds",
+      "outlet": "NFL Around the League",
+      "game_id": "2026_07_DEN_ARI",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "bucky-brooks",
+      "expert_name": "Bucky Brooks",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_DEN_ARI",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_GB_DET",
+      "pick": "DET",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "mike-clay",
       "expert_name": "Mike Clay",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_GB_DET",
+      "pick": "DET",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-middlehurst-schwartz",
+      "expert_name": "Mike Middlehurst-Schwartz",
+      "source": "fantasynerds",
+      "outlet": "USA Today",
+      "game_id": "2026_07_GB_DET",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_GB_DET",
+      "pick": "DET",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tyler-sullivan",
+      "expert_name": "Tyler Sullivan",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_GB_DET",
+      "pick": "DET",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "eric-moody",
+      "expert_name": "Eric Moody",
       "source": "fantasynerds",
       "outlet": "ESPN",
       "game_id": "2026_07_GB_DET",
@@ -908,10 +2645,28 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "ethan-mcreynolds",
+      "expert_name": "Ethan McReynolds",
+      "source": "fantasynerds",
+      "outlet": "Fox 13 Seattle",
+      "game_id": "2026_07_GB_DET",
+      "pick": "DET",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "yahoo-users",
       "expert_name": "Yahoo Users",
       "source": "fantasynerds",
       "outlet": "Yahoo Sports",
+      "game_id": "2026_07_GB_DET",
+      "pick": "DET",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
       "game_id": "2026_07_GB_DET",
       "pick": "DET",
       "pick_type": "straight_up"
@@ -923,6 +2678,33 @@
       "outlet": "ESPN",
       "game_id": "2026_07_GB_DET",
       "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pamela-maldonado",
+      "expert_name": "Pamela Maldonado",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_GB_DET",
+      "pick": "DET",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "cynthia-frelund",
+      "expert_name": "Cynthia Frelund",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_GB_DET",
+      "pick": "DET",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jared-dubin",
+      "expert_name": "Jared Dubin",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_GB_DET",
+      "pick": "DET",
       "pick_type": "straight_up"
     },
     {
@@ -962,6 +2744,42 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "ben-solak",
+      "expert_name": "Ben Solak",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_GB_DET",
+      "pick": "DET",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "john-breech",
+      "expert_name": "John Breech",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_GB_DET",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_GB_DET",
+      "pick": "DET",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "colleen-wolfe",
+      "expert_name": "Colleen Wolfe",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_GB_DET",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "john-miller",
       "expert_name": "John Miller",
       "source": "fantasynerds",
@@ -971,8 +2789,98 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "jarrett-bell",
+      "expert_name": "Jarrett Bell",
+      "source": "fantasynerds",
+      "outlet": "USA Today",
+      "game_id": "2026_07_GB_DET",
+      "pick": "DET",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tim-cowlishaw",
+      "expert_name": "Tim Cowlishaw",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2026_07_GB_DET",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-patra",
+      "expert_name": "Kevin Patra",
+      "source": "fantasynerds",
+      "outlet": "NFL Around the League",
+      "game_id": "2026_07_GB_DET",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "conor-orr",
+      "expert_name": "Conor Orr",
+      "source": "fantasynerds",
+      "outlet": "NFL Around the League",
+      "game_id": "2026_07_GB_DET",
+      "pick": "DET",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "bucky-brooks",
+      "expert_name": "Bucky Brooks",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_GB_DET",
+      "pick": "GB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_LA_LV",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "mike-clay",
       "expert_name": "Mike Clay",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_LA_LV",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-middlehurst-schwartz",
+      "expert_name": "Mike Middlehurst-Schwartz",
+      "source": "fantasynerds",
+      "outlet": "USA Today",
+      "game_id": "2026_07_LA_LV",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_LA_LV",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tyler-sullivan",
+      "expert_name": "Tyler Sullivan",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_LA_LV",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "eric-moody",
+      "expert_name": "Eric Moody",
       "source": "fantasynerds",
       "outlet": "ESPN",
       "game_id": "2026_07_LA_LV",
@@ -989,6 +2897,15 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "ethan-mcreynolds",
+      "expert_name": "Ethan McReynolds",
+      "source": "fantasynerds",
+      "outlet": "Fox 13 Seattle",
+      "game_id": "2026_07_LA_LV",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "yahoo-users",
       "expert_name": "Yahoo Users",
       "source": "fantasynerds",
@@ -998,10 +2915,46 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_LA_LV",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "matt-bowen",
       "expert_name": "Matt Bowen",
       "source": "fantasynerds",
       "outlet": "ESPN",
+      "game_id": "2026_07_LA_LV",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pamela-maldonado",
+      "expert_name": "Pamela Maldonado",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_LA_LV",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "cynthia-frelund",
+      "expert_name": "Cynthia Frelund",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_LA_LV",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jared-dubin",
+      "expert_name": "Jared Dubin",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
       "game_id": "2026_07_LA_LV",
       "pick": "LA",
       "pick_type": "straight_up"
@@ -1043,6 +2996,42 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "ben-solak",
+      "expert_name": "Ben Solak",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_LA_LV",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "john-breech",
+      "expert_name": "John Breech",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_LA_LV",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_LA_LV",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "colleen-wolfe",
+      "expert_name": "Colleen Wolfe",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_LA_LV",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "john-miller",
       "expert_name": "John Miller",
       "source": "fantasynerds",
@@ -1052,6 +3041,60 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "jarrett-bell",
+      "expert_name": "Jarrett Bell",
+      "source": "fantasynerds",
+      "outlet": "USA Today",
+      "game_id": "2026_07_LA_LV",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tim-cowlishaw",
+      "expert_name": "Tim Cowlishaw",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2026_07_LA_LV",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-patra",
+      "expert_name": "Kevin Patra",
+      "source": "fantasynerds",
+      "outlet": "NFL Around the League",
+      "game_id": "2026_07_LA_LV",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "conor-orr",
+      "expert_name": "Conor Orr",
+      "source": "fantasynerds",
+      "outlet": "NFL Around the League",
+      "game_id": "2026_07_LA_LV",
+      "pick": "LA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "bucky-brooks",
+      "expert_name": "Bucky Brooks",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_LA_LV",
+      "pick": "LV",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_KC_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "mike-clay",
       "expert_name": "Mike Clay",
       "source": "fantasynerds",
@@ -1061,10 +3104,55 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "mike-middlehurst-schwartz",
+      "expert_name": "Mike Middlehurst-Schwartz",
+      "source": "fantasynerds",
+      "outlet": "USA Today",
+      "game_id": "2026_07_KC_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_KC_SEA",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tyler-sullivan",
+      "expert_name": "Tyler Sullivan",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_KC_SEA",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "eric-moody",
+      "expert_name": "Eric Moody",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_KC_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "lindsey-thiry",
       "expert_name": "Lindsey Thiry",
       "source": "fantasynerds",
       "outlet": "ESPN",
+      "game_id": "2026_07_KC_SEA",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ethan-mcreynolds",
+      "expert_name": "Ethan McReynolds",
+      "source": "fantasynerds",
+      "outlet": "Fox 13 Seattle",
       "game_id": "2026_07_KC_SEA",
       "pick": "KC",
       "pick_type": "straight_up"
@@ -1079,12 +3167,48 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_KC_SEA",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "matt-bowen",
       "expert_name": "Matt Bowen",
       "source": "fantasynerds",
       "outlet": "ESPN",
       "game_id": "2026_07_KC_SEA",
       "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pamela-maldonado",
+      "expert_name": "Pamela Maldonado",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_KC_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "cynthia-frelund",
+      "expert_name": "Cynthia Frelund",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_KC_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jared-dubin",
+      "expert_name": "Jared Dubin",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_KC_SEA",
+      "pick": "SEA",
       "pick_type": "straight_up"
     },
     {
@@ -1124,6 +3248,42 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "ben-solak",
+      "expert_name": "Ben Solak",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_KC_SEA",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "john-breech",
+      "expert_name": "John Breech",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_KC_SEA",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_KC_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "colleen-wolfe",
+      "expert_name": "Colleen Wolfe",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_KC_SEA",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "john-miller",
       "expert_name": "John Miller",
       "source": "fantasynerds",
@@ -1133,8 +3293,98 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "jarrett-bell",
+      "expert_name": "Jarrett Bell",
+      "source": "fantasynerds",
+      "outlet": "USA Today",
+      "game_id": "2026_07_KC_SEA",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tim-cowlishaw",
+      "expert_name": "Tim Cowlishaw",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2026_07_KC_SEA",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-patra",
+      "expert_name": "Kevin Patra",
+      "source": "fantasynerds",
+      "outlet": "NFL Around the League",
+      "game_id": "2026_07_KC_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "conor-orr",
+      "expert_name": "Conor Orr",
+      "source": "fantasynerds",
+      "outlet": "NFL Around the League",
+      "game_id": "2026_07_KC_SEA",
+      "pick": "SEA",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "bucky-brooks",
+      "expert_name": "Bucky Brooks",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_KC_SEA",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jamey-eisenberg",
+      "expert_name": "Jamey Eisenberg",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_DAL_PHI",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "mike-clay",
       "expert_name": "Mike Clay",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_DAL_PHI",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-middlehurst-schwartz",
+      "expert_name": "Mike Middlehurst-Schwartz",
+      "source": "fantasynerds",
+      "outlet": "USA Today",
+      "game_id": "2026_07_DAL_PHI",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "ryan-wilson",
+      "expert_name": "Ryan Wilson",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_DAL_PHI",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tyler-sullivan",
+      "expert_name": "Tyler Sullivan",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_DAL_PHI",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "eric-moody",
+      "expert_name": "Eric Moody",
       "source": "fantasynerds",
       "outlet": "ESPN",
       "game_id": "2026_07_DAL_PHI",
@@ -1151,6 +3401,15 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "ethan-mcreynolds",
+      "expert_name": "Ethan McReynolds",
+      "source": "fantasynerds",
+      "outlet": "Fox 13 Seattle",
+      "game_id": "2026_07_DAL_PHI",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "yahoo-users",
       "expert_name": "Yahoo Users",
       "source": "fantasynerds",
@@ -1160,10 +3419,46 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "pete-prisco",
+      "expert_name": "Pete Prisco",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_DAL_PHI",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "matt-bowen",
       "expert_name": "Matt Bowen",
       "source": "fantasynerds",
       "outlet": "ESPN",
+      "game_id": "2026_07_DAL_PHI",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "pamela-maldonado",
+      "expert_name": "Pamela Maldonado",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_DAL_PHI",
+      "pick": "PHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "cynthia-frelund",
+      "expert_name": "Cynthia Frelund",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_DAL_PHI",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jared-dubin",
+      "expert_name": "Jared Dubin",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
       "game_id": "2026_07_DAL_PHI",
       "pick": "DAL",
       "pick_type": "straight_up"
@@ -1205,10 +3500,91 @@
       "pick_type": "straight_up"
     },
     {
+      "expert": "ben-solak",
+      "expert_name": "Ben Solak",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_DAL_PHI",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "john-breech",
+      "expert_name": "John Breech",
+      "source": "fantasynerds",
+      "outlet": "CBS Sports",
+      "game_id": "2026_07_DAL_PHI",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jeremy-fowler",
+      "expert_name": "Jeremy Fowler",
+      "source": "fantasynerds",
+      "outlet": "ESPN",
+      "game_id": "2026_07_DAL_PHI",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "colleen-wolfe",
+      "expert_name": "Colleen Wolfe",
+      "source": "fantasynerds",
+      "outlet": "NFL",
+      "game_id": "2026_07_DAL_PHI",
+      "pick": "PHI",
+      "pick_type": "straight_up"
+    },
+    {
       "expert": "john-miller",
       "expert_name": "John Miller",
       "source": "fantasynerds",
       "outlet": "NBC 26",
+      "game_id": "2026_07_DAL_PHI",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jarrett-bell",
+      "expert_name": "Jarrett Bell",
+      "source": "fantasynerds",
+      "outlet": "USA Today",
+      "game_id": "2026_07_DAL_PHI",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "tim-cowlishaw",
+      "expert_name": "Tim Cowlishaw",
+      "source": "fantasynerds",
+      "outlet": "Dallas Morning News",
+      "game_id": "2026_07_DAL_PHI",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "kevin-patra",
+      "expert_name": "Kevin Patra",
+      "source": "fantasynerds",
+      "outlet": "NFL Around the League",
+      "game_id": "2026_07_DAL_PHI",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "conor-orr",
+      "expert_name": "Conor Orr",
+      "source": "fantasynerds",
+      "outlet": "NFL Around the League",
+      "game_id": "2026_07_DAL_PHI",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "bucky-brooks",
+      "expert_name": "Bucky Brooks",
+      "source": "fantasynerds",
+      "outlet": "NFL",
       "game_id": "2026_07_DAL_PHI",
       "pick": "DAL",
       "pick_type": "straight_up"
