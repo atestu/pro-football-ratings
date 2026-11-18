@@ -1,0 +1,676 @@
+{
+  "season": 2026,
+  "week": 11,
+  "season_type": "REG",
+  "scraped_at": "2026-11-18T21:07:23Z",
+  "sources": [
+    "espn_talentpicks"
+  ],
+  "games": [
+    {
+      "game_id": "2026_11_IND_HOU",
+      "away_team": "IND",
+      "home_team": "HOU",
+      "kickoff": null
+    },
+    {
+      "game_id": "2026_11_ARI_KC",
+      "away_team": "ARI",
+      "home_team": "KC",
+      "kickoff": null
+    },
+    {
+      "game_id": "2026_11_BAL_CAR",
+      "away_team": "BAL",
+      "home_team": "CAR",
+      "kickoff": null
+    },
+    {
+      "game_id": "2026_11_MIA_BUF",
+      "away_team": "MIA",
+      "home_team": "BUF",
+      "kickoff": null
+    },
+    {
+      "game_id": "2026_11_NO_CHI",
+      "away_team": "NO",
+      "home_team": "CHI",
+      "kickoff": null
+    },
+    {
+      "game_id": "2026_11_TB_DET",
+      "away_team": "TB",
+      "home_team": "DET",
+      "kickoff": null
+    },
+    {
+      "game_id": "2026_11_TEN_DAL",
+      "away_team": "TEN",
+      "home_team": "DAL",
+      "kickoff": null
+    },
+    {
+      "game_id": "2026_11_PIT_PHI",
+      "away_team": "PIT",
+      "home_team": "PHI",
+      "kickoff": null
+    },
+    {
+      "game_id": "2026_11_NYJ_LAC",
+      "away_team": "NYJ",
+      "home_team": "LAC",
+      "kickoff": null
+    },
+    {
+      "game_id": "2026_11_JAX_NYG",
+      "away_team": "JAX",
+      "home_team": "NYG",
+      "kickoff": null
+    },
+    {
+      "game_id": "2026_11_LV_DEN",
+      "away_team": "LV",
+      "home_team": "DEN",
+      "kickoff": null
+    },
+    {
+      "game_id": "2026_11_MIN_SF",
+      "away_team": "MIN",
+      "home_team": "SF",
+      "kickoff": null
+    },
+    {
+      "game_id": "2026_11_CIN_WAS",
+      "away_team": "CIN",
+      "home_team": "WAS",
+      "kickoff": null
+    }
+  ],
+  "picks": [
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_IND_HOU",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_ARI_KC",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_BAL_CAR",
+      "pick": "BAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_MIA_BUF",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_NO_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_TB_DET",
+      "pick": "DET",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_TEN_DAL",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_PIT_PHI",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_NYJ_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_JAX_NYG",
+      "pick": "JAX",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_LV_DEN",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_MIN_SF",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "matt-bowen",
+      "expert_name": "Matt Bowen",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_CIN_WAS",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_IND_HOU",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_ARI_KC",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_BAL_CAR",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_MIA_BUF",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_NO_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_TB_DET",
+      "pick": "DET",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_TEN_DAL",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_PIT_PHI",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_NYJ_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_JAX_NYG",
+      "pick": "NYG",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_LV_DEN",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_MIN_SF",
+      "pick": "MIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "seth-wickersham",
+      "expert_name": "Seth Wickersham",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_CIN_WAS",
+      "pick": "WAS",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_IND_HOU",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_ARI_KC",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_BAL_CAR",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_MIA_BUF",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_NO_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_TB_DET",
+      "pick": "DET",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_TEN_DAL",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_PIT_PHI",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_NYJ_LAC",
+      "pick": "NYJ",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_JAX_NYG",
+      "pick": "JAX",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_LV_DEN",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_MIN_SF",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "jason-reid",
+      "expert_name": "Jason Reid",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_CIN_WAS",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_IND_HOU",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_ARI_KC",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_BAL_CAR",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_MIA_BUF",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_NO_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_TB_DET",
+      "pick": "DET",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_TEN_DAL",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_PIT_PHI",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_NYJ_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_JAX_NYG",
+      "pick": "JAX",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_LV_DEN",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_MIN_SF",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "mike-clay",
+      "expert_name": "Mike Clay",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_CIN_WAS",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_IND_HOU",
+      "pick": "HOU",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_ARI_KC",
+      "pick": "KC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_BAL_CAR",
+      "pick": "CAR",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_MIA_BUF",
+      "pick": "BUF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_NO_CHI",
+      "pick": "CHI",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_TB_DET",
+      "pick": "TB",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_TEN_DAL",
+      "pick": "DAL",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_PIT_PHI",
+      "pick": "PIT",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_NYJ_LAC",
+      "pick": "LAC",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_JAX_NYG",
+      "pick": "JAX",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_LV_DEN",
+      "pick": "DEN",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_MIN_SF",
+      "pick": "SF",
+      "pick_type": "straight_up"
+    },
+    {
+      "expert": "dan-graziano",
+      "expert_name": "Dan Graziano",
+      "source": "espn_talentpicks",
+      "outlet": "ESPN",
+      "game_id": "2026_11_CIN_WAS",
+      "pick": "CIN",
+      "pick_type": "straight_up"
+    }
+  ]
+}
